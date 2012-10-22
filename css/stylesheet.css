@@ -332,6 +332,17 @@ Full-Width Styles
   color: inherit;
 }
 
+.post .credits {
+  font-style: italic;
+}
+
+#main_content .meta {
+  padding-top: .5em;
+  font-size: 80%;
+  line-height: 80%;
+  opacity: .7;
+}
+
 .index img.portrait {
   float: left;
   margin: 0 20px 20px 0;
