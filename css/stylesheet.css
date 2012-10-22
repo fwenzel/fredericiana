@@ -64,6 +64,8 @@ Theme Styles
 
 body {
   box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
   color: #373737;
   background: #004A63;
   font-size: 16px;
@@ -346,6 +348,10 @@ Full-Width Styles
 ul.posts span {
   display: inline-block;
   width: 6em;
+}
+
+.gist pre {
+  width: auto;
 }
 
 #sidebar {
