@@ -326,6 +326,10 @@ Full-Width Styles
   max-width: 575px;
 }
 
+#main_content h1 a {
+  color: inherit;
+}
+
 .index img.portrait {
   float: left;
   margin: 0 20px 20px 0;
@@ -337,6 +341,11 @@ Full-Width Styles
 .index ul li {
   list-style: none;
   padding-left: 0;
+}
+
+ul.posts span {
+  display: inline-block;
+  width: 6em;
 }
 
 #sidebar {
