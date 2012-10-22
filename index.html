@@ -1,60 +1,20 @@
-<!DOCTYPE html>
-<html>
+---
+layout: base
+title: fredericiana
 
-  <head>
-    <meta charset='utf-8' />
-    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
-    <meta name="description" content="fredericiana - open source, the web, and german-american oddities" />
+bodyclass: index
+---
+<section class="inner">
+  <p><img src="images/flintstone.jpg" alt="Fred Flintstone" class="portrait"><strong>Fred Wenzel</strong> manages the Developer Ecosystem team at <a href="http://mozilla.org">Mozilla</a>. <em>fredericiana</em> is his blog about the things he runs across between American West Coast and southern Germany.</p>
+  <p>Fred may be slightly less famous than his pre-historic namesake, but he's also significantly less likely to be eaten by a saber-tooth tiger. So we'll call this one a draw.</p>
 
-    <link href="http://fonts.googleapis.com/css?family=Goudy+Bookletter+1911|Droid+Serif:400,400italic,700&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+  <h3>Posts</h3>
+  <ul class="posts">
+    {% for post in site.posts limit:10 %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
 
-    <title>fredericiana</title>
-  </head>
-
-  <body>
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <section id="headers">
-            <h1 id="project_title"><a href="/">fredericiana</a></h1>
-            <h2 id="project_tagline">open source, the web, and german-american oddities</h2>
-          </section>
-        </header>
-    </div>
-
-    <div id="main_content_wrap" class="outer">
-      <div class="inner group">
-        <section id="main_content">
-          <h3>A simple, legible layout.</h3>
-          <p>Slate is a simple theme with a focus on content legibility and code styles. Use it for your documentation or your personal site to ensure that you're looking good across a range of devices and screen sizes.</p>
-          <p>Slate is a simple theme with a focus on content legibility and code styles. Use it for your documentation or your personal site to ensure that you're looking good across a range of devices and screen sizes.</p>
-          <p>Slate is a simple theme with a focus on content legibility and code styles. Use it for your documentation or your personal site to ensure that you're looking good across a range of devices and screen sizes.</p>
-
-          <p>Add your content here and get the ball rolling. If you want to generate your automatically page with the Slate theme, checkout <a href="http://pages.github.com">GitHub Pages</a>.</p>
-        </section>
-
-        <nav id="sidebar">
-          <h2>about fredericiana</h2>
-          <p><a href="#">Fred Wenzel</a> manages the Developer Ecosystem team at <a href="http://mozilla.org">Mozilla</a>. <em>fredericiana</em> is his blog about the things he runs across between American West Coast and southern Germany.</p>
-
-          <h2>elsewhere</h2>
-          <ul>
-            <li><a href="#">flickr</a></li>
-            <li><a href="#">twitter</a></li>
-            <li><a href="#">github</a></li>
-          </ul>
-
-          <p class="cvr">Plan your next holiday with a <a href="http://www.motorhomebookers.com/" class="nowrap">Camper Van Rental</a>. Enjoy!</p>
-        </nav>
-      </div>
-    </div>
-
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">Copyright &copy; 2012 fredericiana | fredericiana theme based on <a href="https://github.com/jsncostello">"Slate"</a> |
-        Hosted on <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
-
-  </body>
-</html>
+  <h3>elsewhere on the net</h3>
+  {% include elsewhere.html %}
+</section>
