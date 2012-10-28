@@ -10,7 +10,7 @@
     <link rel="stylesheet" type="text/css" media="screen" href="/css/stylesheet.css">
     <link rel="shortcut icon" href="/images/favicon.ico">
 
-    <title>fredericiana</title>
+    <title>{% if page.title != empty %}{{ page.title }} | {% endif %}fredericiana</title>
   </head>
 
   <body class="{{ page.bodyclass }}">
