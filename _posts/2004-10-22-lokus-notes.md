@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<p><img width="110" height="83" border="0" hspace="10" align="left" src="/wp-content/olduploads/nmap-klein.serendipityThumb.jpg" alt=""  />Gerade bekomme ich von einem Ettlinger Amt eine E-Mail mit einem völlig verhunzten <a target="_BLANK" href="http://www.springstubbe.net/usenet/quote.htm#kammq" title="http://www.springstubbe.net/usenet/quote.htm#kammq" onmouseover="window.status='http://www.springstubbe.net/usenet/quote.htm#kammq';return true;" onmouseout="window.status='';return true;">Kammquoting</a> zugesandt.</p>
+<p><img width="110" height="83" border="0" hspace="10" align="left" src="/media/wp/nmap-klein.serendipityThumb.jpg" alt=""  />Gerade bekomme ich von einem Ettlinger Amt eine E-Mail mit einem völlig verhunzten <a target="_BLANK" href="http://www.springstubbe.net/usenet/quote.htm#kammq" title="http://www.springstubbe.net/usenet/quote.htm#kammq" onmouseover="window.status='http://www.springstubbe.net/usenet/quote.htm#kammq';return true;" onmouseout="window.status='';return true;">Kammquoting</a> zugesandt.</p>
 
 <p>Ein Blick in den Header führt nichts Überraschendes zu Tage:<br />
 <blockquote></blockquote></p>

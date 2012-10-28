@@ -13,6 +13,6 @@ Aus meiner unendlichen Reihe "Wetter in Oregon" ;) : Letzte Woche hatte ich Besu
 
 Und jetzt, wo alle wieder weg sind:
 
-<img id="image614" src="http://fredericiana.de/uploads/2006/06/corvallis-wetter.jpg" width="300" alt="Wetter in Corvallis" class="centered" />
+<img id="image614" src="/media/wp/2006/06/corvallis-wetter.jpg" width="300" alt="Wetter in Corvallis" class="centered" />
 
 War ja klar.

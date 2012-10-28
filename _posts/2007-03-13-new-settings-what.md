@@ -13,7 +13,7 @@ layout: post
 ---
 When I just closed Firefox (on OSX), I got this window:
 
-<img src='http://fredericiana.com/wp-content/uploads/2007/03/firefox-new-settings-osx.jpg' alt='Firefox New Settings Window' />
+<img src='/media/wp/2007/03/firefox-new-settings-osx.jpg' alt='Firefox New Settings Window' />
 <blockquote style="display:none">Firefox -- New Settings
 New Settings have been created for this application. Do you wish to use these settings from now on? [Use new settings] [Use original settings]</blockquote>
 

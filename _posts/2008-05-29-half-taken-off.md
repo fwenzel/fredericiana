@@ -11,7 +11,7 @@ meta:
   _edit_last: "2"
 layout: post
 ---
-<img src="http://fredericiana.com/wp-content/uploads/2008/05/pittsburgh-wikipedia.jpg" alt="Pittsburgh (source: Wikipedia.org)" title="Pittsburgh" width="250" height="166" class="alignright size-full wp-image-1286" />My take-off to Pittsburgh is coming closer and closer, and in the meantime, my to-do list seems to be getting longer and longer, but I am bravely fighting through it :).
+<img src="/media/wp/2008/05/pittsburgh-wikipedia.jpg" alt="Pittsburgh (source: Wikipedia.org)" title="Pittsburgh" width="250" height="166" class="alignright size-full wp-image-1286" />My take-off to Pittsburgh is coming closer and closer, and in the meantime, my to-do list seems to be getting longer and longer, but I am bravely fighting through it :).
 
 What's kind of weird is the <strong>housing situation in Pittsburgh</strong>: I've been writing emails to a bunch of landlord and landladies that I found on craigslist, but most people want to rent out their rooms for a 12 months lease, minimum, and 9 months is not acceptable.
 

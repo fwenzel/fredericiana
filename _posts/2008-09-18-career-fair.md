@@ -22,4 +22,4 @@ Lucky as I am, I also got a USB stick from the Cisco booth (thanks Rob for givin
 
 Oh, and just in case anyone was wondering how high the percentage of international students at CMU is:
 
-<img src="http://fredericiana.com/wp-content/uploads/2008/09/careerfair-citizenship.jpg" alt="" title="Career Fair: US Citizenship Required" width="500" height="358" class="alignnone size-full wp-image-1557" />
+<img src="/media/wp/2008/09/careerfair-citizenship.jpg" alt="" title="Career Fair: US Citizenship Required" width="500" height="358" class="alignnone size-full wp-image-1557" />

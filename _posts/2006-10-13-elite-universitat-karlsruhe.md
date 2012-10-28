@@ -10,7 +10,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img id="image700" src="http://fredericiana.de/uploads/2006/10/uka-forschung.jpg" alt="Forschung an der Uni Karlsruhe; Quelle: Pressestelle der Uni KA" class="alignright" />Wahnsinn. Im spannenden Finale der "Elite-Universitäten" in Deutschland hat sich die Universität Karlsruhe neben der TU und LMU München gegen die Konkurrenz durchgesetzt und darf sich nun offiziell eine der drei Elite-Universitäten in Deutschland nennen. Sieger ist die Wissenschaft und das ganze Hochschulsystem, da sind sich <a href="http://www.spiegel.de/unispiegel/studium/0,1518,442428,00.html">Spiegel</a> und <a href="http://www.zeit.de/campus/2006/42/elitenwettbewerb_kommentar">die Zeit</a> einig.
+<img id="image700" src="/media/wp/2006/10/uka-forschung.jpg" alt="Forschung an der Uni Karlsruhe; Quelle: Pressestelle der Uni KA" class="alignright" />Wahnsinn. Im spannenden Finale der "Elite-Universitäten" in Deutschland hat sich die Universität Karlsruhe neben der TU und LMU München gegen die Konkurrenz durchgesetzt und darf sich nun offiziell eine der drei Elite-Universitäten in Deutschland nennen. Sieger ist die Wissenschaft und das ganze Hochschulsystem, da sind sich <a href="http://www.spiegel.de/unispiegel/studium/0,1518,442428,00.html">Spiegel</a> und <a href="http://www.zeit.de/campus/2006/42/elitenwettbewerb_kommentar">die Zeit</a> einig.
 
 <strong>Herzlichen Glückwunsch, Fridericiana!</strong>
 

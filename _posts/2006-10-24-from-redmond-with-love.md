@@ -16,7 +16,7 @@ layout: post
 ---
 The <strong><a href="http://blogs.msdn.com/ie/">Microsoft Internet Explorer Team</a></strong> sent us a <strong>cake</strong> for the <del datetime="2006-10-24T23:18:54+00:00">upcoming</del> release of <a href="http://getfirefox.com/">Firefox 2</a>!
 <!--more-->
-<!-- was: http://fredericiana.com/wp-content/uploads/2006/10/fromredmondwithlove.jpg -->
+<!-- was: /media/wp/2006/10/fromredmondwithlove.jpg -->
 <a class="imagelink" href="http://www.flickr.com/photos/jollyjake/278562314/" title="Microsoft Cake for the Firefox release"><img id="image115" src="http://static.flickr.com/118/278562314_14716c0232.jpg" alt="Microsoft Cake for the Firefox release" class="center" width="350" /></a>
 
 A big thanks to Redmond, Washington!

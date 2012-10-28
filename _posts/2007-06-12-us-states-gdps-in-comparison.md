@@ -12,7 +12,7 @@ layout: post
 ---
 This is a map of US states renamed for countries that have similar <a href="http://en.wikipedia.org/wiki/Gross_domestic_product">GDPs</a>:
 
-<a href="http://farm1.static.flickr.com/161/350816052_0a392a0d28_o.jpg"><img src='http://fredericiana.com/wp-content/uploads/2007/06/state_nation_gdp.jpg' alt='US States and countries with similar GDPs' /></a>
+<a href="http://farm1.static.flickr.com/161/350816052_0a392a0d28_o.jpg"><img src='/media/wp/2007/06/state_nation_gdp.jpg' alt='US States and countries with similar GDPs' /></a>
 (click for larger picture)
 
 This is quite interesting to see, how California's as strong as France and Texas as Canada, for example. (However <a href="http://bigpicture.typepad.com/comments/2007/01/countries_gdp_a.html#c27798765">elsewhere</a> people suggested that the raw GDP doesn't say much and per capita GDP would be a better comparison).

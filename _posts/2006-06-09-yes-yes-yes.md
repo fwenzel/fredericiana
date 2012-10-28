@@ -19,4 +19,4 @@ Doch dann, als ich in das Memorial Union Gebäude kam, erblickte ich es: Eine kl
 Dass die Bildqualität auf der Leinwand ganz und gar schrecklich ist (Ameisenkolonie?) macht mir auch gar nichts aus!
 
 <strong>Update:</strong> Hier ein hochqualitatives Foto von der Leinwand, vor der ich gerade sitze.
-<a class="imagelink" href="http://fredericiana.de/uploads/2006/06/germany-costarica-osumu.jpg" title="Germany vs Costa Rica at the OSU MU"><img id="image619" src="http://fredericiana.de/uploads/2006/06/germany-costarica-osumu.thumbnail.jpg" alt="Germany vs Costa Rica at the OSU MU" class="centered" /></a>
+<a class="imagelink" href="/media/wp/2006/06/germany-costarica-osumu.jpg" title="Germany vs Costa Rica at the OSU MU"><img id="image619" src="/media/wp/2006/06/germany-costarica-osumu.thumbnail.jpg" alt="Germany vs Costa Rica at the OSU MU" class="centered" /></a>

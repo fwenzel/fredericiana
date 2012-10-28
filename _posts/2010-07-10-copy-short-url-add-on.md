@@ -32,9 +32,9 @@ Either way, after a fraction of a second, you end up with a short URL in your cl
 
 My add-on won the contest in the "most useful" category. The prize was an awesome jetpack sweatshirt:
 
-<img src="http://fredericiana.com/wp-content/uploads/2010/07/jetpack-sweatshirt-front-278x300.jpg" alt="" title="Jetpack Sweatshirt" width="278" height="300" class="alignleft size-medium wp-image-2876" />
+<img src="/media/wp/2010/07/jetpack-sweatshirt-front-278x300.jpg" alt="" title="Jetpack Sweatshirt" width="278" height="300" class="alignleft size-medium wp-image-2876" />
 
-<img src="http://fredericiana.com/wp-content/uploads/2010/07/jetpack-sweatshirt-back-249x300.jpg" alt="" title="Jetpack Sweatshirt" width="249" height="300" class="alignnone size-medium wp-image-2875" />
+<img src="/media/wp/2010/07/jetpack-sweatshirt-back-249x300.jpg" alt="" title="Jetpack Sweatshirt" width="249" height="300" class="alignnone size-medium wp-image-2875" />
 
 If you want to check out the add-on, it is currently available (open source, of course) on the <a href="https://builder.mozillalabs.com/addons/by/112675/">add-ons builder website</a>. I also uploaded the <a href="https://addons.mozilla.org/en-US/firefox/addon/197224/">add-on</a> to AMO.
 

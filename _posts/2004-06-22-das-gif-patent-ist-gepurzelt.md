@@ -17,7 +17,7 @@ In den USA gilt es schon seit Juni 2003 nicht mehr.
 
 Für uns bedeutet das: kein Grund mehr, sich wie ein kleiner Junge zu fühlen, der Kirschen gestohlen hat, wenn man eine GIF-Datei auf seine Homepage stellt ;)... alles im grünen Bereich:
 
-<div align="center">Gleich mal so ne GIF-Datei ausprobieren...<br /><img border="0" hspace="5" src="/wp-content/olduploads/unilogo.gif" alt=""  /><br />tut das gut! ;)</div>
+<div align="center">Gleich mal so ne GIF-Datei ausprobieren...<br /><img border="0" hspace="5" src="/media/wp/unilogo.gif" alt=""  /><br />tut das gut! ;)</div>
 
 Und: Man muss sich nicht mehr mit Software rumärgern, die keine GIF-Unterstützung beinhaltet, weil die Entwickler keine Lizenz kaufen konnten (zum Beispiel alles, was mit <a href="http://www.gnu.org/philosophy/gif.html" title="http://www.gnu.org/philosophy/gif.html" onmouseover="window.status='http://www.gnu.org/philosophy/gif.html';return true;" onmouseout="window.status='';return true;">GNUs</a> zu tun hat).
 

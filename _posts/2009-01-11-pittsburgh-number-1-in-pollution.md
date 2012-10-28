@@ -17,7 +17,7 @@ meta:
   aktt_notify_twitter: "yes"
 layout: post
 ---
-[caption id="attachment_1931" align="alignright" width="240" caption="\"Pollution\", CC by-nc-sa licensed by Gilbert R. on flickr"]<img src="http://fredericiana.com/wp-content/uploads/2009/01/pollution.jpg" alt="&quot;Pollution&quot;, CC by-nc-sa licensed by Gilbert R. on flickr" title="Pollution" width="240" height="157" class="size-full wp-image-1931 alignright" />[/caption]Here's an "award" the city of Pittsburgh would probably prefer not to have "won". According to the 2008 American Lung Association’s <a href="http://www.stateoftheair.org/">State of the Air report</a>, Pittsburgh is the <strong>number one U.S. city most polluted by short-term particle pollution</strong>.
+[caption id="attachment_1931" align="alignright" width="240" caption="\"Pollution\", CC by-nc-sa licensed by Gilbert R. on flickr"]<img src="/media/wp/2009/01/pollution.jpg" alt="&quot;Pollution&quot;, CC by-nc-sa licensed by Gilbert R. on flickr" title="Pollution" width="240" height="157" class="size-full wp-image-1931 alignright" />[/caption]Here's an "award" the city of Pittsburgh would probably prefer not to have "won". According to the 2008 American Lung Association’s <a href="http://www.stateoftheair.org/">State of the Air report</a>, Pittsburgh is the <strong>number one U.S. city most polluted by short-term particle pollution</strong>.
 
 <blockquote><ol>
 	<li>Pittsburgh, Pa.</li>

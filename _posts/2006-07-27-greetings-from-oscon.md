@@ -10,7 +10,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img id="image83" src="http://fredericiana.com/wp-content/uploads/2006/07/oscon-small.png" alt="OSCON Logo" class="alignright" />So, here we are at <a href="http://conferences.oreillynet.com/os2006/" target="_blank">OSCON 2006</a> in Portland, OR. The first day of booth action is over, all t-shirts have been handed out to people, and I already got to meet a lot of very nice and interesting people.
+<img id="image83" src="/media/wp/2006/07/oscon-small.png" alt="OSCON Logo" class="alignright" />So, here we are at <a href="http://conferences.oreillynet.com/os2006/" target="_blank">OSCON 2006</a> in Portland, OR. The first day of booth action is over, all t-shirts have been handed out to people, and I already got to meet a lot of very nice and interesting people.
 
 Even though OSCON is not the biggest free software conference in the world, it seems to be one of the most important ones.
 

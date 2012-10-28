@@ -16,7 +16,7 @@ Dementsprechend schmerzhaft ist es, wenn ich auf andere Webseiten gehe und dort 
 
 Aber Spaß beiseite:
 
-<img id="image735" src="http://fredericiana.de/uploads/2006/12/studivz.jpg" alt="Studivz Fehlermeldung" class="centered" />
+<img id="image735" src="/media/wp/2006/12/studivz.jpg" alt="Studivz Fehlermeldung" class="centered" />
 
 Diese Nachricht steht da nur leider schon seit zwei Tagen *lach*
 
@@ -28,7 +28,7 @@ Achja, nochwas: <strong>Galgenhumor</strong> gefällig? <a href="http://www.fric
 
 <strong>Update:</strong> Während Päde auf das <a href="http://pennervz.net">PennerVz</a> hinweist (danke!), geht StudiVz in die fünfzehnte Downtime-Runde. Jetzt soll es bis Dienstag so bleiben:
 
-<img id="image738" src="http://fredericiana.de/uploads/2006/12/studivz2.jpg" alt="StudiVz, Fehlermeldung Nummer 2" class="centered" />
+<img id="image738" src="/media/wp/2006/12/studivz2.jpg" alt="StudiVz, Fehlermeldung Nummer 2" class="centered" />
 
 Dass es <strong>das</strong> Blog heißt, traue ich mich schon gar nicht mehr zu erwähnen; bei manchen Gesellen ist eben Hopfen und Malz verloren.
 

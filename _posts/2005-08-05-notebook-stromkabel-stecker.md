@@ -17,7 +17,7 @@ Bei ungewöhnlichen Steckern etc. befallen mich manchmal ernsthafte <em>"Wortfin
 
 Das Ding ist ein Kaltgerätekabel mit Schutzleiter für Notebooks (nicht das gleiche wie für normale PCs), es hat also nicht wie so ein zweiadriges Eurokabel <em>zwei Anschlüsse</em> sondern eben <em>drei</em>. Dadurch kommt eine charakteristische "Drei-Kreis-Form" heraus, von der ich keine Ahnung hatte, wie sie heißt.
 
-<img src='http://fredericiana.de/uploads/050805mickeymouseplug.jpg' alt='Mickey Mouse Plug oder Kleeblattstecker' class="centered border" />
+<img src='/media/wp/050805mickeymouseplug.jpg' alt='Mickey Mouse Plug oder Kleeblattstecker' class="centered border" />
 
 Aber nach ein bisschen Stöbern im Netz hatte ich Glück und für alle, die's auch wissen wollen:
 

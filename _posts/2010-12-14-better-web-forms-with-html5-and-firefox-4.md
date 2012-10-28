@@ -22,7 +22,7 @@ Firefox 4 <strong>understands</strong> these new input types and helps the user 
 
 Here is what this looks like in a recent prototype of the <a href="http://input.mozilla.com">Firefox Input</a> site:
 
-<a href="http://fredericiana.com/wp-content/uploads/2010/12/html5-feedback-forms-1.jpg"><img src="http://fredericiana.com/wp-content/uploads/2010/12/html5-feedback-forms-1-570x400.jpg" alt="" title="HTML5 Feedback Forms" width="570" height="400" class="aligncenter size-large wp-image-3079" /></a>
+<a href="/media/wp/2010/12/html5-feedback-forms-1.jpg"><img src="/media/wp/2010/12/html5-feedback-forms-1-570x400.jpg" alt="" title="HTML5 Feedback Forms" width="570" height="400" class="aligncenter size-large wp-image-3079" /></a>
 
 Another fun little feature, also pictured, is the <strong>placeholder</strong> text attribute. The grayed-out placeholder in a text box shows you an example of what you might enter into this field. Rather than explaining correct values in a huge label or a side note next to the field, developers can show their users much more easily what data they would like them to enter into the form fields.
 

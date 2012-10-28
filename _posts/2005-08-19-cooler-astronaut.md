@@ -13,7 +13,7 @@ Nachdem die Discovery zwischenzeitlich heile wieder auf der Erde angekommen ist,
 
 Besonders nett finde ich das Selbstportrait des Astronauten, der die Außenhülle des Spaceshuttles repariert hat. In der Spiegelung des Visiers (übrigens: verspiegelt mit echtem Gold :) weil ungefilterte Sonnenstrahlen <em>ziemlich ungesund</em> sein können) sieht man viele interessante Details.
 
-<img src='http://fredericiana.de/uploads/050819astronaut.jpg' alt='Astronaut Selbstportrait' class="centered" />
+<img src='/media/wp/050819astronaut.jpg' alt='Astronaut Selbstportrait' class="centered" />
 
 Das Bild gibt es natürlich auch in <a href="http://www.nasa.gov/images/content/124415main_image_feature_380a_ys_full.jpg">Originalgröße</a> (jaaa, Details) auf der <a href="http://www.nasa.gov/multimedia/imagegallery/image_feature_380.html">Nasa-Webseite</a>.
 

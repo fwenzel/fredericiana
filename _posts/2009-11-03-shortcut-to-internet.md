@@ -15,6 +15,6 @@ layout: post
 ---
 For work, I have a virtual machine serving one little purpose: To run Microsoft Internet Explorer 6, for the rare instances when I have to test a website with it. To make that a little more convenient and a little less painful, I just created a "desktop shortcut" for it, and look what it showed up as:
 
-<img src="http://fredericiana.com/wp-content/uploads/2009/11/shortcut.jpg" alt="Shortcut to Internet" title="Shortcut to Internet" width="189" height="128" class="alignnone size-full wp-image-2439" />
+<img src="/media/wp/2009/11/shortcut.jpg" alt="Shortcut to Internet" title="Shortcut to Internet" width="189" height="128" class="alignnone size-full wp-image-2439" />
 
 Haha, "Shortcut to Internet" -- this is classic.

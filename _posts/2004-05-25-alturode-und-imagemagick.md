@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img hspace="10" border="0" align="right" src="/wp-content/olduploads/nmap-klein.serendipityThumb.jpg" alt=""  />Als ich mein Weblog in Betrieb genommen habe, ist mir aufgefallen, dass mir bei meinem neuen (übrigens sehr zuverlässigen!) Provider weder <a href="http://www.imagemagick.org/" title="http://www.imagemagick.org/" onmouseover="window.status='http://www.imagemagick.org/';return true;" onmouseout="window.status='';return true;">ImageMagick</a> noch GD 2.0 zur Verfügung stand.
+<img hspace="10" border="0" align="right" src="/media/wp/nmap-klein.serendipityThumb.jpg" alt=""  />Als ich mein Weblog in Betrieb genommen habe, ist mir aufgefallen, dass mir bei meinem neuen (übrigens sehr zuverlässigen!) Provider weder <a href="http://www.imagemagick.org/" title="http://www.imagemagick.org/" onmouseover="window.status='http://www.imagemagick.org/';return true;" onmouseout="window.status='';return true;">ImageMagick</a> noch GD 2.0 zur Verfügung stand.
 
 &quot;Na toll, ein bilderloses Weblog - wie ätzend!&quot;
 

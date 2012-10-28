@@ -11,7 +11,7 @@ meta:
   aktt_notify_twitter: "yes"
 layout: post
 ---
-<a href="http://fredericiana.com/wp-content/uploads/2011/10/g-and-p-firefox.jpg"><img src="http://fredericiana.com/wp-content/uploads/2011/10/g-and-p-firefox-282x400.jpg" alt="" title="Geek and Poke, &quot;Hyperinflation&quot;" width="282" height="400" class="aligncenter size-large wp-image-4454" /></a>
+<a href="/media/wp/2011/10/g-and-p-firefox.jpg"><img src="/media/wp/2011/10/g-and-p-firefox-282x400.jpg" alt="" title="Geek and Poke, &quot;Hyperinflation&quot;" width="282" height="400" class="aligncenter size-large wp-image-4454" /></a>
 
 Funny, topical as always, and subtly critical of Firefox's rapid release cycle: A Geek and Poke comic called <a href="http://geekandpoke.typepad.com/geekandpoke/2011/10/hyperinflation.html">"Hyperinflation"</a>.
 

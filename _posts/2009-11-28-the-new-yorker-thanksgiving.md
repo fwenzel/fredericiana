@@ -18,7 +18,7 @@ layout: post
 ---
 While stumbling across the net, I found this, The New Yorker's Thanksgiving cover from 2006:
 
-<img src="http://fredericiana.com/wp-content/uploads/2009/11/new-yorker-thanksgiving.jpg" alt="The New Yorker: Thanksgiving" title="The New Yorker: Thanksgiving" width="600" height="819" class="alignnone size-full wp-image-2492" />
+<img src="/media/wp/2009/11/new-yorker-thanksgiving.jpg" alt="The New Yorker: Thanksgiving" title="The New Yorker: Thanksgiving" width="600" height="819" class="alignnone size-full wp-image-2492" />
 
 The illustration feels a little sad, though I am not sure what I am sadder about: That they can watch football and I don't ;) Or that digital distractions take away from the traditional family gathering called Thanksgiving.
 

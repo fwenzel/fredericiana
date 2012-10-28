@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src='http://fredericiana.de/uploads/minitrumpet.jpg' alt='Trompete' class="alignleft border" />Gestern in einer Bandprobe hat uns der Chef <em>Hänschen klein</em> spielen lassen.
+<img src='/media/wp/minitrumpet.jpg' alt='Trompete' class="alignleft border" />Gestern in einer Bandprobe hat uns der Chef <em>Hänschen klein</em> spielen lassen.
 
 <blockquote>Wie, Hänschen klein?</blockquote>
 

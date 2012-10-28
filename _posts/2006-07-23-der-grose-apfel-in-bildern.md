@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img id="image639" src="http://fredericiana.de/uploads/2006/07/nyc-0717-122900.jpg" alt="Lady Liberty" class="alignright" />So, vorbei ist der Urlaub in New York City. Ich habe so sehr geurlaubt, dass ich ganz das Bloggen vergaß ;)
+<img id="image639" src="/media/wp/2006/07/nyc-0717-122900.jpg" alt="Lady Liberty" class="alignright" />So, vorbei ist der Urlaub in New York City. Ich habe so sehr geurlaubt, dass ich ganz das Bloggen vergaß ;)
 
 Unsere Kameras waren aber um so aktiver: Unter dem Strich kommen wir auf über 500 mal mehr mal weniger sinnvolle Fotos, die satte 1,2 Gigabyte von meiner Festplatte verspeisen.
 

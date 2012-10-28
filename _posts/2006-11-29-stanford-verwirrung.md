@@ -13,7 +13,7 @@ layout: post
 ---
 <blockquote>Yeeeeah, about this whole <a href="http://www.stanford.edu/">Stanford</a> thing...</blockquote>
 
-<img id="image730" src="http://fredericiana.de/uploads/2006/11/standford-seal.gif" alt="Stanford University Seal" class="alignright" />Heute Abend wollte ich an einer Diskussionsrunde an der Stanford Universität teilnehmen: Genauer gesagt hatte die German Student Association der hiesigen Uni <a href="http://en.wikipedia.org/wiki/Josef_Joffe">Josef Joffe</a>, einen ehemaligen Chefredakteur und Herausgeber der Wochenzeitung <a href="http://zeit.de">die ZEIT</a> zu einem "Kamingespräch" eingeladen. Da ich schon ein paar mal zu Veranstaltungen der Stanford GSA eingeladen wurde, aber immer irgendetwas dazwischen kam, habe ich es diesmal ganz ehrlich versucht --
+<img id="image730" src="/media/wp/2006/11/standford-seal.gif" alt="Stanford University Seal" class="alignright" />Heute Abend wollte ich an einer Diskussionsrunde an der Stanford Universität teilnehmen: Genauer gesagt hatte die German Student Association der hiesigen Uni <a href="http://en.wikipedia.org/wiki/Josef_Joffe">Josef Joffe</a>, einen ehemaligen Chefredakteur und Herausgeber der Wochenzeitung <a href="http://zeit.de">die ZEIT</a> zu einem "Kamingespräch" eingeladen. Da ich schon ein paar mal zu Veranstaltungen der Stanford GSA eingeladen wurde, aber immer irgendetwas dazwischen kam, habe ich es diesmal ganz ehrlich versucht --
 
 ... und nicht mit der Komplexität des Stanford Campus gerechnet ;)
 

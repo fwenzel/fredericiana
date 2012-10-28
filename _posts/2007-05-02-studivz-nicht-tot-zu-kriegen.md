@@ -13,11 +13,11 @@ Vor einiger Zeit hatte ich darüber gebloggt, dass ich <a href="http://frederici
 
 Anders bei mir: Wenn ich meine alten Benutzerdaten eingebe, bekomme ich noch immer folgende Fehleraussage (offenbar ein Produkt einer der unzähligen Sicherheitslücken der StudiVz-Software):
 
-<a href='https://fredericiana.de/uploads/2007/05/studivz-sicherheitsloch.jpg' title='Sorry, jemand hat uns mal wieder gehackt…'><img src='https://fredericiana.de/uploads/2007/05/studivz-sicherheitsloch-small.jpg' alt='Sorry, jemand hat uns mal wieder gehackt…' /></a>
+<a href='/media/wp/2007/05/studivz-sicherheitsloch.jpg' title='Sorry, jemand hat uns mal wieder gehackt…'><img src='/media/wp/2007/05/studivz-sicherheitsloch-small.jpg' alt='Sorry, jemand hat uns mal wieder gehackt…' /></a>
 
 Und ich bekomme auch noch fleißig Freundschaftseinladungen (heute mal wieder):
 
-<img src='http://fredericiana.de/uploads/2007/05/studivz-neuefreunde.jpg' alt='Soso, noch ein Freund der erst durch einen Klick mein Freund wird. Früher hat man das bei einem Glas Bier gemacht.' />
+<img src='/media/wp/2007/05/studivz-neuefreunde.jpg' alt='Soso, noch ein Freund der erst durch einen Klick mein Freund wird. Früher hat man das bei einem Glas Bier gemacht.' />
 
 Ich wüsste gerne, ob man mir seitens StudiVz damit mitteilen möchte, dass die alten AGB wie von mir gewünscht nicht für mich gelten sollen -- immerhin habe ich denen ja frist- und formgerecht widersprochen.
 

@@ -11,7 +11,7 @@ layout: post
 ---
 Das zweite mal "Moblogging" diese Woche:
 
-<a href="http://fredericiana.de/uploads/050322durlachertor.jpg" target="_blank"><img src='http://fredericiana.de/uploads/thumb-050322durlachertor.jpg' alt='Schattenparker' class="centered border" /></a>
+<a href="/media/wp/050322durlachertor.jpg" target="_blank"><img src='/media/wp/thumb-050322durlachertor.jpg' alt='Schattenparker' class="centered border" /></a>
 
 Da fährt eine seltsame Verkehrsteilnehmerin seelenruhig quer über die Karlsruher Durlacher-Tor-Kreuzung, stellt ihr Auto direkt neben der Fußgängerampel mitten auf den Gehweg und Fahrradweg, macht das Auto aus und beginnt zu telefonieren.
 

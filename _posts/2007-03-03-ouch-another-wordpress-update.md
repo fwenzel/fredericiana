@@ -11,7 +11,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src='http://fredericiana.com/wp-content/uploads/2007/03/wordpress_logo.png' alt='Wordpress Logo; source: enWP' class="alignright" />Uh, <a href="http://wordpress.org/development/2007/03/upgrade-212/">version 2.1.1</a> of the popular Wordpress blog software was compromised by a hacker who introduced malicious code into the version that was downloaded and installed by quite a few people across the globe.
+<img src='/media/wp/2007/03/wordpress_logo.png' alt='Wordpress Logo; source: enWP' class="alignright" />Uh, <a href="http://wordpress.org/development/2007/03/upgrade-212/">version 2.1.1</a> of the popular Wordpress blog software was compromised by a hacker who introduced malicious code into the version that was downloaded and installed by quite a few people across the globe.
 
 While I wasn't directly affected (I hadn't upgraded to 2.1.1 yet), I upgraded <a href="http://blog.jeanpierre.de">another instance of WP</a> on my server immediately because it did have the malicious code, as a quick grep for <em>"ix"</em> in the wp-includes directory showed.
 

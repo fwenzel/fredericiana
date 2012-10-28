@@ -14,7 +14,7 @@ layout: post
 ---
 Sooo, meine Kreuzchen sind gemacht. Ich war heute im Ettlinger Wahlamt und habe direkt vor Ort die <strong>Briefwahl</strong> durchgeführt (bin ja am 18.9. "verhindert"). Viele denken, sie müssen den Zettel erst mit heim nehmen und dann ankreuzen, aber im Amt ist auch eine Wahlkabine zum direkten Ausfüllen aufgebaut.
 
-<img src='http://fredericiana.de/uploads/050901stimmzettel.jpg' alt='Stimmzettel' class="alignright" />Lustig ist, dass man zum Ankreuzen deutlich weniger Zeit aufwenden muss als für die Bastelarbeiten danach:
+<img src='/media/wp/050901stimmzettel.jpg' alt='Stimmzettel' class="alignright" />Lustig ist, dass man zum Ankreuzen deutlich weniger Zeit aufwenden muss als für die Bastelarbeiten danach:
 <ul>
 	<li>Ankreuzen</li>
 	<li>Wahlzettel zweimal falten, damit er in den <strong>blauen</strong> Umschlag passt.</li>

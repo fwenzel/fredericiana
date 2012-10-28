@@ -13,7 +13,7 @@ layout: post
 ---
 Bei amazon.com hat man gegenwärtig die Möglichkeit, zum Kauf einer Nintendo Wii ausgelost zu werden. Sprich: Man meldet sich an, und wenn man gezogen wird, bekommt man die beliebte Spielekonsole zum Listenpreis von 250 US-Dollar statt <em>um die 600</em> auf Ebay.
 
-<img id="image753" src="http://fredericiana.de/uploads/2006/12/wii.jpg" alt="A Nintendo Wii" class="centered" />
+<img id="image753" src="/media/wp/2006/12/wii.jpg" alt="A Nintendo Wii" class="centered" />
 
 Wirklich interessant ist an der <a href="http://promotions.amazon.com/gp/holiday/cv/homepage/002-2034501-8102410">Verlosungsseite</a> aber die Liste von Wahrscheinlichkeiten, die sie mit dazuschreiben. Hier ein paar Auszüge:
 

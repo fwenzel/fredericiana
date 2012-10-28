@@ -17,7 +17,7 @@ layout: post
 
 <p>Vorschlag eins hat den freundlichen Namen <b>Blogger-Death</b> und besticht durch einen freundlichen kleinen Sensenmann unten links in der Ecke. Ist er nicht lieb?</p>
 
-<p><div align="center"><a href='/uploads/einmalig/blogger-death.jpg'><img width="110" height="86" border="0" hspace="5" src="/wp-content/olduploads/einmalig/blogger-death.serendipityThumb.jpg" alt=""  /></a></div></p>
+<p><div align="center"><a href='/media/wp/einmalig/blogger-death.jpg'><img width="110" height="86" border="0" hspace="5" src="/media/wp/einmalig/blogger-death.serendipityThumb.jpg" alt=""  /></a></div></p>
 
 <p>(Jaaa, keine Sorge: Wenn die Themes ihren <i>Pre-Alpha</i>-Status hinter sich gelassen haben, stelle ich sie der S9Y Main Distribution zur Verfügung. Versprochen ;) )</p>
 

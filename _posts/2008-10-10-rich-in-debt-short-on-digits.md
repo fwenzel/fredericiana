@@ -20,7 +20,7 @@ As a temporary fix the dollar sign has been switched to a figure--the '1' in $10
 
 That reminds me of the German national debt clock, that I ran across quite accidentally a few years ago when on vacation in Berlin. I took a photo and subsequently <a href="http://de.wikipedia.org/wiki/Bild:BDS_Schuldenuhr.jpg">donated it to Wikipedia</a>:
 
-<a href="http://fredericiana.com/wp-content/uploads/2008/10/schuldenuhr.jpg"><img src="http://fredericiana.com/wp-content/uploads/2008/10/schuldenuhr-533x400.jpg" alt="" title="Bund der Steuerzahler Schuldenuhr" width="533" height="400" class="alignnone size-medium wp-image-1668" /></a>
+<a href="/media/wp/2008/10/schuldenuhr.jpg"><img src="/media/wp/2008/10/schuldenuhr-533x400.jpg" alt="" title="Bund der Steuerzahler Schuldenuhr" width="533" height="400" class="alignnone size-medium wp-image-1668" /></a>
 
 At the time, it was at roughly 1.4 trillion Euros, while now it's already <a href="http://www.steuerzahler.de/">well over 1.5 </a>.
 

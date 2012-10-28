@@ -20,7 +20,7 @@ layout: post
 ---
 As mentioned <a href="http://fredericiana.com/2010/02/10/fosdem-2010/">earlier</a>, I dove a little into the world of non-relational databases for web applications. One of the more interesting ones seems to be <a href="http://www.mongodb.org/">MongoDB</a>. By the way, a <a href="http://www.parleys.com/#st=5&id=1864">video of the presentation</a> I attended is meanwhile online as well.
 
-<img src="http://fredericiana.com/wp-content/uploads/2010/02/mongodb.jpg" alt="" title="mongoDB" width="221" height="94" class="alignnone size-full wp-image-2620" />
+<img src="/media/wp/2010/02/mongodb.jpg" alt="" title="mongoDB" width="221" height="94" class="alignnone size-full wp-image-2620" />
 
 MongoDB does not only seem to be "fully buzz-word compatible" (<em>MongoDB (from "humongous") is a scalable, high-performance, open source, schema-free, document-oriented database.</em>), it also looks like an interesting alternative storage backend for web applications, for various reasons I'd like to outline here.
 

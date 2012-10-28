@@ -10,7 +10,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src='http://fredericiana.de/uploads/2007/03/starbucks.jpg' alt='Starbucks Cup' class="alignright" />Auf <em>craigslist</em> (einer bekannten amerikanischen Kleinanzeigen-Webseite) stehen von Zeit zu Zeit amüsante Abhandlungen von Menschen, die einfach mal anonym Dampf ablassen wollen. Und so schreibt ein <strong>Barmann bei Starbucks</strong>:
+<img src='/media/wp/2007/03/starbucks.jpg' alt='Starbucks Cup' class="alignright" />Auf <em>craigslist</em> (einer bekannten amerikanischen Kleinanzeigen-Webseite) stehen von Zeit zu Zeit amüsante Abhandlungen von Menschen, die einfach mal anonym Dampf ablassen wollen. Und so schreibt ein <strong>Barmann bei Starbucks</strong>:
 
 <blockquote>We are not your friends. (...) In most cases, we absolutely loathe you, but we are outwardly friendly -- because we are paid to do so.</blockquote>
 

@@ -13,7 +13,7 @@ Ganz ehrlich, wer wollte noch nie einem Stofftier mit dem Skalpell zuleibe rück
 
 Falls Ihr doch mal in die Versuchung kommt: Hier ist ein <a href="http://www.10mg.nl/">Flash-Spiel</a>, bei dem man 60 Sekunden hat, um den Stoff-Hasen "Fred" zu operieren:
 
-<img src='http://fredericiana.de/uploads/2007/05/surgeryfred.jpg' alt='Stuffed Bunny Surgery' />
+<img src='/media/wp/2007/05/surgeryfred.jpg' alt='Stuffed Bunny Surgery' />
 
 Ihr habt 60 Sekunden Zeit -- rettet Fred! :)
 

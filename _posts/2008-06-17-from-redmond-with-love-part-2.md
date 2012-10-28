@@ -20,6 +20,6 @@ Oh, hello! The MSIE team sent us <a href="http://fredericiana.com/2006/10/24/fro
 
 Here it is, photo courtesy of <a href="http://flickr.com/photos/robceemoz/2587912633/">robcee</a>:
 
-<a href='http://flickr.com/photos/robceemoz/2587912633/'><img src="http://fredericiana.com/wp-content/uploads/2008/06/msie-cake-fx3.jpg" alt="" title="MSIE - Firefox Cake, number 2" width="333" height="500" class="alignnone size-full wp-image-1307" /></a>
+<a href='http://flickr.com/photos/robceemoz/2587912633/'><img src="/media/wp/2008/06/msie-cake-fx3.jpg" alt="" title="MSIE - Firefox Cake, number 2" width="333" height="500" class="alignnone size-full wp-image-1307" /></a>
 
 I hope it tasted as delicious as the first one!

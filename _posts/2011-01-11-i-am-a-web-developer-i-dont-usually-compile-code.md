@@ -17,6 +17,6 @@ There's an excellent <em>xkcd</em> web comic about <a href="http://xkcd.com/303/
 
 In the wake of a little server outage here at Mozilla, here's my version of the comic:
 
-<a href="http://fredericiana.com/wp-content/uploads/2011/01/no-bugzilla.png"><img src="http://fredericiana.com/wp-content/uploads/2011/01/no-bugzilla.png" alt="" title="No Bugzilla" width="413" height="360" class="aligncenter size-full wp-image-3159" /></a>
+<a href="/media/wp/2011/01/no-bugzilla.png"><img src="/media/wp/2011/01/no-bugzilla.png" alt="" title="No Bugzilla" width="413" height="360" class="aligncenter size-full wp-image-3159" /></a>
 
 <p class="credits">(Based on the above <a href="http://xkcd.com/303/">xkcd web comic</a>. Licensed under a CC by-nc license.)</p>

@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src="/wp-content/olduploads/logos/gmaillogo.serendipityThumb.gif" class="alignleft" alt="GMail" />Jeden Tag eine gute Tat ;)
+<img src="/media/wp/logos/gmaillogo.serendipityThumb.gif" class="alignleft" alt="GMail" />Jeden Tag eine gute Tat ;)
 
 Nachdem Googles <a href="http://gmail.google.com/">GMail</a> offenbar im Moment mit Einladungen zu seinem Mail-Service nur so um sich wirft, scheinen nicht mehr viele leute Bedarf an so einem Postfach zu haben. Das Feedback auf meine letzte <a href="http://fredericiana.de/archives/2004/12/22/gmail-einladungen/">Verschenk-Aktion</a> war jedenfalls eher gering.
 

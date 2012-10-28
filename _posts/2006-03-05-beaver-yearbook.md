@@ -10,7 +10,7 @@ meta:
 layout: post
 ---
 Oh, long time no see!
-<img id="image575" src="/uploads/2006/03/060205-BeaverYearbookVorschaubild.jpg" alt="The Beaver Yearbook" class="alignright" />
+<img id="image575" src="/media/wp/2006/03/060205-BeaverYearbookVorschaubild.jpg" alt="The Beaver Yearbook" class="alignright" />
 Bin im Moment an der Planung von ziemlich tollen Dingen und außerdem mit Projektarbeit überschüttet in der Uni, sodass zum Bloggen nicht so viel Zeit bleibt. Schade!
 
 Vor Kurzem habe ich mich aber erstmal vom <a href="http://oregonstate.edu/groups/yearbook/">Beaver Yearbook</a> Team ablichten lassen. Das <strong>OSU Jahrbuch</strong> hat, wie ich mir habe erzählen lassen, jedes Jahr aufs neue einen Abschnitt mit Studentenportraits.

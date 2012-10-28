@@ -10,7 +10,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src='http://fredericiana.de/uploads/linuxtagschild.jpg' alt='LinuxTag-Schild. Eigenes Bild.' class="alignleft" />Etwas verwundert/irritiert/was auch immer stelle ich fest, dass ich am diesjährigen <a href="http://www.linuxtag.org/">Linuxtag</a> überhaupt nicht in Karlsruhe sein werde. Denn zu eben jenem Zeitpunkt befinde ich mich urlaubenderweise in unserer <del>schönen</del> <del>beliebten</del> sehenswerten Hauptstadt Berlin.
+<img src='/media/wp/linuxtagschild.jpg' alt='LinuxTag-Schild. Eigenes Bild.' class="alignleft" />Etwas verwundert/irritiert/was auch immer stelle ich fest, dass ich am diesjährigen <a href="http://www.linuxtag.org/">Linuxtag</a> überhaupt nicht in Karlsruhe sein werde. Denn zu eben jenem Zeitpunkt befinde ich mich urlaubenderweise in unserer <del>schönen</del> <del>beliebten</del> sehenswerten Hauptstadt Berlin.
 
 Seit die Open-Source-Fachmesse 2002 nach Karlsruhe gekommen ist, war ich jedesmal zu Gast: Es gab regelmäßig einige sehr hörenswerte Vorträge und jede Menge interessante Leute zu treffen. Ganz zu schweigen von den vielen großen und kleinen technischen Spielereien, die es zu entdecken gab.
 

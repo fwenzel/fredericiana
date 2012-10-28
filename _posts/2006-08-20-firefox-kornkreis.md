@@ -16,7 +16,7 @@ Das haben ja schon 1000 Leute vor mir gebloggt. Aber für alle, die es dann viel
 
 <del>Meine Freunde und Kollegen bei der OSU Linux User Group</del> <ins>Aliens</ins> haben letzte Woche irgendwo ((genauer gesagt, <a href="http://maps.google.com/maps?f=q&hl=en&q=45.125019,-123.113308&ie=UTF8&ll=45.124777,-123.113308&spn=0.034821,0.097504&t=k&om=1">auf diesem Feld</a>)) in Oregon einen Firefox-Logo-förmigen Kornkreis in ein Haferfeld gebeamt.
 
-<a class="imagelink" href="http://fredericiana.de/uploads/2006/08/firefox-kornkreis.jpg" title="Firefox-Kornkreis" target="_blank"><img id="image657" src="http://fredericiana.de/uploads/2006/08/firefox-kornkreis.jpg" alt="Firefox-Kornkreis" class="centered" width="300" /></a>
+<a class="imagelink" href="/media/wp/2006/08/firefox-kornkreis.jpg" title="Firefox-Kornkreis" target="_blank"><img id="image657" src="/media/wp/2006/08/firefox-kornkreis.jpg" alt="Firefox-Kornkreis" class="centered" width="300" /></a>
 
 Die Story hat es in <a href="http://digg.com/software/Huge_Firefox_crop_circle_aliens_do_prefer_Firefox">digg</a>, <a href="http://slashdot.org/articles/06/08/15/1935259.shtml">slashdot</a> und <a href="http://news.google.com/news?hl=en&ned=us&q=firefox+crop+circle&btnG=Search+News">seine Freunde</a> geschafft, und auch <a href="http://www.spiegel.de/netzwelt/technologie/0,1518,432339,00.html">Spiegel Online</a> ((unten auf der Seite)) hat schon berichtet. Wow!
 

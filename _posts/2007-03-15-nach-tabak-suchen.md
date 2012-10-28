@@ -24,7 +24,7 @@ und schreibt dazu:
 
 Na das probiere ich doch gleich mal aus: Ich suche nach <em>"Where does Frederic Wenzel blog?"</em> und bekomme eine Seite voll Ergebnissen bei denen nicht nur keines meiner Blogs dabei ist, sondern auch noch das hier:
 
-<img src='http://fredericiana.de/uploads/2007/03/hakia-answer.jpg' alt='Hakia Answer' />
+<img src='/media/wp/2007/03/hakia-answer.jpg' alt='Hakia Answer' />
 
 Interessant, dass die <em>bahnbrechend innovative</em> Suchmaschine es zwar schafft, meine alte Blog-Adresse (nicht verlinkt) in dem kleinen Kommentar unterzubringen, nicht aber in einem der Suchergebnisse; zudem ist mir noch nicht so ganz klar, wieso ich in meinem Blog nach "Tobacco" suchen soll (das liefert nämlich bisher genau ein Ergebnis, und das ist nicht mal das mit den meisten Kommentaren).
 

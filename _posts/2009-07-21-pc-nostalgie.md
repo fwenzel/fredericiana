@@ -21,7 +21,7 @@ Vor einiger Zeit haben Jean Pierre und ich im Internet nach unserem allerersten 
 
 Es gab da mal eine Zeit. Ende der 80er. Da hat HPW, seines Zeichens Vater von JP und F, aus irgendeinem Grund zwei Rechner gehabt. Und so stand einer davon für die jungen Herren zur Verfügung. Es war ein <strong>Tandon PAC 286</strong>.
 <!--more-->
-<a href="http://fredericiana.de/uploads/050530tandon286.jpg"><img src='http://fredericiana.de/uploads/thumb-050530tandon286.jpg' alt='Tandon 286' class="centered border" /></a>
+<a href="/media/wp/050530tandon286.jpg"><img src='/media/wp/thumb-050530tandon286.jpg' alt='Tandon 286' class="centered border" /></a>
 <div align="center"><em><a href="http://www.iser.uni-erlangen.de/anzeigen.php?inventarnummer=I0895">(Bildquelle)</a></em></div>
 
 Das gute Stück, übrigens 1987 auf den Markt gekommen, war geradezu <a href="http://www.mcmordie.co.uk/own/tandon.shtml">hochwertig ausgestattet</a>: Der 6-8 MHz-Prozessor brachte den 1-MB-RAM-Baustein förmlich zum Glühen, und überhaupt waren die 16-Bit-Technik und die fünf ISA-Steckkartenplätze auf der Höhe der Technik.

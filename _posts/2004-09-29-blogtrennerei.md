@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<p><img width="110" height="67" border="0" hspace="5" align="left" src="/wp-content/olduploads/schriftrolle2.serendipityThumb.gif" alt=""  />Liebe Kinderinnen und Kinder ;)!</p>
+<p><img width="110" height="67" border="0" hspace="5" align="left" src="/media/wp/schriftrolle2.serendipityThumb.gif" alt=""  />Liebe Kinderinnen und Kinder ;)!</p>
 
 <p>Da ein paar (alle? ;) ) von Euch weniger &quot;technikverrückt&quot; sind als ich, und sich deshalb für ungefähr die Hälfte der Sachen hier grad mal gar nicht interessieren, spiele ich mit dem Gedanken, das Blog irgendwie sinnvoll zu spalten...?</p>
 

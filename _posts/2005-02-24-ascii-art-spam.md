@@ -12,13 +12,13 @@ layout: post
 Hätte nicht gedacht, dass ich mal interessanten Spam bekommen würde. Also nicht inhaltlich (schließlich ist mit mir <a href="http://www.evolutiontwo.com/">alles in Ordnung</a>, denk ich), sondern eher wie einfallsreich er gemacht ist.
 
 Aber seht selbst:
-<img src='http://fredericiana.de/uploads/050223spamascii.jpg' alt='ASCII Art Spam' class="centered border" />
+<img src='/media/wp/050223spamascii.jpg' alt='ASCII Art Spam' class="centered border" />
 
 Nanu, wieso ist das denn da so gepunktet? Mit einer gewitzten Tastenkombination zoomen wir heran, etwa so, wie die "Experten" im Fernsehen immer auf einer eingestaubten Überwachungskamera-Aufnahme von 1875 die Waschanleitung für das Unterhemd des Bankräubers lesen können:
 
 <!--more-->
 
-<img src='http://fredericiana.de/uploads/050223spamasciizoom.jpg' alt='ASCII Art Spam zoomed' class="centered border" />
+<img src='/media/wp/050223spamasciizoom.jpg' alt='ASCII Art Spam zoomed' class="centered border" />
 
 Da hat der Spammer seinen Text durch einen ASCII-Art-Generator wie <a href="http://www.network-science.de/ascii/">diesen hier</a> laufen lassen und so zumindest meinen Spamfilter so weit getäuscht, dass dieser die Mail als <em>"keine Ahnung"</em> statt als <em>"sicher Spam"</em> eingestuft hat.
 

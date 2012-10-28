@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<p><img width="110" height="70" border="0" hspace="5" align="right" src="/wp-content/olduploads/allgemein/camera.serendipityThumb.jpg" alt=""  />Wie wohl die <a target="_BLANK" href="http://images.google.com/images?svnum=50&hl=en&lr=&ie=UTF-8&newwindow=1&safe=off&c2coff=1&q=%22DSC00001.jpg%22&btnG=Search" title="http://images.google.com/images?svnum=50&hl=en&lr=&ie=UTF-8&newwindow=1&safe=off&c2coff=1&q=%22DSC00001.jpg%22&btnG=Search" onmouseover="window.status='http://images.google.com/images?svnum=50&hl=en&lr=&ie=UTF-8&newwindow=1&safe=off&c2coff=1&q=%22DSC00001.jpg%22&btnG=Search';return true;" onmouseout="window.status='';return true;">allerersten Fotos</a> aussehen, die die Leute mit ihrer nagelneuen Digitalkamera gemacht haben?</p>
+<p><img width="110" height="70" border="0" hspace="5" align="right" src="/media/wp/allgemein/camera.serendipityThumb.jpg" alt=""  />Wie wohl die <a target="_BLANK" href="http://images.google.com/images?svnum=50&hl=en&lr=&ie=UTF-8&newwindow=1&safe=off&c2coff=1&q=%22DSC00001.jpg%22&btnG=Search" title="http://images.google.com/images?svnum=50&hl=en&lr=&ie=UTF-8&newwindow=1&safe=off&c2coff=1&q=%22DSC00001.jpg%22&btnG=Search" onmouseover="window.status='http://images.google.com/images?svnum=50&hl=en&lr=&ie=UTF-8&newwindow=1&safe=off&c2coff=1&q=%22DSC00001.jpg%22&btnG=Search';return true;" onmouseout="window.status='';return true;">allerersten Fotos</a> aussehen, die die Leute mit ihrer nagelneuen Digitalkamera gemacht haben?</p>
 
 <p>Die Google Bildsuche hilft dabei, da Kameras die Bildnamen herstellerspezifisch vergeben (<i>DSC00001.jpg</i>, z.B.).</p>
 

@@ -13,7 +13,7 @@ Sicher habt ihr mich schon vermisst - sicher habt ihr geweint - aber die Tage is
 
 Wie sich das für einen Studenten gehört, heißt das: Fast jeden Tag ist Mensa angesagt.
 
-<img src="http://fredericiana.de/uploads/Hungry.gif" alt="Hungry?" class="alignright" />Dass man über generationenweise Mensaessen Bücher schreiben könnte, ist klar. Dabei ist unsere nicht mal schlecht - aber die Väter des heiligen Mensaplans haben trotzdem eine erstaunliche Begabung dafür, dem Essen regelmäßig völlig absurde <strong>Namen</strong> zu geben, um jeden Rückschluss auf möglicherweise darin enthaltene oder auch nicht enthaltene Bestandteile im Dunkeln zu lassen.
+<img src="/media/wp/Hungry.gif" alt="Hungry?" class="alignright" />Dass man über generationenweise Mensaessen Bücher schreiben könnte, ist klar. Dabei ist unsere nicht mal schlecht - aber die Väter des heiligen Mensaplans haben trotzdem eine erstaunliche Begabung dafür, dem Essen regelmäßig völlig absurde <strong>Namen</strong> zu geben, um jeden Rückschluss auf möglicherweise darin enthaltene oder auch nicht enthaltene Bestandteile im Dunkeln zu lassen.
 
 
 <!--more-->

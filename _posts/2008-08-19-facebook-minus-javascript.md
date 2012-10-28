@@ -17,7 +17,7 @@ layout: post
 ---
 I was just checking out a website with JavaScript disabled, then surfed over to facebook (accidentally) without switching JS back on, where I was welcomed with the following page (click on it to see it in its full beauty):
 
-<a href="http://fredericiana.com/wp-content/uploads/2008/08/facebook-no-javascript.jpg"><img src="http://fredericiana.com/wp-content/uploads/2008/08/facebook-no-javascript-small.jpg" alt="" title="Facebook with JavaScript disabled" width="500" height="250" class="alignnone size-full wp-image-1448" /></a>
+<a href="/media/wp/2008/08/facebook-no-javascript.jpg"><img src="/media/wp/2008/08/facebook-no-javascript-small.jpg" alt="" title="Facebook with JavaScript disabled" width="500" height="250" class="alignnone size-full wp-image-1448" /></a>
 
 I love how gracefully they degrade to... an <strong>empty</strong> page...
 

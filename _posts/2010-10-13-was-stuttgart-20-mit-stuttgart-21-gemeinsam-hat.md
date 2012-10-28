@@ -23,6 +23,6 @@ Das war ein Kommentar, den man (mehr als 40 Jahre später!) genau so auch in der
 
 Eines ist sicher: Sich auf den "Daimler-Lorbeeren" (<em>wir brauchen keine Infrastrukturinvestitionen, beim Daimler kommen doch alle pünktlich zur Arbeit</em>) auszuruhen, könnte langfristig großen Schaden anrichten, wenn man zu spät merkt, dass in Wirklichkeit die <em>Relevanz der Region Stuttgart im 21. Jahrhundert</em> auf dem Spiel stand. Wo sich die Politik momentan den Vorwurf machen lassen muss, mit dem Kopf durch die Wand zu wollen, sollten die Gegner des Projekts nicht den Fehler machen, an dieser Wand ziellos weiterzumauern.
 
-<a href="http://de.wikipedia.org/wiki/Datei:StuttgartHauptbahnhofNordfluegel_2010-08-26.jpg"><img src="http://fredericiana.com/wp-content/uploads/2010/10/Stuttgart21.jpg" alt="" title="Protest gegen Stuttgart 21" width="400" height="266" class="aligncenter size-full wp-image-3023" /></a>
+<a href="http://de.wikipedia.org/wiki/Datei:StuttgartHauptbahnhofNordfluegel_2010-08-26.jpg"><img src="/media/wp/2010/10/Stuttgart21.jpg" alt="" title="Protest gegen Stuttgart 21" width="400" height="266" class="aligncenter size-full wp-image-3023" /></a>
 
 Ich jedenfalls bin auf den Fortschritt des Schlichtungsverfahrens gespannt -- bis dato gilt es ja schon als Erfolg, dass man <a href="http://www.welt.de/politik/deutschland/article10252732/Geissler-spricht-jetzt-nur-noch-von-Bauunterbrechung.html">noch nicht am ersten Tag gescheitert</a> ist. Erfolg ist eben doch Definitionssache.

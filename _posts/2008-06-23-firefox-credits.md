@@ -18,7 +18,7 @@ The Firefox world record attempt has just <a href="http://www.spreadfirefox.com/
 
 And, as I recently noticed, each Firefox instance carries my name among the men and women mentioned in the credits list (for my work on the <a href="https://addons.mozilla.org">Mozilla Add-ons</a> project):
 
-<img src="http://fredericiana.com/wp-content/uploads/2008/06/firefox-credits.jpg" alt="My name in the Firefox 3 credits." title="Firefox Credits" width="381" height="532" class="alignnone size-full wp-image-1314" />
+<img src="/media/wp/2008/06/firefox-credits.jpg" alt="My name in the Firefox 3 credits." title="Firefox Credits" width="381" height="532" class="alignnone size-full wp-image-1314" />
 Awesome :) (did I mention I dig my name being spelled correctly?)
 
 If you want to see who else is on the list, click on <em>"About Firefox"</em> in the help (or Firefox, on Mac) menu, then <em>"Credits"</em>.

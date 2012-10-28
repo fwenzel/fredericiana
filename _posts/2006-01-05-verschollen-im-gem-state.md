@@ -9,7 +9,7 @@ meta:
   tags: boise idaho
 layout: post
 ---
-<img src="http://fredericiana.de/uploads/Idahostateseal.jpg" width="150" height="150" alt="Idaho State Seal; Quelle: Wikipedia" title="Idaho State Seal" class="alignright" />Good evening and greetings from <a href="http://de.wikipedia.org/wiki/Boise">Boise</a> Airport. Sicher habt ihr mich vermisst. Falls nicht, macht auch nichts.
+<img src="/media/wp/Idahostateseal.jpg" width="150" height="150" alt="Idaho State Seal; Quelle: Wikipedia" title="Idaho State Seal" class="alignright" />Good evening and greetings from <a href="http://de.wikipedia.org/wiki/Boise">Boise</a> Airport. Sicher habt ihr mich vermisst. Falls nicht, macht auch nichts.
 
 Ich hoffe, die geneigten Leser sind gut ins neue Jahr gekommen! Ich war über die Jahreswende zu Besuch in Boise, der Hauptstadt des Bundesstaates <a href="http://de.wikipedia.org/wiki/Idaho">Idaho</a>, der im Osten an Oregon grenzt.
 

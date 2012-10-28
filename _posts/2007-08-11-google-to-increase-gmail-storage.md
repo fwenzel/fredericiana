@@ -14,7 +14,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src='http://fredericiana.com/wp-content/uploads/2007/08/googlemail-logo.gif' alt='Google Mail Logo' class="alignright" align="right" /><a href="http://paul.kedrosky.com/archives/2007/08/09/tech_is_google.html">Rumor has it</a>, GMail's storage may some day soon be cranked up to <strong>10 gigabyte</strong>.
+<img src='/media/wp/2007/08/googlemail-logo.gif' alt='Google Mail Logo' class="alignright" align="right" /><a href="http://paul.kedrosky.com/archives/2007/08/09/tech_is_google.html">Rumor has it</a>, GMail's storage may some day soon be cranked up to <strong>10 gigabyte</strong>.
 
 That'd be sweet, for sure.
 

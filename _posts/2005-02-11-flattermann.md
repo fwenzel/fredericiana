@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src="http://fredericiana.de/uploads/050210brathuhn.jpg" alt="Brathendl" class="alignright" />In Australien geschehen seltsame Dinge. Nicht nur, dass die Tiere da noch beuteln, wo andere schon säugen, dass dort sowieso alles auf dem Kopf steht und sie im Winter Sommer haben. Nein, jetzt hagelt es dort auch noch <a href="http://www.sueddeutsche.de/,panm2/panorama/artikel/541/47494/">Tiefkühlhähnchen</a>.
+<img src="/media/wp/050210brathuhn.jpg" alt="Brathendl" class="alignright" />In Australien geschehen seltsame Dinge. Nicht nur, dass die Tiere da noch beuteln, wo andere schon säugen, dass dort sowieso alles auf dem Kopf steht und sie im Winter Sommer haben. Nein, jetzt hagelt es dort auch noch <a href="http://www.sueddeutsche.de/,panm2/panorama/artikel/541/47494/">Tiefkühlhähnchen</a>.
 
 Um auf diese Missstände bei der artgerechten Haltung Australischer Brathähnchen hinzuweisen, habe ich heute gleich aus Protest Kalbsleber konsumiert und hoffe, die Weltbrathähnchenproduktion damit empfindlich getroffen zu haben. Das kann schließlich nicht sein, dass man federlose Flattermänner so einfach kopflos umherfliegen lässt!
 

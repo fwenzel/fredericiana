@@ -16,7 +16,7 @@ layout: post
 Apparently, you can (legally) buy cans of <a href="http://www.amazon.com/gp/product/B000796XXM/">Uranium Ore</a> on Amazon.
 
 <div class="img-label">
-<img src='http://fredericiana.com/wp-content/uploads/2007/12/amazon-uranium-ore.jpg' alt='Uranium Ore' />
+<img src='/media/wp/2007/12/amazon-uranium-ore.jpg' alt='Uranium Ore' />
 Still looking for a Christmas Present?
 </div>
 

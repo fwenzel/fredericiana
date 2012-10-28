@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img width="200" height="58" border="0" hspace="5" align="right" src="/wp-content/olduploads/openoffice-logo.gif" alt=""  />Last week I wrote a nice little <b>OpenOffice data access macro</b>. Having a normal OpenOffice data source,
+<img width="200" height="58" border="0" hspace="5" align="right" src="/media/wp/openoffice-logo.gif" alt=""  />Last week I wrote a nice little <b>OpenOffice data access macro</b>. Having a normal OpenOffice data source,
 
 <code>=DBSELECT(table, primary_key, field)</code>
 

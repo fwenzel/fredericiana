@@ -15,7 +15,7 @@ layout: post
 ---
 Browsing through the <a href="http://www.flickr.com/photos/osucommons/">Oregon State University Archives on Flickr</a>, I found this cool <a href="http://www.flickr.com/photos/osucommons/3387946758/">1940 photo of Multnomah Falls</a>, by the Columbia River Gorge in Oregon:
 
-<a href="http://www.flickr.com/photos/osucommons/3387946758/sizes/l/"><img src="http://fredericiana.com/wp-content/uploads/2009/05/multnomahfalls.jpg" alt="Multnomah Falls" title="Multnomah Falls" width="400" height="500" class="alignnone size-full wp-image-2204" /></a>
+<a href="http://www.flickr.com/photos/osucommons/3387946758/sizes/l/"><img src="/media/wp/2009/05/multnomahfalls.jpg" alt="Multnomah Falls" title="Multnomah Falls" width="400" height="500" class="alignnone size-full wp-image-2204" /></a>
 
 Click on the picture to see a <a href="http://www.flickr.com/photos/osucommons/3387946758/sizes/l/">larger version</a>.
 

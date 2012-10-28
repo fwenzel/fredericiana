@@ -20,7 +20,7 @@ layout: post
 ---
 Fellow German blogger ix <a href="http://wirres.net/article/articleview/5143/1/6/" hreflang="de">got married in Las Vegas recently</a> (congratulations) and faced the problem to have the marriage accepted by his local civil registry office in Hamburg---because only then they would be able to get all the rights and duties that marriage entails in Germany.
 
-<img src="http://fredericiana.com/wp-content/uploads/2009/03/tower-of-babel.jpg" alt="The Tower of Babel" title="The Tower of Babel" width="400" height="302" class="alignnone size-full wp-image-2070" />
+<img src="/media/wp/2009/03/tower-of-babel.jpg" alt="The Tower of Babel" title="The Tower of Babel" width="400" height="302" class="alignnone size-full wp-image-2070" />
 
 So far, so good: Along with a certified copy of the marriage certificate, he also needed to bring an <a href="http://en.wikipedia.org/wiki/Apostille">"Apostille"</a>---a standardized transcription of a legal document (in this case: the marriage certificate) to be accepted by another country (in this case: Germany). Of course, one cannot expect the government officials to be able to read the English language, not even when a marriage certificate consists of a quite simple set of information that does not differ significantly between the two countries. So he had to obtain an official translation of both documents from a certified translator, before they finally accepted his marriage as valid.
 

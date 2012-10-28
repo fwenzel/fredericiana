@@ -12,7 +12,7 @@ layout: post
 ---
 <p>Auf einer langen Zugfahrt heute habe ich c't gelesen - dort stand, dass die DSL-Anschlüsse des Rosa Riesen ab jetzt sukzessive auf 1 MBit umgestellt werden...</p>
 
-<p><img width="70" height="110" border="0" hspace="5" align="left" src="/wp-content/olduploads/einmalig/highspeed.serendipityThumb.jpg" alt=""  />Dachte, erst ab 1. Januar? Also gleich in der <a target="_BLANK" href="http://www.t-com.de/wechsel" title="http://www.t-com.de/wechsel" onmouseover="window.status='http://www.t-com.de/wechsel';return true;" onmouseout="window.status='';return true;">Online-Datenbank</a> nachgesehen, und siehe da:</p>
+<p><img width="70" height="110" border="0" hspace="5" align="left" src="/media/wp/einmalig/highspeed.serendipityThumb.jpg" alt=""  />Dachte, erst ab 1. Januar? Also gleich in der <a target="_BLANK" href="http://www.t-com.de/wechsel" title="http://www.t-com.de/wechsel" onmouseover="window.status='http://www.t-com.de/wechsel';return true;" onmouseout="window.status='';return true;">Online-Datenbank</a> nachgesehen, und siehe da:</p>
 
 <p>Die Umstellung erfolgte am <b>3.10.2004</b>, steht dort.</p>
 

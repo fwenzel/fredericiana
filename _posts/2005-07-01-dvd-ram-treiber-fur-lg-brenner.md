@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src='http://fredericiana.de/uploads/050701lg4163b.jpg' alt='LG 4163B' class="alignleft" />Da kann man doch nur mit dem Kopf schütteln: Diese Woche einen LG 4163B gekauft (wegen der DVD-RAM-Brennfähigkeit) und dann Treiber herunterladen wollen: Geht nicht. Gibts nicht. Auf der <a href="http://www.lge.com/support/software_gcsc.jsp">LG Homepage</a> nichts zu finden.
+<img src='/media/wp/050701lg4163b.jpg' alt='LG 4163B' class="alignleft" />Da kann man doch nur mit dem Kopf schütteln: Diese Woche einen LG 4163B gekauft (wegen der DVD-RAM-Brennfähigkeit) und dann Treiber herunterladen wollen: Geht nicht. Gibts nicht. Auf der <a href="http://www.lge.com/support/software_gcsc.jsp">LG Homepage</a> nichts zu finden.
 
 (Unter Linux lässt sich das übrigens ohne weiteres nativ als Festplatte ansprechen. Wieso kann WinXP das eigentlich nicht direkt?)
 

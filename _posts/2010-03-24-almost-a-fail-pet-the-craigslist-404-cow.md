@@ -18,7 +18,7 @@ I know, I know. Technically, it's only a <a href="http://fredericiana.com/tag/fa
 
 That makes this <a href="http://en.wikipedia.org/wiki/ASCII_art">ASCII</a> cow from Craigslist not really a fail pet, but I find it a nice enough idea to blog it anyway:
 
-<img src="http://fredericiana.com/wp-content/uploads/2010/03/craigslist-not-found.jpg" alt="" title="Craigslist: 404 not found" width="474" height="475" class="alignnone size-full wp-image-2669" />
+<img src="/media/wp/2010/03/craigslist-not-found.jpg" alt="" title="Craigslist: 404 not found" width="474" height="475" class="alignnone size-full wp-image-2669" />
 
 This little fellow shows up on the 404 error page (i.e., any page that does not exist on craigslist.org, such as <a href="http://craigslist.org/thisdoesnotexist">this one</a>). While it is just taken from a <a href="http://en.wikipedia.org/wiki/Cowsay">well-known UNIX command</a>, I like it a lot because it goes very well with the simplicity of craigslist itself, which is intentionally so much different than all the shiny "Web 2.0" applications.
 

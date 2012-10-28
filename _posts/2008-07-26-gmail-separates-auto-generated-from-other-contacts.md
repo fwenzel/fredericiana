@@ -17,7 +17,7 @@ Just recently I ranted about <a href="http://fredericiana.com/2008/06/05/dear-gm
 
 It seems as if Google heard me (and many others): They now introduced a new section <strong>"suggested contacts"</strong> that they dump everybody and their brother's email address into, but the people you actually want to have as contacts stay in an also newly created "My Contacts" folder.
 
-<img src="http://fredericiana.com/wp-content/uploads/2008/07/gmail-contacts.png" alt="" title="Gmail Contacts" width="400" height="159" class="alignnone size-full wp-image-1371" />
+<img src="/media/wp/2008/07/gmail-contacts.png" alt="" title="Gmail Contacts" width="400" height="159" class="alignnone size-full wp-image-1371" />
 
 This gives you the convenience of still adding people you email to the auto-complete feature (which, in and by itself is not so bad), while not hopelessly cluttering your contacts. Exactly what I want!
 

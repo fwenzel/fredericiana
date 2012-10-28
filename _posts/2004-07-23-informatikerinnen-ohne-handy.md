@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img width="108" height="110" border="0" hspace="5" align="right" src="/wp-content/olduploads/handy.serendipityThumb.jpg" alt=""  />Mit einem sympathischen Smiley kommentiert, schiebt ein Kommilitone heute folgende  Anfrage durch die inwi.org-Mailingliste...
+<img width="108" height="110" border="0" hspace="5" align="right" src="/media/wp/handy.serendipityThumb.jpg" alt=""  />Mit einem sympathischen Smiley kommentiert, schiebt ein Kommilitone heute folgende  Anfrage durch die inwi.org-Mailingliste...
 
 <blockquote>Sehr geehrte Damen und Herren,
 

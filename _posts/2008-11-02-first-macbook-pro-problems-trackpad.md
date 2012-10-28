@@ -24,5 +24,5 @@ The users in the comments over at CrunchGear also note that  the click of the ne
 
 Let's see how long it takes for the first hardware and software fixes to be released. And for <a href="http://blog.jeanpierre.de/2007/12/29/what-is-it-with-apple-macbooks-and-their-batteries/">old times' sake</a>, when will the first battery factory recall be?
 
-[caption id="attachment_1765" align="alignnone" width="500" caption="Schlock. CC-by-nc-sa licensed on flickr by nathan."]<img src="http://fredericiana.com/wp-content/uploads/2008/11/trashed-macbook-pro.jpg" alt="Schlock. CC-by-nc-sa licensed on flickr by nathan." title="Trashed Macbook Pro" width="500" height="375" class="size-medium wp-image-1765" />[/caption]
+[caption id="attachment_1765" align="alignnone" width="500" caption="Schlock. CC-by-nc-sa licensed on flickr by nathan."]<img src="/media/wp/2008/11/trashed-macbook-pro.jpg" alt="Schlock. CC-by-nc-sa licensed on flickr by nathan." title="Trashed Macbook Pro" width="500" height="375" class="size-medium wp-image-1765" />[/caption]
 <em>Picture: <a href="http://flickr.com/photos/ndm007/171398958/">"Schlock."</a> CC-by-nc-sa licensed on flickr by nathan.</em>

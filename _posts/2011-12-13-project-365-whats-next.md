@@ -13,7 +13,7 @@ layout: post
 ---
 With the end of <a href="http://fredericiana.com/2010/12/31/my-project-365/">Project 365</a> rapidly approaching (I'll blog about the project itself separately), the obvious question <a href="https://twitter.com/#!/fwenzel/status/146433439212634113">arises</a>: <strong>What's next?</strong>
 
-<img src="http://fredericiana.com/wp-content/uploads/2011/12/fred-shadow-300x199.jpg" alt="" title="Fred Shadow" width="300" height="199" class="alignright size-medium wp-image-4760" />As I can't quite get used to the project ending and me sitting bored on my hands all day (ha, ha) I am considering doing something similar next year. There are several (serious or not so serious) options on the table:
+<img src="/media/wp/2011/12/fred-shadow-300x199.jpg" alt="" title="Fred Shadow" width="300" height="199" class="alignright size-medium wp-image-4760" />As I can't quite get used to the project ending and me sitting bored on my hands all day (ha, ha) I am considering doing something similar next year. There are several (serious or not so serious) options on the table:
 
 <ul>
 	<li><em>Project 365, the rebirth:</em> Another year of photos? As if there's <em>anything</em> I haven't shown to my readers yet ;)</li>

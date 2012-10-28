@@ -13,7 +13,7 @@ meta: {}
 
 layout: post
 ---
-<img src='http://fredericiana.com/wp-content/uploads/2007/11/gimp.png' alt='Gimp Logo' align="right" class="alignright" />On our neverending bug journey though Leopard land, here we go with the next episode: X11.app in connection with the <a href="http://gimp.org">Gimp</a>.
+<img src='/media/wp/2007/11/gimp.png' alt='Gimp Logo' align="right" class="alignright" />On our neverending bug journey though Leopard land, here we go with the next episode: X11.app in connection with the <a href="http://gimp.org">Gimp</a>.
 
 Apparently, Apple did not find time to test one of the (if I had to guestimate) most used X11 applications on the Mac with their newest version of X11. Therefore, X11 on Leopard crashes frequently with the latest <a href="http://gimp-app.sourceforge.net/">Mac version of the Gimp image editing software</a>.
 

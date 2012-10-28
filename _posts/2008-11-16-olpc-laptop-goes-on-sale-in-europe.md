@@ -18,7 +18,7 @@ meta:
   aktt_notify_twitter: "yes"
 layout: post
 ---
-<img src="http://fredericiana.com/wp-content/uploads/2008/11/olpc.jpg" alt="" title="The OLPC XO-1 laptop" width="240" height="187" class="alignright size-full wp-image-1827" align="right" />The <a href="http://news.bbc.co.uk/2/hi/technology/7728881.stm">"One Laptop Per Child" laptop ("XO-1") is due to go on sale in Europe tomorrow, November 17</a>:
+<img src="/media/wp/2008/11/olpc.jpg" alt="" title="The OLPC XO-1 laptop" width="240" height="187" class="alignright size-full wp-image-1827" align="right" />The <a href="http://news.bbc.co.uk/2/hi/technology/7728881.stm">"One Laptop Per Child" laptop ("XO-1") is due to go on sale in Europe tomorrow, November 17</a>:
 
 <blockquote>The One Laptop Per Child (OLPC) organisation is planning to sell the devices via online store Amazon's European outlets from 17 November.
 

@@ -33,7 +33,7 @@ Nachdem das Auto eine halbe Stunde auf dem Prüfstand <del>vergewaltigt</del><in
 
 Hier ein Bild meines Smog-Reports; mehr Infos zum Smog-Check hat auch der <a href="http://usarundbrief.com/55/#5">USA-Rundbrief von Mike und Angelika Schilli</a>.
 
-<a class="imagelink" href="http://fredericiana.de/uploads/2006/10/smog-check.jpg" title="Smog-Check" target="_blank"><img id="image705" src="http://fredericiana.de/uploads/2006/10/smog-check.thumbnail.jpg" alt="Smog-Check" /></a>
+<a class="imagelink" href="/media/wp/2006/10/smog-check.jpg" title="Smog-Check" target="_blank"><img id="image705" src="/media/wp/2006/10/smog-check.thumbnail.jpg" alt="Smog-Check" /></a>
 
 Und weil wir hier in <strong>Kalifornien</strong> sind, wo die Sonne immer etwas wärmer, die Hühner etwas glücklicher, die Menschen freundlicher, der Gouverneur österreichischer und vielleicht gerade deshalb alles auch ein bisschen teurer ist, schlug der erste Haken auf der Checkliste gleich anständig zu Buche.
 

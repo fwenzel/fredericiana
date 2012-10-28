@@ -19,7 +19,7 @@ It seems to me like some people have a little too much time at their hands: I re
 
 The comments look something like this:
 <div class="img-label">
-<img src='http://fredericiana.com/wp-content/uploads/2007/12/handcraftedspam.jpg' alt='Hand Crafted Wordpress Spam' />
+<img src='/media/wp/2007/12/handcraftedspam.jpg' alt='Hand Crafted Wordpress Spam' />
 Some hand-crafted wordpress spam, notice how the comment makes sense but the supplied URL is quite apparently promoting spam content.
 </div>
 

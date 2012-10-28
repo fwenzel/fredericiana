@@ -11,7 +11,7 @@ layout: post
 ---
 ... da geht eine groooße "ich tausch mein Blog für ein paar Tage"-Aktion (kurz: <a href="http://www.forsake.de/serendipity/archives/167-Blog-Swap.html">Blog-Swap</a>) und ich habs <em>verpasst</em> - Menno ;) Zu spät drüber gestolpert. <em>(via <a href="http://www.myblog.de/brummelschlumpf/art/1822930">brummelschlumpf</a>)</em>
 
-<img src='http://fredericiana.de/uploads/blogswap.gif' alt='Blogswap Logo' class="centered" />
+<img src='/media/wp/blogswap.gif' alt='Blogswap Logo' class="centered" />
 
 Is auch ein schlechter Zeitpunkt bei all dem Klausurstress hier. Wer hat sich denn sowas ausgedacht? Zum Blogswappen braucht man doch <strong>Zeit</strong>. Kein Verständnis, diese Professoren von heute.
 

@@ -19,6 +19,6 @@ Our <a href="http://fredericiana.com/2009/10/13/meet-lizzy/">dog</a> has started
 
 Sadly, she used my wife's glasses for a raw material:
 
-<img src="http://fredericiana.com/wp-content/uploads/2010/01/lizzy-glasses-575x383.jpg" alt="Glasses, after Lizzy got to them" title="Glasses, after Lizzy got to them" width="575" height="383" class="alignnone size-large wp-image-2543" />
+<img src="/media/wp/2010/01/lizzy-glasses-575x383.jpg" alt="Glasses, after Lizzy got to them" title="Glasses, after Lizzy got to them" width="575" height="383" class="alignnone size-large wp-image-2543" />
 
 Noooooooooooooooooo...!

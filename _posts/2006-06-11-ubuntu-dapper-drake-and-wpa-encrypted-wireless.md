@@ -10,7 +10,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img id="image74" src="http://fredericiana.com/wp-content/uploads/2006/06/ente.thumbnail.jpg" alt="Drake: a Male duck, from wikipedia" />
+<img id="image74" src="/media/wp/2006/06/ente.thumbnail.jpg" alt="Drake: a Male duck, from wikipedia" />
 I am a <a href="http://ubuntu.com">Ubuntu Linux</a> user. On my laptop and at work, I was running "Breezy Badger" (Ubuntu Linux 5.10) since last fall.
 
 But one of the worst things about it was its inability to connect to <a href="http://en.wikipedia.org/wiki/Wi-Fi_Protected_Access">WPA</a>-encrypted Wifi access points. Eventually, I wrote a few shell scripts that made me able to connect to my AP at home, but it was far from being handy.

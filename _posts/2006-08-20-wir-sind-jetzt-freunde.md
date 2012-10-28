@@ -21,7 +21,7 @@ bestätigt! <strong>Ihr seid jetzt Freunde.</strong> Du kannst unter
 
 Als das wohlig warme Gefühl, nun offiziell einen Freund gefunden zu haben (schriftlich hatte ich das noch nicht oft) langsam wieder dem Alltag wich, drängte sich mir doch gleich ein anderes Bild auf, das ich vor einiger Zeit gesehen hatte:
 
-<a class="imagelink" href="http://fredericiana.de/uploads/2006/08/mitmirgehn.jpg" title="Willst du mit mir gehn?" target="_blank"><img id="image654" src="http://fredericiana.de/uploads/2006/08/mitmirgehn.jpg" alt="Willst du mit mir gehn?" height="300" /></a>
+<a class="imagelink" href="/media/wp/2006/08/mitmirgehn.jpg" title="Willst du mit mir gehn?" target="_blank"><img id="image654" src="/media/wp/2006/08/mitmirgehn.jpg" alt="Willst du mit mir gehn?" height="300" /></a>
 (Quelle: <a href="http://www.alles-wird-gut.net/entry.php?id=01359">alles wird gut</a>)
 
 Parallelen reiner Zufall? ;)

@@ -19,7 +19,7 @@ layout: post
 ---
 I just watched the pilot episode of <a href="http://www.pioneerone.tv/">Pioneer One</a>, the "first ever made-for-torrent" TV series, and I liked it a lot!
 
-<a href="http://www.pioneerone.tv/"><img src="http://fredericiana.com/wp-content/uploads/2010/06/pioneerone.jpg" alt="" title="Pioneer One" width="475" height="320" class="alignnone size-full wp-image-2824" /></a>
+<a href="http://www.pioneerone.tv/"><img src="/media/wp/2010/06/pioneerone.jpg" alt="" title="Pioneer One" width="475" height="320" class="alignnone size-full wp-image-2824" /></a>
 
 The story is intriguing:
 

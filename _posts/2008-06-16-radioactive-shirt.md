@@ -15,7 +15,7 @@ layout: post
 ---
 Nice, I ordered a <a href="http://www.assaultshirts.com/radioactive-shirt.html">"radioactive" t-shirt</a> from <a href="http://www.assaultshirts.com/">Assault</a> last week and it was just delivered. Here's the design:
 
-<a href='http://www.assaultshirts.com/radioactive-shirt.html'><img src="http://fredericiana.com/wp-content/uploads/2008/06/t-shirt_radioactive.jpg" alt="" title="Assault Radioactive Design" width="233" height="233" class="alignnone size-full wp-image-1305" /></a>
+<a href='http://www.assaultshirts.com/radioactive-shirt.html'><img src="/media/wp/2008/06/t-shirt_radioactive.jpg" alt="" title="Assault Radioactive Design" width="233" height="233" class="alignnone size-full wp-image-1305" /></a>
 
 Looks like a pretty nice piece of fabric, doesn't it?
 

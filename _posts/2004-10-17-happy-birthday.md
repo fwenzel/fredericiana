@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<p><img width="110" height="32" border="0" hspace="5" align="right" src="/wp-content/olduploads/openoffice-logo.serendipityThumb.gif" alt=""  /><a target="_BLANK" href="http://www.openoffice.org/about_us/birthday4.html" title="http://www.openoffice.org/about_us/birthday4.html" onmouseover="window.status='http://www.openoffice.org/about_us/birthday4.html';return true;" onmouseout="window.status='';return true;">OpenOffice.org wird vier</a>.</p>
+<p><img width="110" height="32" border="0" hspace="5" align="right" src="/media/wp/openoffice-logo.serendipityThumb.gif" alt=""  /><a target="_BLANK" href="http://www.openoffice.org/about_us/birthday4.html" title="http://www.openoffice.org/about_us/birthday4.html" onmouseover="window.status='http://www.openoffice.org/about_us/birthday4.html';return true;" onmouseout="window.status='';return true;">OpenOffice.org wird vier</a>.</p>
 
 <p>Das quelloffene Office-Produkt ist entstanden, als Sun Microsystems den Quellcode von &quot;StarOffice&quot; am 13. Oktober 2000 freigab, und wurde seitdem ständig verbessert.</p>
 

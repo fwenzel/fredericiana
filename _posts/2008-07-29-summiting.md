@@ -22,6 +22,6 @@ Of course at lunch, I was stirring the salad dressing and promptly a round piece
 
 I added some pictures to ipernity already, so <a href="http://www.ipernity.com/doc/14835/album/76805">go over there if you'd like to see what I took pictures of</a>. I also wrote some code to import ipernity into <a href="http://summit.mozilla.org">summit.mozilla.org</a>, where I hope it'll show up soon.
 
-<a href="http://www.ipernity.com/doc/14835/album/76805"><img src="http://fredericiana.com/wp-content/uploads/2008/07/moz08-1.jpg" alt="" title="Mozilla Summit 2008" width="240" height="180" class="alignnone size-full wp-image-1385" /></a> <a href="http://www.ipernity.com/doc/14835/album/76805"><img src="http://fredericiana.com/wp-content/uploads/2008/07/moz08-2.jpg" alt="" title="Mozilla Summit 2008" width="240" height="180" class="alignnone size-full wp-image-1387" /></a>
+<a href="http://www.ipernity.com/doc/14835/album/76805"><img src="/media/wp/2008/07/moz08-1.jpg" alt="" title="Mozilla Summit 2008" width="240" height="180" class="alignnone size-full wp-image-1385" /></a> <a href="http://www.ipernity.com/doc/14835/album/76805"><img src="/media/wp/2008/07/moz08-2.jpg" alt="" title="Mozilla Summit 2008" width="240" height="180" class="alignnone size-full wp-image-1387" /></a>
 
 Enjoy!

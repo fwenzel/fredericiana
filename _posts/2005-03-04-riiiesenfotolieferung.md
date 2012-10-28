@@ -15,7 +15,7 @@ Heute morgen dann fährt ein gemütliches, gelbes Postauto vor und der gemütlic
 
 <blockquote>"Verdammt!"</blockquote>denkt sich da unser Protagonist, <blockquote>"ich dachte, ich hätte <strong>Passbilder</strong> angeklickt?"</blockquote>
 
-<img src="http://fredericiana.de/uploads/usbchickklein.jpg" alt="UPS" class="alignleft border" /><blockquote>"... und wenn ich schon aus Versehen auf <strong>Transparent, 20 x 15 Meter</strong> gekommen bin, wieso hat es dann nicht wenigstens von UPS geliefert werden können?" ;)</blockquote>
+<img src="/media/wp/usbchickklein.jpg" alt="UPS" class="alignleft border" /><blockquote>"... und wenn ich schon aus Versehen auf <strong>Transparent, 20 x 15 Meter</strong> gekommen bin, wieso hat es dann nicht wenigstens von UPS geliefert werden können?" ;)</blockquote>
 
 Doch weit gefehlt. Der geschulte Röntgenblick stellt fest, dass es sich bei dem gerade angekommenen drei-auf-drei-Meter-Paket nur um ein <em>großzügig</em> eingepacktes Kleidungsstück handeln kann, und nicht um Fotos. Diese hingegen drückt ihm - zu seiner Erleichterung - nur ein paar Minuten später die auf einem gemütlichen, gelben Fahrrad anreisende gemütliche, - ihr wisst schon - nicht gelbe Postbotin in die Hand.
 

@@ -16,7 +16,7 @@ layout: post
 ---
 Guess I am getting closer to running a well-usable version of Leopard, but I am not quite there yet: Since yesterday, my Trash turns out to be always shown as "full":
 
-<img src='http://fredericiana.com/wp-content/uploads/2007/11/trash-always-full.jpg' alt='Leopard Trash Full' />
+<img src='/media/wp/2007/11/trash-always-full.jpg' alt='Leopard Trash Full' />
 (Yes, <em>Papierkorb</em> is the German word for "paper bin").
 
 So far, I haven't been able to figure out why this happens -- there's nothing in there, really. I even "<code>sudo rm -rf</code>"-deleted the <code>.Trash</code> folder out of my home folder, but it didn't help. OSX did automatically recreate it (empty!) but the dock icon won't change.

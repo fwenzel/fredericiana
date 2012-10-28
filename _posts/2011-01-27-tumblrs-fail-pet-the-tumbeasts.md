@@ -19,7 +19,7 @@ In a <a href="http://theoatmeal.com/comics/state_web_winter">recent comic</a>, T
 
 What's awesome is that Tumblr actually did end up <a href="http://oatmeal.tumblr.com/post/2916375890/thank-you-tumblr">using his artwork</a> on their <a href="http://www.tumblr.com/503.html">error page</a>. This is what it looks like:
 
-<a href="http://fredericiana.com/wp-content/uploads/2011/01/tumbeasts.jpg"><img src="http://fredericiana.com/wp-content/uploads/2011/01/tumbeasts-439x400.jpg" alt="" title="Tumbeasts" width="439" height="400" class="aligncenter size-large wp-image-3232" /></a>
+<a href="/media/wp/2011/01/tumbeasts.jpg"><img src="/media/wp/2011/01/tumbeasts-439x400.jpg" alt="" title="Tumbeasts" width="439" height="400" class="aligncenter size-large wp-image-3232" /></a>
 
 Mad props to the Oatmeal and Tumblr for this stellar addition to my <a href="http://fredericiana.com/tag/failpet/">fail pet collection</a>!
 

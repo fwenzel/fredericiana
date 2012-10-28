@@ -13,4 +13,4 @@ Auf flickr.com gibt es viele Bilder von einzelnen Buchstaben, wie zum Beispiel <
 
 Und fertig sind Bilder wie diese... :)
 
-<img src="/uploads/flickrfred.jpg" alt="Freeed" class="centered border" />
+<img src="/media/wp/flickrfred.jpg" alt="Freeed" class="centered border" />

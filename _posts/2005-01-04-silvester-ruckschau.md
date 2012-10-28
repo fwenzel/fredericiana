@@ -13,7 +13,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src="/uploads/feuerwerk.jpg" alt="Feuerwerk" class="alignright border" />Okay, ein Silvesterfreitagsrückblick ist nicht gerade einzigartig - man könnte sogar sagen, er liegt <a href="http://blogg.de/search.php?search=silvester">voll im Trend</a>.
+<img src="/media/wp/feuerwerk.jpg" alt="Feuerwerk" class="alignright border" />Okay, ein Silvesterfreitagsrückblick ist nicht gerade einzigartig - man könnte sogar sagen, er liegt <a href="http://blogg.de/search.php?search=silvester">voll im Trend</a>.
 
 Trotzdem will ich Euch mal ganz rücksichtslos damit belasten:
 

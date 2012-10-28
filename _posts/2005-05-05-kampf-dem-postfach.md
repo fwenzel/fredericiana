@@ -39,7 +39,7 @@ Das Wichtigste ist: <strong>Sei ehrlich.</strong> Wenn du nicht vorhast, die Mai
 <!--adsense-->
 
 <h2>Lektion 2: Das Archivieren</h2>
-<img src='http://fredericiana.de/uploads/050504gmail.jpg' alt='Gmail Inbox' class="alignright border" />Klar wollen wir das <em>Jahresprogramm des Kleintierzuchtvereins Wanne-Eickel Nord</em> nicht löschen. Wir wollen ja schließlich ab und an reinschaun.
+<img src='/media/wp/050504gmail.jpg' alt='Gmail Inbox' class="alignright border" />Klar wollen wir das <em>Jahresprogramm des Kleintierzuchtvereins Wanne-Eickel Nord</em> nicht löschen. Wir wollen ja schließlich ab und an reinschaun.
 
 Zu bearbeiten gibt es da aber auch nichts. Also ab ins <strong>Archiv</strong> damit!
 
@@ -66,7 +66,7 @@ Auf diese Mails hin können wir einen Anruf tätigen, einen Termin wahrnehmen od
 <h2>Fünfte und letzte Lektion: Sofort antworten</h2>
 Nun gibt es auch kurze Mails zwischendurch, für die der Aufwand, sie zu verschieben, wohl größer ist als die Antwort. Oder solche Mails, die so wichtig sind, dass die Welt ohne unsere Antwort zusammenbricht. Kurzum: Nur ganz, gaaanz selten lassen wir uns in unserer Arbeit unterbrechen und antworten direkt auf eine eintreffende Mail.
 
-<img src='http://fredericiana.de/uploads/050504kurzmail.jpg' alt='Fasse dich kurz - Beispielmail' class="centered border" />
+<img src='/media/wp/050504kurzmail.jpg' alt='Fasse dich kurz - Beispielmail' class="centered border" />
 
 Hier gelten nur zwei Grundsätze: <strong>Fasse dich kurz</strong> und später: <strong>Weg damit!</strong>
 

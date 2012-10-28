@@ -17,7 +17,7 @@ layout: post
 
 Yesterday, flickr launched their German service and at the same time, <a href="http://www.flickr.com/help/filters/#249">disabled access to pictures</a> marked as "moderate" as well as "restricted".
 
-<a href="http://www.flickr.com/photos/freeed/551970877/in/photostream/"><img src='http://fredericiana.com/wp-content/uploads/2007/06/thinkflickr.jpg' alt='Think, flickr!' /></a>
+<a href="http://www.flickr.com/photos/freeed/551970877/in/photostream/"><img src='/media/wp/2007/06/thinkflickr.jpg' alt='Think, flickr!' /></a>
 
 flickr (speaking through staff member <a href="http://www.flickr.com/people/heather/">heather</a>) justifies this <a href="http://www.flickr.com/help/forum/42597/page16/#reply230304">as follows</a>: <em>"The central problem is that Germany has much more stringent age verification laws than its neighboring countries and specifies much harsher penalties, including jail time, for those with direct responsibility"</em>
 
@@ -33,7 +33,7 @@ In any case, <em>"Possibly not suitable for the general public"</em>, which is t
 
 Based on this, it doesn't seem surprising to me that a lot of paying, German customers (like me) are quite upset about flickr's most unprofessional way to handle a possible legal issue: by deciding to block many, many entirely harmless pictures from their sight. Some of the users even threaten to leave flickr very soon if they don't solve the problem within the next fourtysomething hours:
 
-<a href="http://www.flickr.com/photos/freeed/551970881/"><img src='https://fredericiana.com/wp-content/uploads/2007/06/flickr-fullstop.png' alt='Flickr censorship: Full Stop.' /></a>
+<a href="http://www.flickr.com/photos/freeed/551970881/"><img src='/media/wp/2007/06/flickr-fullstop.png' alt='Flickr censorship: Full Stop.' /></a>
 And while I am not as strict about the "two days" as others, I am certainly not going to prolong my flickr "pro" account if this absolutely unacceptable content filtering stays in place.
 
 I think we can at least expect Yahoo to pick up a phone and call a German lawyer who can explain the law to them. When I look at how much their official statements sound like <em>"we will all go to jail!"</em>, they can't possibly have done that.

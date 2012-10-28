@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img width="110" height="31" border="0" hspace="5" align="right" src="/wp-content/olduploads/logos/apache.serendipityThumb.gif" alt=""  />Gerade habe ich noch ein neues Spielzeug ausprobiert: Das URL-Rewriting Modul <a href="http://httpd.apache.org/docs-2.0/mod/mod_rewrite.html" title="http://httpd.apache.org/docs-2.0/mod/mod_rewrite.html" onmouseover="window.status='http://httpd.apache.org/docs-2.0/mod/mod_rewrite.html';return true;" onmouseout="window.status='';return true;">"mod_rewrite"</a> des <a href="http://www.apache.org/" title="http://www.apache.org/" onmouseover="window.status='http://www.apache.org/';return true;" onmouseout="window.status='';return true;">Apache Webservers</a>.
+<img width="110" height="31" border="0" hspace="5" align="right" src="/media/wp/logos/apache.serendipityThumb.gif" alt=""  />Gerade habe ich noch ein neues Spielzeug ausprobiert: Das URL-Rewriting Modul <a href="http://httpd.apache.org/docs-2.0/mod/mod_rewrite.html" title="http://httpd.apache.org/docs-2.0/mod/mod_rewrite.html" onmouseover="window.status='http://httpd.apache.org/docs-2.0/mod/mod_rewrite.html';return true;" onmouseout="window.status='';return true;">"mod_rewrite"</a> des <a href="http://www.apache.org/" title="http://www.apache.org/" onmouseover="window.status='http://www.apache.org/';return true;" onmouseout="window.status='';return true;">Apache Webservers</a>.
 
 Ich habe schon allerhand interessante Dinge darüber gehört, vor allem, dass man es im Sinne der Suchmaschinen einsetzen sollte, weil ewig lange URIs wie
 

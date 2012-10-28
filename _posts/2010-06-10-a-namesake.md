@@ -12,7 +12,7 @@ meta:
   aktt_notify_twitter: "yes"
 layout: post
 ---
-<img src="http://fredericiana.com/wp-content/uploads/2010/06/frederick.jpg" alt="" title="Frederick" width="550" height="420" class="alignnone size-full wp-image-2809" />
+<img src="/media/wp/2010/06/frederick.jpg" alt="" title="Frederick" width="550" height="420" class="alignnone size-full wp-image-2809" />
 
 Coincidence? I let you be the judge ;)
 

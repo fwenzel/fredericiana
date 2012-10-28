@@ -12,7 +12,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img id="image152" src="http://fredericiana.com/wp-content/uploads/2006/12/google-code-new.png" alt="The new options on google code" />
+<img id="image152" src="/media/wp/2006/12/google-code-new.png" alt="The new options on google code" />
 
 Yesterday the Google Code project hosting was updated for the first time (as far as I can tell) after its release in July 2006. Two of the major "flaws" in Google's simplistic approach to Open Source project hosting have been fixed:
 

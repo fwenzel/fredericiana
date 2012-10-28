@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<p><img width="110" height="45" border="0" hspace="5" align="right" src="/wp-content/olduploads/logos/gmaillogo.serendipityThumb.gif" alt=""  />... ist es zwar nicht mehr, wenn jemand eine Einladung zu <a target="_BLANK" href="http://gmail.google.com" title="http://gmail.google.com" onmouseover="window.status='http://gmail.google.com';return true;" onmouseout="window.status='';return true;">Googles GMail</a> bekommt, aber trotzdem haben sich die Leute, glaube ich, gefreut, denen ich gestern und heute einen GMail Account gespendet habe:</p>
+<p><img width="110" height="45" border="0" hspace="5" align="right" src="/media/wp/logos/gmaillogo.serendipityThumb.gif" alt=""  />... ist es zwar nicht mehr, wenn jemand eine Einladung zu <a target="_BLANK" href="http://gmail.google.com" title="http://gmail.google.com" onmouseover="window.status='http://gmail.google.com';return true;" onmouseout="window.status='';return true;">Googles GMail</a> bekommt, aber trotzdem haben sich die Leute, glaube ich, gefreut, denen ich gestern und heute einen GMail Account gespendet habe:</p>
 
 <p>Willkommen,<br />
 <ul>

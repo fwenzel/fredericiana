@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src='http://fredericiana.de/uploads/050620ice.jpg' alt='ein ICE.' class="alignright" /><del>Eine Sensation</del> Ein bisschen ungewohnt war das ja schon: Mein heutiger <strong>ICE</strong> hat <strong>seinen Fahrplan</strong> quasi minutengenau <strong>eingehalten</strong>. Und das sogar auf einer Fahrzeit von fünfeinhalb Stunden von KA nach Berlin.
+<img src='/media/wp/050620ice.jpg' alt='ein ICE.' class="alignright" /><del>Eine Sensation</del> Ein bisschen ungewohnt war das ja schon: Mein heutiger <strong>ICE</strong> hat <strong>seinen Fahrplan</strong> quasi minutengenau <strong>eingehalten</strong>. Und das sogar auf einer Fahrzeit von fünfeinhalb Stunden von KA nach Berlin.
 
 <strong>Erstaunlich!</strong>
 

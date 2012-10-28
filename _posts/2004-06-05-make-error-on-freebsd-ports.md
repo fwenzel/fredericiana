@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img border="0" hspace="5" align="right" src="/wp-content/olduploads/beastie-rechts.serendipityThumb.gif" alt=""  />When I was just trying to build my KDE 3 internationalization package on FreeBSD 5.2.1, a strange -quite meaningless- message prevented me from that:
+<img border="0" hspace="5" align="right" src="/media/wp/beastie-rechts.serendipityThumb.gif" alt=""  />When I was just trying to build my KDE 3 internationalization package on FreeBSD 5.2.1, a strange -quite meaningless- message prevented me from that:
 
 <blockquote>
 ===> Refetch for 1 more times files: kde-i18n-de-3.2.2.tar.bz2

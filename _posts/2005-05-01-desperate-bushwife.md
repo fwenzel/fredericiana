@@ -11,7 +11,7 @@ meta:
   tags: ""
 layout: post
 ---
-<blockquote><img src='http://fredericiana.de/uploads/050501lauradinner.jpg' alt='Laura Bush beim WH Correspondence Dinner' class="alignright" />Ladies and gentlemen, <strong>I am a desperate housewife</strong>. I mean if those women on <acronym title="Anm.: Gemeint ist 'Desperate Housewifes'">that show</acronym> think they're desperate, they ought to be with George!</blockquote>
+<blockquote><img src='/media/wp/050501lauradinner.jpg' alt='Laura Bush beim WH Correspondence Dinner' class="alignright" />Ladies and gentlemen, <strong>I am a desperate housewife</strong>. I mean if those women on <acronym title="Anm.: Gemeint ist 'Desperate Housewifes'">that show</acronym> think they're desperate, they ought to be with George!</blockquote>
 
 Laura Bush über ihren Mann George W. beim White House Correspondents Dinner gestern abend.
 

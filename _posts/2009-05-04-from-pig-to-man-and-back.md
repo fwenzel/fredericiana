@@ -16,7 +16,7 @@ layout: post
 ---
 <a href="http://blog.mozilla.com/sean/">Sean</a> took this snapshot yesterday:
 
-<img src="http://fredericiana.com/wp-content/uploads/2009/05/swineflu.jpg" alt="Swine Flu" title="Swine Flu" width="604" height="453" class="alignnone size-full wp-image-2191" />
+<img src="/media/wp/2009/05/swineflu.jpg" alt="Swine Flu" title="Swine Flu" width="604" height="453" class="alignnone size-full wp-image-2191" />
 
 He says: <em>"Okay, this swine flu nonsense has officially gone too far."</em>
 

@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src="http://fredericiana.de/uploads/050208syncro7630.jpg" alt="Syncro 7630" class="alignleft" />Ich weiß nicht genau, mit welchen Utensilien man im Hause Windsor zur königlichen Rasur verwendet (gut, Prinz Harry verwendet dafür sicher ein altes Wehrmacht-Bajonett), aber ich bin sicher, wenn sich die Royals trocken rasieren würden, dann würden sie den Rasierer nehmen, den ich mir vergangene Woche zugelegt habe.
+<img src="/media/wp/050208syncro7630.jpg" alt="Syncro 7630" class="alignleft" />Ich weiß nicht genau, mit welchen Utensilien man im Hause Windsor zur königlichen Rasur verwendet (gut, Prinz Harry verwendet dafür sicher ein altes Wehrmacht-Bajonett), aber ich bin sicher, wenn sich die Royals trocken rasieren würden, dann würden sie den Rasierer nehmen, den ich mir vergangene Woche zugelegt habe.
 
 Nachdem mein alter "Braun Flex Integral" den Akkutod gestorben ist und gerade erst voll geladen trotzdem meinen Barthaaren nicht mehr als ein müdes Lächeln abringen konnte, brauchte ich einen neuen Bartkiller, wenn ich nicht bald so aussehen will wie Harald Schmidt!
 

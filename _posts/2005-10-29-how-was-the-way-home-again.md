@@ -16,8 +16,8 @@ Markus just sent me a picture message from his cellphone in the tram. Woohoo! Ho
 
 <table border="0" cellpadding="5">
 <tr>
-<td><img src='/uploads/thumb-051029strassenbahn.jpg' alt='StraÃƒÆ’Ã…Â¸enbahn 1' class="centered"/></td>
-<td><img src='/uploads/thumb-051029strassenbahn2.jpg' alt='StraÃƒÆ’Ã…Â¸enbahn 2' class="centered" /></td>
+<td><img src='/media/wp/thumb-051029strassenbahn.jpg' alt='StraÃƒÆ’Ã…Â¸enbahn 1' class="centered"/></td>
+<td><img src='/media/wp/thumb-051029strassenbahn2.jpg' alt='StraÃƒÆ’Ã…Â¸enbahn 2' class="centered" /></td>
 </tr>
 </table>
 

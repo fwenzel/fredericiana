@@ -12,7 +12,7 @@ layout: post
 ---
 Ob <a href="http://www.iep.uni-karlsruhe.de/seite_147.php">Professor</a> <a href="http://de.wikipedia.org/wiki/G%C3%B6tz_Werner">Götz Werner</a> (der Gründer der dm Drogeriemärkte und Prof. an der UKA) weiß, wer ihn da "vor seinen Karren spannen" möchte? - Ich bin nicht sicher.
 
-<img src='http://fredericiana.de/uploads/20050728appd.gif' alt='APPD' class="alignright border" />Doch die <a href="http://de.wikipedia.org/wiki/APPD">Pogo-Anarchisten</a> von der <a href="http://www.appd.de/">APPD</a>, bekannt durch seriöse Slogans wie "Arbeit ist schei*e" oder "Saufen, saufen, jeden Tag nur saufen", sind ganz begeistert von der <a href="http://brandeins.de/home/inhalt_detail.asp?id=1644&MenuID=8&MagID=61&sid=su8416398752303889">Idee Götz Werners, ein (bedingungsloses) Bürgergeld einzuführen</a>.
+<img src='/media/wp/20050728appd.gif' alt='APPD' class="alignright border" />Doch die <a href="http://de.wikipedia.org/wiki/APPD">Pogo-Anarchisten</a> von der <a href="http://www.appd.de/">APPD</a>, bekannt durch seriöse Slogans wie "Arbeit ist schei*e" oder "Saufen, saufen, jeden Tag nur saufen", sind ganz begeistert von der <a href="http://brandeins.de/home/inhalt_detail.asp?id=1644&MenuID=8&MagID=61&sid=su8416398752303889">Idee Götz Werners, ein (bedingungsloses) Bürgergeld einzuführen</a>.
 
 Unter dem Titel <em>"<a href="http://www.appd.de/website/action/sub/pp/artikel.php?skin=website_std&id=20050717_111800_goetz_werner">"dm"-Drogerie-Boss fordert Einführung der Jugendrente!</a>"</em> veröffentlichen sie einen Artikel, in dem sie die Parallelen zwischen Werners Idee der Trennung von Arbeits- und Gütermarkt und ihrer eigenen politischen Vorstellung erkennen.
 

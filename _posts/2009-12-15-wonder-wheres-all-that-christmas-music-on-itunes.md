@@ -17,7 +17,7 @@ If you are an American expat, or something along those lines, and are in the moo
 
 A good trick is to go for the <strong>Adult Contemporary</strong> section:
 
-<img src="http://fredericiana.com/wp-content/uploads/2009/12/itunes-radio.jpg" alt="iTunes Radio" title="iTunes Radio" width="584" height="325" class="alignnone size-full wp-image-2506" />
+<img src="/media/wp/2009/12/itunes-radio.jpg" alt="iTunes Radio" title="iTunes Radio" width="584" height="325" class="alignnone size-full wp-image-2506" />
 
 ... and select a <strong>soft rock</strong> station, such as <em>"Soft Rock from St. Louis"</em>, which is what we listened to today. These stations have a tendency to switch to Christmas music during the season, and should serve all your Christmas music needs, even if there's no way you can receive it on your local radio tuner.
 

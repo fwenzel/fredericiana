@@ -22,7 +22,7 @@ layout: post
 
 On yesterday's WWDC keynote, Steve Jobs introduced "FaceTime" and explained its base technologies with the following words:
 
-<img src="http://fredericiana.com/wp-content/uploads/2010/06/engadget-apple-wwdc-2010-open.jpg" alt="" title="Engadget: Apple WWDC 2010 Keynote" width="600" height="398" class="alignnone size-full wp-image-2781" />
+<img src="/media/wp/2010/06/engadget-apple-wwdc-2010-open.jpg" alt="" title="Engadget: Apple WWDC 2010 Keynote" width="600" height="398" class="alignnone size-full wp-image-2781" />
 
 <blockquote>"Now it's based on a handful of standards... but this is going to be an <strong>open industry standard</strong>."</blockquote>
 

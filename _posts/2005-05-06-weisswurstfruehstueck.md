@@ -11,7 +11,7 @@ layout: post
 ---
 Das morgige Frühstück ist gerettet:
 
-<a href="http://fredericiana.de/uploads/050506weisswurst.jpg"><img src='http://fredericiana.de/uploads/thumb-050506weisswurst.jpg' alt='Weisswurst' class="centered border" /></a>
+<a href="/media/wp/050506weisswurst.jpg"><img src='/media/wp/thumb-050506weisswurst.jpg' alt='Weisswurst' class="centered border" /></a>
 Ich hab mir heute gleich eine Packung Weißwürschd besorgt.
 
 Ob ich allerdings schmerzfrei genug bin, in aller Herrgottsfrühe schon ein <strong>Weißbier</strong> dazu zu trinken, weiß ich noch nicht ;)

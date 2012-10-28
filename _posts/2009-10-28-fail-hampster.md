@@ -18,6 +18,6 @@ Instigated by Twitter's <a href="http://fredericiana.com/2008/09/10/fail-whale-m
 
 I've been loosely collecting those before, so my friend Tobi was so nice to send this one from Facebook over:
 
-<a href="http://fredericiana.com/wp-content/uploads/2009/10/facebook-boo-boo.jpg"><img src="http://fredericiana.com/wp-content/uploads/2009/10/facebook-boo-boo-575x336.jpg" alt="Facebook: Boo Boo" title="Facebook: Boo Boo" width="575" height="336" class="alignnone size-large wp-image-2426" /></a>
+<a href="/media/wp/2009/10/facebook-boo-boo.jpg"><img src="/media/wp/2009/10/facebook-boo-boo-575x336.jpg" alt="Facebook: Boo Boo" title="Facebook: Boo Boo" width="575" height="336" class="alignnone size-large wp-image-2426" /></a>
 
 I think it's from an app and not Facebook itself, but I may be wrong. Anyhow, apparently their hampster made a boo boo. That's more information than I needed, but at least it eases the pain of the failed application. And that's gotta count for something, right?

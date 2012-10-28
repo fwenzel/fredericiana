@@ -17,7 +17,7 @@ I've been making a bunch of <a href="http://en.wikipedia.org/wiki/Internet_meme"
 
 So today, I had the "sobering" realization that the <a href="http://rubygems.org/">ruby gems</a> I bought from a trustworthy gentleman on the Internet recently* might not be as valuable as expected:
 
-<img src="http://fredericiana.com/wp-content/uploads/2012/05/rubygems.jpg" alt="" title="Ruby Gems" width="367" height="417" class="alignnone size-full wp-image-4919" />
+<img src="/media/wp/2012/05/rubygems.jpg" alt="" title="Ruby Gems" width="367" height="417" class="alignnone size-full wp-image-4919" />
 
 I knew it!
 

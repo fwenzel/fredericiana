@@ -21,7 +21,7 @@ Die Dame nimmt das grüne Ungetüm und stopft es in den Abfluss, der groß genug
 
 Ihre Hand greift zum Lichtschalter hinter dem Spülbecken, doch statt den Schauplatz zu erhellen, startet ein Elektromotor im Spülschrank und schnetzelt die todgeweihte Gurke durch den Abfluss. *cruuunch*...
 
-<div align="center"><img src='http://fredericiana.de/uploads/051017ise1.jpg' alt='In-Sink-Erator 1' />
+<div align="center"><img src='/media/wp/051017ise1.jpg' alt='In-Sink-Erator 1' />
 <em>Der ISE in einem gewöhnlichen Spülbecken...</em></div>
 
 Ja, die amerikanischen Haushalte (fast alle, die ich bis dato gesehen habe) haben oft einen so genannten "In-Sink-Erator" in ihrer Spüle eingebaut. Vorbei die Zeiten, wo mach noch mit einem "Stößel" bzw. "Pömpel" oder wie auch immer ihr das Gummiding nennt, den Abfluss durchpusten musste. Hier wird jeder Speiserest rohrverträglich zerkleinert und kann dann einfach heruntergespült werden.
@@ -42,7 +42,7 @@ Tja, Ideen muss man haben, liebe Europäer!
 
 Und hier kommt nun das ultimative Video: Wie benutze ich einen In-Sink-Erator :)
 
-<div align="center"><a href="/uploads/051017insinkerator.avi"><img src='http://fredericiana.de/uploads/051017ise2.jpg' alt='In-Sink-Erator 2' /></a>
+<div align="center"><a href="/media/wp/051017insinkerator.avi"><img src='/media/wp/051017ise2.jpg' alt='In-Sink-Erator 2' /></a>
 <em>(52 Sekunden, 2.1 MB, DivX+MP3)</em></div>
 
 Das erste Objekt habe ich mich dann doch nicht getraut, da reinzuwerfen (obwohl ich irgendwie vermute, das wäre wahrscheinlich auch kein großartiges Problem) - aber ihr könnt dann zumindest sehen (und hören) wie er sich über eine kleinere Einheit Futter hermacht. Das seltsame Geräusch im Hintergrund ist übrigens kein vorbeifahrender Güterzug sondern unsere Spülmaschine. ;)

@@ -13,7 +13,7 @@ Was, ja, was hat Europa eigentlich jemals für uns getan? Das werden sich schon 
 
 In einem coolen <a href="http://www.whathaseuropedone.org/">Flash-Film</a> vom <a href="http://www.europeanmovement.org/">European Movement</a>-Projekt der Europäischen Union werden nun ein paar Antworten gegeben.
 
-<a href="http://www.whathaseuropedone.org/"><img src='http://fredericiana.de/uploads/050616europe.jpg' alt='What has Europe ever done for us?' class="centered" /></a>
+<a href="http://www.whathaseuropedone.org/"><img src='/media/wp/050616europe.jpg' alt='What has Europe ever done for us?' class="centered" /></a>
 
 Europa hat eigentlich nichts gemacht. Eigentlich nichts, außer den 16 Sachen, die den Figuren dort auf Anhieb einfallen. Aber sonst nichts ;)
 

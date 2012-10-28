@@ -10,7 +10,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src='http://fredericiana.com/wp-content/uploads/2007/05/opencola.jpg' alt='OpenCola' class="alignright" align="right" />WikiHow has a <a href="http://www.wikihow.com/Make-OpenCola">howto for making "OpenCola"</a>, a soft drink with a GNU GPL licensed recipe.
+<img src='/media/wp/2007/05/opencola.jpg' alt='OpenCola' class="alignright" align="right" />WikiHow has a <a href="http://www.wikihow.com/Make-OpenCola">howto for making "OpenCola"</a>, a soft drink with a GNU GPL licensed recipe.
 
 The main ingredient is -- <em>how surprising</em> -- sugar:
 

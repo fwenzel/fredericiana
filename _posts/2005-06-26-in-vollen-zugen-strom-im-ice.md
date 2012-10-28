@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src='http://fredericiana.de/uploads/050620ice.jpg' alt='ein ICE. Immer noch geklaut, das Foto.' class="alignright" />Willkommen zu meinem heutigen Live-Experiment: <strong>ICE fahren und auf Strom hoffen</strong>. (Wie so oft: getippt unterwegs, hochgeladen, wenn wieder Netz da ist...)
+<img src='/media/wp/050620ice.jpg' alt='ein ICE. Immer noch geklaut, das Foto.' class="alignright" />Willkommen zu meinem heutigen Live-Experiment: <strong>ICE fahren und auf Strom hoffen</strong>. (Wie so oft: getippt unterwegs, hochgeladen, wenn wieder Netz da ist...)
 
 Wenn man <del>5,5</del> 6 Stunden durch Deutschland tingeln muss, denkt man schon mal darüber nach, wie man die etwa 2 Stunden überbrückt, die die Fahrt länger ist als der Akku durchhält. Jean Pierre meinte "in ICEs gibt es doch Strom!" - naja, in vielen. Der ICE, mit dem ich gekommen war, war zum Beispiel so eine alte Gurke, dass es dort nirgendwo Strom gab.
 

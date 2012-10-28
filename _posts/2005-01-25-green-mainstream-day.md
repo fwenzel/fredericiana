@@ -11,7 +11,7 @@ layout: post
 ---
 Es ist tragisch.
 
-<img src="/wp-content/olduploads/einmalig/americanidiot.jpg" alt="Green Day: American Idiot" class="alignright border" />Green Day, eine Band, deren Fan ich seit... (mal nachschaun)... ungefähr 1995 bin, wird zum Mainstream - "Boulevard of Broken Dreams" wird gerade auf SWR3 hoch und runter gespielt. Nicht, dass das Lied schlecht wäre - nein, es ist sogar <a href="http://fredericiana.de/archives/2004/10/11/american-idiot/">verdammt gut</a>.
+<img src="/media/wp/einmalig/americanidiot.jpg" alt="Green Day: American Idiot" class="alignright border" />Green Day, eine Band, deren Fan ich seit... (mal nachschaun)... ungefähr 1995 bin, wird zum Mainstream - "Boulevard of Broken Dreams" wird gerade auf SWR3 hoch und runter gespielt. Nicht, dass das Lied schlecht wäre - nein, es ist sogar <a href="http://fredericiana.de/archives/2004/10/11/american-idiot/">verdammt gut</a>.
 
 Viel furchterweckender ist der Eintritt in <strong>Phase II</strong> des ewigen Kreislaufs guter Musik: Zuerst befindet man sich irgendwie in der "Geheimtipp-Ecke" (nämlich: Phase I) und wird von den Leuten aus Phase II und III manchmal mitleidig, manchmal kopfschüttelnd angesehen, und sie denken "armer Irrer..." - was zugegeben gerade in der Pubertät nicht gerade ein unerwünschter Nebeneffekt war. Uns wars egal, und wir haben einfach noch ein wenig lauter gedreht und erst aufgehört, als wir befürchten mussten, dass die Senfkristall-Gläser aus dem Schrank fallen würden.
 

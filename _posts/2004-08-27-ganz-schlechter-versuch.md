@@ -10,7 +10,7 @@ meta:
   tags: ""
 layout: post
 ---
-<p><img width="110" height="83" border="0" hspace="5" align="right" src="/wp-content/olduploads/spam-dose.serendipityThumb.jpg" alt=""  />Das riecht ja schon fast nach der <a target="<u>BLANK" href="http://blog.koehntopp.de/archives/450.html" title="http://blog.koehntopp.de/archives/450.html" onmouseover="window.status='http://blog.koehntopp.de/archives/450.html';return true;" onmouseout="window.status='';return true;">@-Benutzungsgebühr</a>...</p>
+<p><img width="110" height="83" border="0" hspace="5" align="right" src="/media/wp/spam-dose.serendipityThumb.jpg" alt=""  />Das riecht ja schon fast nach der <a target="<u>BLANK" href="http://blog.koehntopp.de/archives/450.html" title="http://blog.koehntopp.de/archives/450.html" onmouseover="window.status='http://blog.koehntopp.de/archives/450.html';return true;" onmouseout="window.status='';return true;">@-Benutzungsgebühr</a>...</p>
 
 <p>Da schreibt mir also ein gewisser <b>Patrick H.</b> aus <!--'''Patrick Hofmann''' aus der '''Rathenaustr. 22''' in--> <b>Bayreuth</b> unter dem Namen <i>Buchhaltung</i>, ich hätte eine ominöse Rechnung nicht bezahlt.</p>
 

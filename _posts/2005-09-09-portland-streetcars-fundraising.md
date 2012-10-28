@@ -15,7 +15,7 @@ Alles in allem ist Portland also eine fahrradfreundliche Stadt. Jeder fährt mit
 
 In meiner Unistadt Corvallis muss ich das ganze noch austesten. Dort gibt es keine Bahnen (Kleinstadt, ihr wisst schon), dafür aber einen Bus. Der fährt allerdings nur jede Stunde und ist deshalb vielleicht nicht unbedingt das Mittel der Wahl für alle Tage. Allerdings ist er für OSU-Studenten kostenlos und das ist doch auch schon mal was. Überhaupt hat jeder ein Fahrrad und die meisten auch ein Auto, weil CV wirklich nicht der Nabel der Welt ist, aber ich werde das mal auf mich zukommen lassen.
 
-<img src='http://fredericiana.de/uploads/050908portlandstreetcar.jpg' alt='Eine Stadtbahn in Portland' class="centered" />
+<img src='/media/wp/050908portlandstreetcar.jpg' alt='Eine Stadtbahn in Portland' class="centered" />
 
 Aber noch bin ich ja in Portland. Die "Streetcars" hier sind übrigens recht neu und stammen aus Tschechien - von <a href="http://www.heritagetrolley.org/artcileBringBackStreetcars10.htm">Skoda</a> :) Das steht auf einer dicken Metallplakette zusammen mit "built in 2002" vorne an der Fahrerkabine. Etwas Lustiges ist mir noch aufgefallen: Da die Streetcars in der Innenstadt ja nichts kosten, muss jemand anderes das bezahlen. Aus diesem Grund folgt auf jede Ansage einer Haltestelle so etwas wie: "sponsored by <em>Firma</em> - <em>www.firmenname.com</em>".
 

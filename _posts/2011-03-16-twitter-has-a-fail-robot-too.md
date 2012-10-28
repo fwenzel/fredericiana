@@ -13,7 +13,7 @@ meta:
   aktt_notify_twitter: "yes"
 layout: post
 ---
-<a href="http://fredericiana.com/wp-content/uploads/2011/03/twitter-failrobot.jpg"><img src="http://fredericiana.com/wp-content/uploads/2011/03/twitter-failrobot-575x325.jpg" alt="" title="Twitter Failrobot" width="575" height="325" class="aligncenter size-large wp-image-3492" /></a>
+<a href="/media/wp/2011/03/twitter-failrobot.jpg"><img src="/media/wp/2011/03/twitter-failrobot-575x325.jpg" alt="" title="Twitter Failrobot" width="575" height="325" class="aligncenter size-large wp-image-3492" /></a>
 
 Twitter's <a href="http://fredericiana.com/2009/08/01/why-wikipedia-might-need-a-fail-pet-and-why-mozilla-does-not/">fail whale</a> has a little friend, a <strong>fail robot</strong>. Not sure how the two relate to each other, but it seems the whale comes out when twitter struggles under the sheer load of tweets, while the fail robot denotes service errors not caused by load?
 

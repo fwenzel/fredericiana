@@ -19,7 +19,7 @@ Today, Mozilla is starting the public process on revising its signature code lic
 
 The discussion is happening on the website <a href="http://mpl.mozilla.org">mpl.mozilla.org</a> that looks something like this:
 
-<img src="http://fredericiana.com/wp-content/uploads/2010/03/updating-mpl.jpg" alt="" title="Updating the MPL" width="550" height="366" class="alignnone size-full wp-image-2633" />
+<img src="/media/wp/2010/03/updating-mpl.jpg" alt="" title="Updating the MPL" width="550" height="366" class="alignnone size-full wp-image-2633" />
 
 I am happy about this for a number of reasons. Of course, I made the website (the design is borrowed from <a href="http://mozilla.org">mozilla.org</a>), so I am naturally happy to see it being available to a wider audience.
 

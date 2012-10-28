@@ -14,7 +14,7 @@ layout: post
 ---
 I am a fan of Words with Friends, a Scrabble clone made by Zynga (of FarmVille fame). The app's competitive edge is the availability across platforms (iOS and Android). In the same, cross-platform, spirit, they recently started offering a Facebook app, so people can waste their time not only when they are out and about, but also wherever they have access to a full-blown computer. Unfortunately, clicking on the <strong>Words With Friends Facebook app</strong> leads to this screen:
 
-<a href="http://fredericiana.com/wp-content/uploads/2011/08/wordswithfriends-insecure.jpg"><img src="http://fredericiana.com/wp-content/uploads/2011/08/wordswithfriends-insecure-575x267.jpg" alt="" title="Words with Friends: Insecure Connection" width="575" height="267" class="aligncenter size-large wp-image-4133" /></a>
+<a href="/media/wp/2011/08/wordswithfriends-insecure.jpg"><img src="/media/wp/2011/08/wordswithfriends-insecure-575x267.jpg" alt="" title="Words with Friends: Insecure Connection" width="575" height="267" class="aligncenter size-large wp-image-4133" /></a>
 
 My Facebook session is SSL-encrypted by default, but Words with Friends requires me to disable this encryption. This is wrong on many levels. Most notably, if I disable "secure browsing" on Facebook altogether, even only for this session, my session cookie will be sent in plain text over the wire (or worse, on Wifi, over the air). If I do this at a coffee shop or airport, this is a great invitation for every evildoer in the general vicinity to hijack my Facebook account.
 

@@ -16,8 +16,8 @@ Recently I got caught up in Wikipedia again, this times investigating the comput
 
 Soon after I felt the urge to put a dopefish on a t-shirt. What do you think of that design?
 
-<img src="http://fredericiana.com/wp-content/uploads/2008/07/dopefish-t-shirt.jpg" alt="" title="Dopefish T-Shirt Design" width="273" height="275" class="alignnone size-full wp-image-1340" />
+<img src="/media/wp/2008/07/dopefish-t-shirt.jpg" alt="" title="Dopefish T-Shirt Design" width="273" height="275" class="alignnone size-full wp-image-1340" />
 
 Or, do you prefer this (possibly less obtrusive) version?
 
-<img src="http://fredericiana.com/wp-content/uploads/2008/07/dopefish-t-shirt-small.jpg" alt="" title="Dopefish T-Shirt-Design, with small fish" width="261" height="278" class="alignnone size-full wp-image-1341" />
+<img src="/media/wp/2008/07/dopefish-t-shirt-small.jpg" alt="" title="Dopefish T-Shirt-Design, with small fish" width="261" height="278" class="alignnone size-full wp-image-1341" />

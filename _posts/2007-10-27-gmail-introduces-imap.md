@@ -13,7 +13,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src="http://fredericiana.com/wp-content/olduploads/logos/gmaillogo.serendipityThumb.gif" alt="GMail" class="alignright" align="right" />Oh, how long have I waited for this! Almost three years ago, I blogged about the then newly-introduced <a href="http://fredericiana.com/2004/11/17/gmail-spricht-pop-ist-das-alles/">POP access for GMail</a> (German) and, to summarize it for you, my conclusion was that POP does not sufficiently support GMail's specialities, in particular the big storage capacity (downloading tons of mail is no fun) and tagging (which could easily be replicated in IMAP folders).
+<img src="/media/wp/logos/gmaillogo.serendipityThumb.gif" alt="GMail" class="alignright" align="right" />Oh, how long have I waited for this! Almost three years ago, I blogged about the then newly-introduced <a href="http://fredericiana.com/2004/11/17/gmail-spricht-pop-ist-das-alles/">POP access for GMail</a> (German) and, to summarize it for you, my conclusion was that POP does not sufficiently support GMail's specialities, in particular the big storage capacity (downloading tons of mail is no fun) and tagging (which could easily be replicated in IMAP folders).
 
 Now, three years later, <a href="http://mail.google.com/support/bin/answer.py?ctx=gmail&hl=en&answer=75725">GMail implements IMAP</a> and with that, in my opinion, GMail has become a global player in email that now actually deserves the name.
 

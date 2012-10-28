@@ -18,7 +18,7 @@ Today was the last day at Mozilla for <a href="http://alex.polvi.net/2008/08/07/
 
 But it wouldn't be our Alex if he didn't leave with a bang, so he made a <a href="http://foxkehdance.com/">"Hampster Dance" style website named "Foxkeh Dance"</a>, featuring the cute Japanese Firefox mascot "Foxkeh" and celebrating <a href="http://blog.mozilla.com/blog/2008/03/31/10-years-of-mozilla/">10 years of Mozilla</a> along with 10 years of <a href="http://en.wikipedia.org/wiki/The_Hampster_Dance">Hampster Dance</a>:
 
-<a href="http://foxkehdance.com/"><img src="http://fredericiana.com/wp-content/uploads/2008/08/foxkeh-dance.jpg" alt="" title="The Foxkeh Dance" width="500" height="191" class="alignnone size-full wp-image-1459" /></a>
+<a href="http://foxkehdance.com/"><img src="/media/wp/2008/08/foxkeh-dance.jpg" alt="" title="The Foxkeh Dance" width="500" height="191" class="alignnone size-full wp-image-1459" /></a>
 
 I just warn you, if you're like me, you'll have trouble getting that catchy tune out of your head for the rest of the day -- much like the first time when you looked at Hampster dance back in the 90s.
 

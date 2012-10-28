@@ -21,7 +21,7 @@ Naja, wenigstens fuhr die Bahn ja tatsächlich - laut Fahrplan "nicht in Nächte
 
 Sollte man meinen. Denn der Anschlussbus, übrigens mit derselben Anmerkung, "nicht in Nächten auf Samstage oder Sonn-/Feiertage", versehen, ließ vergeblich auf sich warten und verlieh dem Abend damit ein ganz wundervolles Ende.
 
-<img src='http://fredericiana.de/uploads/calvangry.jpg' alt='Angry Calvin' class="alignright" />Als Moral von der Geschichte habe ich zur Auswahl:
+<img src='/media/wp/calvangry.jpg' alt='Angry Calvin' class="alignright" />Als Moral von der Geschichte habe ich zur Auswahl:
 <ol>
 	<li>geh nicht mit der Bahn ins Kino</li>
 	<li>geh nicht mit der Bahn ins Kino</li>

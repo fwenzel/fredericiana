@@ -24,6 +24,6 @@ Today, I had enough, and after a little more googling, I stumbled across a comme
 
 If you have the same problem, uncheck the following box in <em>System Settings</em> / <em>Bluetooth</em> / <em>Advanced Settings</em> to give it a shot:
 
-<img src="http://fredericiana.com/wp-content/uploads/2009/11/bluetooth-wake.jpg" alt="Bluetooth Wake" title="Bluetooth Wake" class="alignnone size-full wp-image-2497" height="482" width="566"/>
+<img src="/media/wp/2009/11/bluetooth-wake.jpg" alt="Bluetooth Wake" title="Bluetooth Wake" class="alignnone size-full wp-image-2497" height="482" width="566"/>
 
 Happy zombie-Mac killing!

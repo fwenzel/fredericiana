@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<a href="http://www.eg-abi2002.de/" title="http://www.eg-abi2002.de/" onmouseover="window.status='http://www.eg-abi2002.de/';return true;" onmouseout="window.status='';return true;"><img width="110" height="55" border="0" hspace="5" align="right" src="/wp-content/olduploads/abitorienten.serendipityThumb.jpg" alt=""  /></a>Letzte Woche war meine <a href="http://www.eg-abi2002.de/" title="http://www.eg-abi2002.de/" onmouseover="window.status='http://www.eg-abi2002.de/';return true;" onmouseout="window.status='';return true;">AbiTOR-Homepage</a> zeitweise nicht erreichbar... Als sie sich dann irgendwann wieder ans Netz gewagt hat, war die Haupt-PHP-Datei des Gästebuchs <i>verschwunden</i>.
+<a href="http://www.eg-abi2002.de/" title="http://www.eg-abi2002.de/" onmouseover="window.status='http://www.eg-abi2002.de/';return true;" onmouseout="window.status='';return true;"><img width="110" height="55" border="0" hspace="5" align="right" src="/media/wp/abitorienten.serendipityThumb.jpg" alt=""  /></a>Letzte Woche war meine <a href="http://www.eg-abi2002.de/" title="http://www.eg-abi2002.de/" onmouseover="window.status='http://www.eg-abi2002.de/';return true;" onmouseout="window.status='';return true;">AbiTOR-Homepage</a> zeitweise nicht erreichbar... Als sie sich dann irgendwann wieder ans Netz gewagt hat, war die Haupt-PHP-Datei des Gästebuchs <i>verschwunden</i>.
 
 Nicht lustig!
 

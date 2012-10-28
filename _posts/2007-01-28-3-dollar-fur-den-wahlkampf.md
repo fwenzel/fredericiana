@@ -13,7 +13,7 @@ Gerade bereite ich meine US-Amerikanischen Steuererklärungen vor (3 an der Zahl
 
 In dieser Software bin ich dann auch gleich über eine interessante Frage gestolpert:
 
-<img src='http://fredericiana.de/uploads/2007/01/070128-presidential-campaign-fund.png' alt='Presidential Election Campagin Fund' />
+<img src='/media/wp/2007/01/070128-presidential-campaign-fund.png' alt='Presidential Election Campagin Fund' />
 
 <blockquote>Wollen Sie 3 Ihrer Steuerdollars in den <strong>Fond für den Präsidentenwahlkampf</strong> geben?</blockquote>
 

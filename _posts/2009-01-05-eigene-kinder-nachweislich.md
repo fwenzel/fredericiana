@@ -17,7 +17,7 @@ meta:
   aktt_notify_twitter: "yes"
 layout: post
 ---
-<a href="http://flickr.com/photos/dhammza/1499194036/"><img src="http://fredericiana.com/wp-content/uploads/2009/01/family_portrait.jpg" alt="Family Portrait" title="Family Portrait" width="176" height="240" class="alignright size-full wp-image-1901" align="right" /></a>Die <a href="http://www.mvv-muenchen.de/de/home/fahrgastinformation/tickets-preise/tickets/zeitkarten/isarcard-abo/index.html#id_29">"Fragen und Antworten" zum "IsarCard" Abonnement der Münchner Verkehrsbetriebe</a> haben einen interessanten Passus:
+<a href="http://flickr.com/photos/dhammza/1499194036/"><img src="/media/wp/2009/01/family_portrait.jpg" alt="Family Portrait" title="Family Portrait" width="176" height="240" class="alignright size-full wp-image-1901" align="right" /></a>Die <a href="http://www.mvv-muenchen.de/de/home/fahrgastinformation/tickets-preise/tickets/zeitkarten/isarcard-abo/index.html#id_29">"Fragen und Antworten" zum "IsarCard" Abonnement der Münchner Verkehrsbetriebe</a> haben einen interessanten Passus:
 
 <blockquote>4) Kann ich jemanden mitnehmen?
 

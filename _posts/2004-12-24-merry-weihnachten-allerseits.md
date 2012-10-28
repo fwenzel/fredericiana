@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<p><img width="232" height="308" class="alignright border" src="/wp-content/olduploads/allgemein/weihnachtsbaum.jpg" alt=""  /> Heute per E-Mail reingeflattert:<br />(Und in diesem Sinne <span style="font-weight: bold;">Frohe Weihnachten Euch allen!</span>)<br /><br /></p><blockquote>When the snow falls wunderbar <p /><p>
+<p><img width="232" height="308" class="alignright border" src="/media/wp/allgemein/weihnachtsbaum.jpg" alt=""  /> Heute per E-Mail reingeflattert:<br />(Und in diesem Sinne <span style="font-weight: bold;">Frohe Weihnachten Euch allen!</span>)<br /><br /></p><blockquote>When the snow falls wunderbar <p /><p>
 And the children happy are, <br />
 When the Glatteis on the street, <br />
 And we all a Glühwein need,</p><p>Then you know, es ist soweit: <br />

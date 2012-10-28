@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<a href='/uploads/einmalig/lm_eier-erzeugungscode.gif'><img width="110" height="75" border="0" hspace="5" align="left" src="/wp-content/olduploads/einmalig/lm_eier-erzeugungscode.serendipityThumb.gif" alt=""  /></a>Da meine geschätzten Mitbewohner für zwei Wochen nach <a href="http://www.comune.menfi.ag.it/" title="http://www.comune.menfi.ag.it/" onmouseover="window.status='http://www.comune.menfi.ag.it/';return true;" onmouseout="window.status='';return true;">Menfi</a> gefahren sind, habe ich heute den Kühlschrank unter die Lupe genommen.
+<a href='/media/wp/einmalig/lm_eier-erzeugungscode.gif'><img width="110" height="75" border="0" hspace="5" align="left" src="/media/wp/einmalig/lm_eier-erzeugungscode.serendipityThumb.gif" alt=""  /></a>Da meine geschätzten Mitbewohner für zwei Wochen nach <a href="http://www.comune.menfi.ag.it/" title="http://www.comune.menfi.ag.it/" onmouseover="window.status='http://www.comune.menfi.ag.it/';return true;" onmouseout="window.status='';return true;">Menfi</a> gefahren sind, habe ich heute den Kühlschrank unter die Lupe genommen.
 
 Neben den nicht weiter interessanten Kuriositäten - "Wer um alles in der Welt trinkt schon Eierlikör?" - schweift mein Blick von der Flasche zum Urprodukt und bleibt an seltsamen Schriftzeichen hängen.
 

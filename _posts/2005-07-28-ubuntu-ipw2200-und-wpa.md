@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src='http://fredericiana.de/uploads/poweredbyubuntu.png' alt='Powered by Ubuntu' class="alignright" />Nachdem es zu diesem Thema etwa 100.000 "Howtos" gibt, von denen die meisten immer nur dann funktionieren, wenn man nicht in die Verlegenheit kommt, <a href="http://de.wikipedia.org/wiki/Wi-Fi_Protected_Access">WPA</a> zu benutzen, stelle ich hier mal kurz etwas zusammen, das ausnahmsweise <strong>funktioniert</strong> :)
+<img src='/media/wp/poweredbyubuntu.png' alt='Powered by Ubuntu' class="alignright" />Nachdem es zu diesem Thema etwa 100.000 "Howtos" gibt, von denen die meisten immer nur dann funktionieren, wenn man nicht in die Verlegenheit kommt, <a href="http://de.wikipedia.org/wiki/Wi-Fi_Protected_Access">WPA</a> zu benutzen, stelle ich hier mal kurz etwas zusammen, das ausnahmsweise <strong>funktioniert</strong> :)
 
 Nehmen wir einmal an, das Notebook mit Intel <em>ipw2200</em> WLAN-Karte soll unter <a href="http://ubuntulinux.org">Ubuntu Linux</a> mit einem WPA-verschlüsselten Access Point sprechen.
 

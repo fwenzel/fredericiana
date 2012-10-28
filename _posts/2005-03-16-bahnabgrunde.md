@@ -26,5 +26,5 @@ Wer braucht schon <em>Konfliktmanagement</em> oder eine <em>Deeskalationstaktik<
 
 Lustig übrigens die <em>Werbung</em>, die unter Nicos Artikel automatisch angezeigt wurde.
 
-<blockquote><a href="http://fredericiana.de/uploads/050316lummabahncard.jpg" target="_blank"><img src='http://fredericiana.de/uploads/thumb-050316lummabahncard.jpg' alt='Bahncard' class="centered" /></a>
+<blockquote><a href="/media/wp/050316lummabahncard.jpg" target="_blank"><img src='/media/wp/thumb-050316lummabahncard.jpg' alt='Bahncard' class="centered" /></a>
 Zeigen Sie einfach Ihre BahnCard - ja <strong>wie denn?</strong> ;)</blockquote>

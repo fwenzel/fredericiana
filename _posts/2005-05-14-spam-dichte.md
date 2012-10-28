@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src="/wp-content/olduploads/spam-dose.serendipityThumb.jpg" alt="Spam" class="alignright" />Mein <a href="http://www.unknowngenius.com/blog/wordpress/spam-karma">Spam-Plugin</a> hat in letzter Zeit einiges zu tun:
+<img src="/media/wp/spam-dose.serendipityThumb.jpg" alt="Spam" class="alignright" />Mein <a href="http://www.unknowngenius.com/blog/wordpress/spam-karma">Spam-Plugin</a> hat in letzter Zeit einiges zu tun:
 
 <blockquote># Deleted Spam: 3863
 # Moderated Spam: 15

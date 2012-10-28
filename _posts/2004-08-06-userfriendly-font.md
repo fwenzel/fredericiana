@@ -10,7 +10,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img width="110" height="53" border="0" hspace="5" align="left" src="/wp-content/olduploads/einmalig/userfriendly.serendipityThumb.gif" alt=""  />Wer einmal vom täglichen <a href="http://www.userfriendly.org/" title="http://www.userfriendly.org/" onmouseover="window.status='http://www.userfriendly.org/';return true;" onmouseout="window.status='';return true;">UserFriendly</a> Comic Strip in den Bann gezogen wurde, den lässt er so schnell nicht mehr los ;)
+<img width="110" height="53" border="0" hspace="5" align="left" src="/media/wp/einmalig/userfriendly.serendipityThumb.gif" alt=""  />Wer einmal vom täglichen <a href="http://www.userfriendly.org/" title="http://www.userfriendly.org/" onmouseover="window.status='http://www.userfriendly.org/';return true;" onmouseout="window.status='';return true;">UserFriendly</a> Comic Strip in den Bann gezogen wurde, den lässt er so schnell nicht mehr los ;)
 
 So hat A.J. sein <a href="http://www.uo.com/" title="http://www.uo.com/" onmouseover="window.status='http://www.uo.com/';return true;" onmouseout="window.status='';return true;">Ultima Online</a> Königreich jetzt zum Beispiel gegen eine neue Grafikkarte für Doom 3 eingetauscht *hehe*.
 

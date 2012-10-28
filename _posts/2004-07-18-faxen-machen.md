@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img width="85" height="103" border="0" hspace="5" align="right" src="/wp-content/olduploads/einmalig/Logo_CAPI4Linux.jpg" alt=""  />Heute wollte ich <a href="http://www.magenson.de/target.php?page=howto_hylafax" title="http://www.magenson.de/target.php?page=howto_hylafax" onmouseover="window.status='http://www.magenson.de/target.php?page=howto_hylafax';return true;" onmouseout="window.status='';return true;">wie gewohnt</a> einen Hylafax Fax-Server einrichten (für einen Bekannten in Karlsruhe).
+<img width="85" height="103" border="0" hspace="5" align="right" src="/media/wp/einmalig/Logo_CAPI4Linux.jpg" alt=""  />Heute wollte ich <a href="http://www.magenson.de/target.php?page=howto_hylafax" title="http://www.magenson.de/target.php?page=howto_hylafax" onmouseover="window.status='http://www.magenson.de/target.php?page=howto_hylafax';return true;" onmouseout="window.status='';return true;">wie gewohnt</a> einen Hylafax Fax-Server einrichten (für einen Bekannten in Karlsruhe).
 
 Nachdem ich seine alte Redhat-8 Schaukel (die ich übrigens klangvoll "Einstein" getauft habe **g**) per <a href="http://linux.duke.edu/projects/yum/" title="http://linux.duke.edu/projects/yum/" onmouseover="window.status='http://linux.duke.edu/projects/yum/';return true;" onmouseout="window.status='';return true;">yum</a> auf den neuesten Stand gebracht habe (danke, dass der Reboot zum neuen Kernel aus der Ferne funktioniert hat, Einstein!), habe ich die isdn4k-utils eingespielt.
 

@@ -14,9 +14,9 @@ Liebe Leser, darf ich vorstellen?
 
 Das sind George, Tom und Abe. In einer Woche werde ich mit ihnen meinen ersten Kaffee bezahlen, also habe ich mir die Jungs schonmal vorab im Internet angesehen.
 
-<img src='http://fredericiana.de/uploads/one1.gif' alt='One Dollar' class="centered" />
-<img src='http://fredericiana.de/uploads/two1.gif' alt='Two Dollars' class="centered" />
-<img src='http://fredericiana.de/uploads/5front.jpg' alt='Five Dollars' class="centered" />
+<img src='/media/wp/one1.gif' alt='One Dollar' class="centered" />
+<img src='/media/wp/two1.gif' alt='Two Dollars' class="centered" />
+<img src='/media/wp/5front.jpg' alt='Five Dollars' class="centered" />
 
 Die restlichen Scheine (mit Bild) findet man beim <a href="http://www.moneyfactory.com/section.cfm/4">"Bureau of Engraving and Printing"</a>, der Amerikanischen Bundesdruckerei, sozusagen. (Und die zugehörigen Informationen auf der englischen <a href="http://en.wikipedia.org/wiki/United_States_dollar">Wikipedia</a>)
 

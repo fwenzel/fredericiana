@@ -18,6 +18,6 @@ Look at the <a href="http://maps.google.com/?ll=49.004321,8.408918&spn=0.022241,
 
 The pictures, by the way, seem to be from early 2005 judging from the fact that the new 24-hour library which was opened a few months ago is still heavily being built on in the picture.
 
-<img id="image100" src="http://fredericiana.com/wp-content/uploads/2006/09/karlsruhe-google-maps.jpg" alt="Downtown Karlsruhe on Google Maps" class="center" />
+<img id="image100" src="/media/wp/2006/09/karlsruhe-google-maps.jpg" alt="Downtown Karlsruhe on Google Maps" class="center" />
 
 <em>(via <a href="http://ka.stadtblog.de/item.php?i=1070">Karlsruhe Stadtblog</a>)</em>

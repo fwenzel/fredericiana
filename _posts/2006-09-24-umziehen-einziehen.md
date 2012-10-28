@@ -19,4 +19,4 @@ Internet habe ich übrigens im Apartmentkomplex über Wireless; das ist zwar gan
 
 Fotos aus meinen Privatgemächern gibt es wie für Celebrities üblich natürlich nicht, aber hier ist ein Olivenbaum aus dem Garten:
 
-<a class="imagelink" href="http://fredericiana.de/uploads/2006/09/fredandolivetree.jpg" title="Fred und Olivenbaum"><img id="image674" src="http://fredericiana.de/uploads/2006/09/fredandolivetree.jpg" alt="Fred und Olivenbaum" class="centered" width="350" /></a>
+<a class="imagelink" href="/media/wp/2006/09/fredandolivetree.jpg" title="Fred und Olivenbaum"><img id="image674" src="/media/wp/2006/09/fredandolivetree.jpg" alt="Fred und Olivenbaum" class="centered" width="350" /></a>

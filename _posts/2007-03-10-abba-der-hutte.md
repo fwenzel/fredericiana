@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src='http://fredericiana.de/uploads/2007/03/abba-the-hutt.jpg' alt='ABBA der Hutt' class="alignleft" />
+<img src='/media/wp/2007/03/abba-the-hutt.jpg' alt='ABBA der Hutt' class="alignleft" />
 
 Manche Sachen sind so albern, dass sie schon wieder komisch sind :) <a href="http://www.studiomuscle.com/blog/2007/03/09/abba-the-hutt/">studiomuscle kündigt das Erfolgsalbum "ABBA the hutt" an</a> (ein "Ergebnis der fruchtbaren Zusammenarbeit (...) von <a href="http://de.wikipedia.org/wiki/ABBA">ABBA</a> und <a href="http://de.wikipedia.org/wiki/Jabba#Jabba_der_Hutte">Jabba the Hutt</a>):
 

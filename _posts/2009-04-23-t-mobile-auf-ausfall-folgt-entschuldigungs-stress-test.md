@@ -17,7 +17,7 @@ layout: post
 ---
 Nach dem <a href="http://www.tagesschau.de/inland/tmobile104.html">gewaltigen Netzausfall beim T-Mobile am Dienstag</a> wagt der Handyanbieter nun für Sonntag einen Stresstest: Die Kunden dürfen den ganzen Tag kostenlos SMS in alle deutschen Netze senden.
 
-<img src="http://fredericiana.com/wp-content/uploads/2009/04/t-mobile-ausfall.jpg" alt="T-Mobile-Ausfall" title="T-Mobile-Ausfall" width="600" height="166" class="alignnone size-full wp-image-2157" />
+<img src="/media/wp/2009/04/t-mobile-ausfall.jpg" alt="T-Mobile-Ausfall" title="T-Mobile-Ausfall" width="600" height="166" class="alignnone size-full wp-image-2157" />
 <small>(Screenshot: t-mobile.de)</small>
 
 Angesichts der verschwindend geringen Grenzpreise für SMS auf Seiten der Anbieter dürften sich die Schmerzen für diese "Entschuldigungs-Aktion" in Grenzen halten. Außerdem bleibt anzunehmen, dass das Senden von SMS besser skaliert als das Telefonieren: Würde sich T-Mobile mit kostenlosen <em>Telefongesprächen</em> entschuldigen, wäre möglicherweise der nächste Ausfall vorprogrammiert -- diesmal wegen Überlastung. Das wäre zwar angenehm ironisch, für das Unternehmen aber wohl nur eingeschränkt komisch.

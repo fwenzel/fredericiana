@@ -10,7 +10,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src='https://fredericiana.de/uploads/2007/06/censr.jpg' alt='Censr watches you' class="alignright" align="right" /><blockquote>Das US-Fotoportal Flickr vergrault mit seiner deutschen Lokal-Version die Kunden: Für sie sind jetzt alle Bilder gesperrt, die man eher ungern der Oma, Kindern oder Arbeitskollegen zeigen würde. Einspruch zwecklos. Deutsche Nutzer rufen zum Boykott.</blockquote>
+<img src='/media/wp/2007/06/censr.jpg' alt='Censr watches you' class="alignright" align="right" /><blockquote>Das US-Fotoportal Flickr vergrault mit seiner deutschen Lokal-Version die Kunden: Für sie sind jetzt alle Bilder gesperrt, die man eher ungern der Oma, Kindern oder Arbeitskollegen zeigen würde. Einspruch zwecklos. Deutsche Nutzer rufen zum Boykott.</blockquote>
 
 Das schreibt <a href="http://www.spiegel.de/netzwelt/web/0,1518,488542,00.html">Spiegel Online</a> über die kürzlich eingerichteten Bildfilter bei flickr.
 

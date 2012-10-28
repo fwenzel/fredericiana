@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<p><img width="80" height="80" border="0" hspace="5" align="right" src="/wp-content/olduploads/logos/s9y_logo.png" alt=""  />Wer gängige Open Source <i>Content Management Systeme</i>, <i>Weblogs</i> u.ä. einmal ausprobieren will, ohne sie zuvor mühsam installieren zu müssen, ist bei <a target="_BLANK" href="http://opensourcecms.com/" title="http://opensourcecms.com/" onmouseover="window.status='http://opensourcecms.com/';return true;" onmouseout="window.status='';return true;">OpenSourceCMS.com</a> goldrichtig.</p>
+<p><img width="80" height="80" border="0" hspace="5" align="right" src="/media/wp/logos/s9y_logo.png" alt=""  />Wer gängige Open Source <i>Content Management Systeme</i>, <i>Weblogs</i> u.ä. einmal ausprobieren will, ohne sie zuvor mühsam installieren zu müssen, ist bei <a target="_BLANK" href="http://opensourcecms.com/" title="http://opensourcecms.com/" onmouseover="window.status='http://opensourcecms.com/';return true;" onmouseout="window.status='';return true;">OpenSourceCMS.com</a> goldrichtig.</p>
 
 <p>Dort kann man sowohl die Benutzeransicht (von &quot;außen&quot;) als auch die Admin-Funktionen (von &quot;innen&quot;) an einer Testinstallation ausprobieren und sehen, ob es einem gefällt.</p>
 

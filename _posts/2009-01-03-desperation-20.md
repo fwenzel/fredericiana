@@ -23,7 +23,7 @@ Of course, these times are long over, now everybody has their own blog, and face
 
 But thankfully, if you have a few bucks to spare, you can always count on Google Adsense to spread the word of your oh-so-boring personal updates across the globe. Like this gentleman, who decided to show ads on people's Gmail accounts, in order to get more readers to his twitter account:
 
-<a href="http://fredericiana.com/wp-content/uploads/2009/01/google-twitter.jpg"><img src="http://fredericiana.com/wp-content/uploads/2009/01/google-twitter-575x41.jpg" alt="Google and Twitter" title="Google and Twitter" width="575" height="41" class="alignnone size-medium wp-image-1893" /></a>
+<a href="/media/wp/2009/01/google-twitter.jpg"><img src="/media/wp/2009/01/google-twitter-575x41.jpg" alt="Google and Twitter" title="Google and Twitter" width="575" height="41" class="alignnone size-medium wp-image-1893" /></a>
 
 Now considering he is deeming himself an "online media" expert -- couldn't he have guessed that this kind of self-promotion is a huge cyber-turnoff?
 

@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<p><img width="110" height="43" border="0" hspace="5" align="right" src="/wp-content/olduploads/logos/googlelogo.serendipityThumb.gif" alt=""  />Aus der <a target="_BLANK" href="http://blog.outer-court.com/bible/" title="http://blog.outer-court.com/bible/" onmouseover="window.status='http://blog.outer-court.com/bible/';return true;" onmouseout="window.status='';return true;">"Google Bible"</a>:<br />
+<p><img width="110" height="43" border="0" hspace="5" align="right" src="/media/wp/logos/googlelogo.serendipityThumb.gif" alt=""  />Aus der <a target="_BLANK" href="http://blog.outer-court.com/bible/" title="http://blog.outer-court.com/bible/" onmouseover="window.status='http://blog.outer-court.com/bible/';return true;" onmouseout="window.status='';return true;">"Google Bible"</a>:<br />
 <blockquote></blockquote></p>
 
 <p>001:003 And Google said, Let there be search: and there was search.</p>

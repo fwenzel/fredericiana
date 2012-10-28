@@ -15,4 +15,4 @@ layout: post
 ---
 At the local dry cleaner's:
 
-<img src="http://fredericiana.com/wp-content/uploads/2008/06/pants-drop.jpg" alt="" title="Drop your pants" width="500" height="375" class="alignnone size-full wp-image-1316" />
+<img src="/media/wp/2008/06/pants-drop.jpg" alt="" title="Drop your pants" width="500" height="375" class="alignnone size-full wp-image-1316" />

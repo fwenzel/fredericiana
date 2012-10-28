@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<a href='/uploads/spam-dose.jpg'><img border="0" hspace="5" align="left" src="/wp-content/olduploads/spam-dose.serendipityThumb.jpg" alt=""  /></a><a href="http://blog.jeanpierre.de/" title="http://blog.jeanpierre.de/" onmouseover="window.status='http://blog.jeanpierre.de/';return true;" onmouseout="window.status='';return true;">Jean Pierre</a> war gestern mit seiner Schwiegermama im AAFES-Store der US Army in Heidelberg...
+<a href='/media/wp/spam-dose.jpg'><img border="0" hspace="5" align="left" src="/media/wp/spam-dose.serendipityThumb.jpg" alt=""  /></a><a href="http://blog.jeanpierre.de/" title="http://blog.jeanpierre.de/" onmouseover="window.status='http://blog.jeanpierre.de/';return true;" onmouseout="window.status='';return true;">Jean Pierre</a> war gestern mit seiner Schwiegermama im AAFES-Store der US Army in Heidelberg...
 
 Und was bringt er mir mit?
 

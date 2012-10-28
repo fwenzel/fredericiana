@@ -15,7 +15,7 @@ meta:
   aktt_notify_twitter: "yes"
 layout: post
 ---
-[caption id="attachment_2563" align="alignright" width="150" caption="CC by-sa licensed by twicepics on flickr"]<img src="http://fredericiana.com/wp-content/uploads/2010/01/spam-polaroid-150x150.jpg" alt="" title="Spam" width="150" height="150" class="size-thumbnail wp-image-2563 alignright" align="right" />[/caption]Over the recent weeks I've got frequent blog spam along the lines of:
+[caption id="attachment_2563" align="alignright" width="150" caption="CC by-sa licensed by twicepics on flickr"]<img src="/media/wp/2010/01/spam-polaroid-150x150.jpg" alt="" title="Spam" width="150" height="150" class="size-thumbnail wp-image-2563 alignright" align="right" />[/caption]Over the recent weeks I've got frequent blog spam along the lines of:
 
 <blockquote>Hi. I just noticed that your site looks like it has a <strong>few code problems at the very bottom of your site's page</strong>. I'm not sure if everybody is getting this same problem when browsing your blog? I am employing a totally different browser than most people, referred to as <strong>Opera</strong>, so that is what might be causing it? I just wanted to make sure you know. Thanks for posting some great postings and I'll try to return back with a completely different browser to check things out!</blockquote>
 <small>(emphasis: mine)</small>

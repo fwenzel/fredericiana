@@ -13,16 +13,16 @@ Nachdem ich mein Blog mal wieder optisch ein bisschen verändert habe (ihr wisst
 
 <table width="100%">
 <tr>
-<td width="50%"><a href="http://fredericiana.de/wp-content/themes/MinimaPlus/backgrounds/sententia-burns.jpg" target="_blank"><img src='http://fredericiana.de/uploads/050228burn.jpg' alt='Burn' class="centered border" /></a></td>
-<td width="50%"><a href="http://fredericiana.de/wp-content/themes/MinimaPlus/backgrounds/sententia-caught.jpg" target="_blank"><img src='http://fredericiana.de/uploads/050228caught.jpg' alt='Mouse' class="centered border" /></a></td>
+<td width="50%"><a href="http://fredericiana.de/wp-content/themes/MinimaPlus/backgrounds/sententia-burns.jpg" target="_blank"><img src='/media/wp/050228burn.jpg' alt='Burn' class="centered border" /></a></td>
+<td width="50%"><a href="http://fredericiana.de/wp-content/themes/MinimaPlus/backgrounds/sententia-caught.jpg" target="_blank"><img src='/media/wp/050228caught.jpg' alt='Mouse' class="centered border" /></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="http://fredericiana.de/wp-content/themes/MinimaPlus/backgrounds/sententia-cold.jpg" target="_blank"><img src='http://fredericiana.de/uploads/050228eis.jpg' alt='Eis' class="centered border" /></a></td>
-<td width="50%"><a href="http://fredericiana.de/wp-content/themes/MinimaPlus/backgrounds/sententia-pain.jpg" target="_blank"><img src='http://fredericiana.de/uploads/050228end.jpg' alt='Ende' class="centered border" /></a></td>
+<td width="50%"><a href="http://fredericiana.de/wp-content/themes/MinimaPlus/backgrounds/sententia-cold.jpg" target="_blank"><img src='/media/wp/050228eis.jpg' alt='Eis' class="centered border" /></a></td>
+<td width="50%"><a href="http://fredericiana.de/wp-content/themes/MinimaPlus/backgrounds/sententia-pain.jpg" target="_blank"><img src='/media/wp/050228end.jpg' alt='Ende' class="centered border" /></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="http://fredericiana.de/wp-content/themes/MinimaPlus/backgrounds/sententia-global.jpg" target="_blank"><img src='http://fredericiana.de/uploads/050228global.jpg' alt='Global' class="centered border" /></a></td>
-<td width="50%"><a href="http://fredericiana.de/wp-content/themes/MinimaPlus/backgrounds/sententia-lende.jpg" target="_blank"><img src='http://fredericiana.de/uploads/050228lende.jpg' alt='Lende' class="centered border" /></a></td>
+<td width="50%"><a href="http://fredericiana.de/wp-content/themes/MinimaPlus/backgrounds/sententia-global.jpg" target="_blank"><img src='/media/wp/050228global.jpg' alt='Global' class="centered border" /></a></td>
+<td width="50%"><a href="http://fredericiana.de/wp-content/themes/MinimaPlus/backgrounds/sententia-lende.jpg" target="_blank"><img src='/media/wp/050228lende.jpg' alt='Lende' class="centered border" /></a></td>
 </tr>
 </table>
 

@@ -10,7 +10,7 @@ meta:
   tags: walla+walla onions
 layout: post
 ---
-<a class="imagelink" href="http://fredericiana.de/uploads/2006/06/walla-walla.jpg" title="Walla Walla Onion Chili"><img id="image621" src="http://fredericiana.de/uploads/2006/06/walla-walla.thumbnail.jpg" alt="Walla Walla Onion Chili" /></a>
+<a class="imagelink" href="/media/wp/2006/06/walla-walla.jpg" title="Walla Walla Onion Chili"><img id="image621" src="/media/wp/2006/06/walla-walla.thumbnail.jpg" alt="Walla Walla Onion Chili" /></a>
 Schon allein des Namens wegen habe ich dieses Chili ja kaufen müssen:
 
 Soso, <strong>Walla-Walla-Zwiebeln</strong>. Doch, wie mir ein wissender amerikanischer Freund verraten hat, hat das weder etwas mit dem Jenseits zu tun noch mit dem berüchtigten <a href="http://www.theolympian.com/apps/pbcs.dll/article?AID=/20060417/NEWS06/60417061">Gefängnis von Walla Walla</a> (oder im Amtsenglisch: "Washington State Penitentiary"), das bereits von der Punk-Gruppe <a href="http://de.wikipedia.org/wiki/The_Offspring">The Offspring</a> <a href="http://www.lyrics007.com/The%20Offspring%20Lyrics/Walla%20Walla%20Lyrics.html">besungen</a> wurde. (Nur so am Rande, ein "State Penitentiary", also ein Staatsgefängnis, ist derjenige Knast, in dem sich der Todestrakt des jeweiligen Bundesstaates befindet. In Oregon ist das in der Hauptstadt Salem, in Idaho ebenfalls in der Hauptstadt, Boise, und in Washington eben in Walla Walla).

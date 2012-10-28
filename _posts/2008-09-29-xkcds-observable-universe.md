@@ -16,7 +16,7 @@ layout: post
 ---
 <a href="http://xkcd.com/482/">This xkcd comic</a> is just way too cool to be left unblogged:
 
-<a href="http://xkcd.com/482/"><img src="http://fredericiana.com/wp-content/uploads/2008/09/xkcd-observable-universe.jpg" alt="" title="xkcd: Observable Universe" class="alignnone size-full wp-image-1617" /></a>
+<a href="http://xkcd.com/482/"><img src="/media/wp/2008/09/xkcd-observable-universe.jpg" alt="" title="xkcd: Observable Universe" class="alignnone size-full wp-image-1617" /></a>
 
 Needless to say, due to its ginormous size I needed to cut off the middle part (one of the beauties of its CC-by-nc license), so make sure to click on the picture to see it in all its beauty.
 

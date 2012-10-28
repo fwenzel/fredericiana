@@ -16,7 +16,7 @@ layout: post
 ---
 A few days ago, a colleague of mine mentioned that the font I was using on my blog looked borderline ugly on Linux. Here's a screen shot:
 
-<img src="http://fredericiana.com/wp-content/uploads/2010/03/odd-fonts.png" alt="" title="odd fonts" width="591" height="88" class="alignnone size-full wp-image-2648" />
+<img src="/media/wp/2010/03/odd-fonts.png" alt="" title="odd fonts" width="591" height="88" class="alignnone size-full wp-image-2648" />
 
 As you can see, the uneven glyphs make it look goofy and certainly hard to read. The problem was that I used a font that seems to be present on many Mac and Windows computers, but was unavailable on my colleague's Linux box. His browser tried to substitute it with a different font -- with limited success.
 

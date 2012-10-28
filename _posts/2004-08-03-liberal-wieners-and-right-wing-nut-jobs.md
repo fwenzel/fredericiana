@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img width="110" height="74" border="0" hspace="5" align="right" src="/wp-content/olduploads/einmalig/thisland.serendipityThumb.jpg" alt=""  /><b>"You're a liberal wiener..." - "You're a right wing nut job"</b>
+<img width="110" height="74" border="0" hspace="5" align="right" src="/media/wp/einmalig/thisland.serendipityThumb.jpg" alt=""  /><b>"You're a liberal wiener..." - "You're a right wing nut job"</b>
 
 Solche und andere Nettigkeiten werfen sich <a href="http://www.georgewbush.com/blog/" title="http://www.georgewbush.com/blog/" onmouseover="window.status='http://www.georgewbush.com/blog/';return true;" onmouseout="window.status='';return true;">George Walker Bush</a> und sein Herausforderer <a href="http://blog.johnkerry.com/" title="http://blog.johnkerry.com/" onmouseover="window.status='http://blog.johnkerry.com/';return true;" onmouseout="window.status='';return true;">John Kerry</a> in einer netten Parodie an den Kopf, die Ihr Euch unbedingt ansehen solltet :)
 

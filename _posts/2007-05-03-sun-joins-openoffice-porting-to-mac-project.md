@@ -11,7 +11,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src='http://fredericiana.com/wp-content/uploads/2007/05/sun-openoffice.jpg' alt='SunÃ¢â‚¬â„¢s engagement in OpenOffice.org' class="alignright" align="right" />I'm delighted to hear that <a href="http://blogs.sun.com/GullFOSS/entry/sun_microsystems_engineering_joins_porting">Sun announced</a> today <strong>joining the Mac OSX port</strong> of <a href="http://openoffice.org">OpenOffice.org</a>.
+<img src='/media/wp/2007/05/sun-openoffice.jpg' alt='SunÃ¢â‚¬â„¢s engagement in OpenOffice.org' class="alignright" align="right" />I'm delighted to hear that <a href="http://blogs.sun.com/GullFOSS/entry/sun_microsystems_engineering_joins_porting">Sun announced</a> today <strong>joining the Mac OSX port</strong> of <a href="http://openoffice.org">OpenOffice.org</a>.
 
 Sun, who founded the <a href="http://en.wikipedia.org/wiki/OpenOffice.org">OpenOffice project</a> by open-sourcing the StarOffice program code shortly after they acquired its former vendor StarDivision, are going this way due to the increasing use of Macs. They write:
 

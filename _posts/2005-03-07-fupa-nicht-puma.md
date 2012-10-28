@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src='http://fredericiana.de/uploads/050307fupa.jpg' alt='Fuba T Shirt' class="centered" />
+<img src='/media/wp/050307fupa.jpg' alt='Fuba T Shirt' class="centered" />
 Nanu? Grad hab ich gedacht, meine Augen spielen mir einen Streich (zu seltsam, mittags, nüchtern und wach...)
 
 Aber da (<a href="http://www.fupawear.com/">fupawear.com</a>) steht wirklich <em>Fupa, nicht Puma</em>. Was man wohl in Herzogenaurach dazu sagt?

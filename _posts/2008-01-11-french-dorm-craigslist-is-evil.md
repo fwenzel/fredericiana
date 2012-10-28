@@ -26,4 +26,4 @@ Maybe somebody should have told them that <strong>regex-matching agains three-le
 
 The page she wanted to see was a harmless "best of craigslist" story after all -- I doubt it would survive long on Craigslist otherwise.
 
-<a href="http://xkcd.com/208/"><img src='http://fredericiana.com/wp-content/uploads/2008/01/regex.png' alt='Everybody stand back: I know regular expressions.' /></a>
+<a href="http://xkcd.com/208/"><img src='/media/wp/2008/01/regex.png' alt='Everybody stand back: I know regular expressions.' /></a>

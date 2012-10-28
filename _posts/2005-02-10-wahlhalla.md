@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src="http://fredericiana.de/uploads/thumb-050209voting.jpg" alt="Voting for Dummies" class="alignright border" />Heute habe ich in der Uni Studentenparlament gewählt. Die Wahlkabine wurde wegrationalisiert und so musste man sich in die Münztelefon-Kabine im Foyer des Informatik-Gebäudes verziehen (hinter eine sichtschützende Pinwand, kein Grund, die Wahl anzufechten, <a href="http://www.markus-bekk.de">Markus</a>! ;) ), um dort den Stift kreisen zu lassen. Wegen zwei Wählern haben sie vielleicht auch einfach nichts aufbauen wollen, denn Kreuzchen machen ist zugegeben nach der "Freie Wahl mit Robert Hoyzer"-Werbekampagne des DFB etwas aus der Mode gekommen.
+<img src="/media/wp/thumb-050209voting.jpg" alt="Voting for Dummies" class="alignright border" />Heute habe ich in der Uni Studentenparlament gewählt. Die Wahlkabine wurde wegrationalisiert und so musste man sich in die Münztelefon-Kabine im Foyer des Informatik-Gebäudes verziehen (hinter eine sichtschützende Pinwand, kein Grund, die Wahl anzufechten, <a href="http://www.markus-bekk.de">Markus</a>! ;) ), um dort den Stift kreisen zu lassen. Wegen zwei Wählern haben sie vielleicht auch einfach nichts aufbauen wollen, denn Kreuzchen machen ist zugegeben nach der "Freie Wahl mit Robert Hoyzer"-Werbekampagne des DFB etwas aus der Mode gekommen.
 
 Aber kein Grund zur Beunruhigung - der leidgeprüfte Wähler lässt sich von so kleinen Unstimmigkeiten natürlich nicht aus der Ruhe bringen. Auch nicht davon, dass ich in der Wahlliste unterschreiben musste, statt die bewährte irakische Fingertinte anzuwenden. Unterschrift? Wie uncool!
 

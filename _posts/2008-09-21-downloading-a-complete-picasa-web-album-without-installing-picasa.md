@@ -26,15 +26,15 @@ However, I found an alternative solution: The album's <strong>RSS feed</strong>!
 
 Go to the desired Album, and click the "RSS" link on the right hand side:
 
-<img src="http://fredericiana.com/wp-content/uploads/2008/09/picasaweb-rss.jpg" alt="" title="Picasa Web RSS Link" width="172" height="102" class="alignnone size-full wp-image-1562" />
+<img src="/media/wp/2008/09/picasaweb-rss.jpg" alt="" title="Picasa Web RSS Link" width="172" height="102" class="alignnone size-full wp-image-1562" />
 
 Firefox will show you the RSS feed in a more or less appealing way. Note that each of the pictures shown has an "attached" JPEG file underneath:
 
-<img src="http://fredericiana.com/wp-content/uploads/2008/09/picasaweb-rss-attached-jpeg.jpg" alt="" title="Picasa Web: Attached JPEG file in RSS feed" width="269" height="89" class="alignnone size-full wp-image-1563" />
+<img src="/media/wp/2008/09/picasaweb-rss-attached-jpeg.jpg" alt="" title="Picasa Web: Attached JPEG file in RSS feed" width="269" height="89" class="alignnone size-full wp-image-1563" />
 
 The only thing we need to do is download all of these with DownThemAll. For that, right-click, and choose "DownThemAll". In the "links" tab, it'll automatically grab all pictures for you:
 
-<a href="http://fredericiana.com/wp-content/uploads/2008/09/picasaweb-downthemall.jpg"><img src="http://fredericiana.com/wp-content/uploads/2008/09/picasaweb-downthemall-300x260.jpg" alt="" title="Picasa Web: DownThemAll!" width="300" height="260" class="alignnone size-medium wp-image-1564" /></a>
+<a href="/media/wp/2008/09/picasaweb-downthemall.jpg"><img src="/media/wp/2008/09/picasaweb-downthemall-300x260.jpg" alt="" title="Picasa Web: DownThemAll!" width="300" height="260" class="alignnone size-medium wp-image-1564" /></a>
 
 Just hit "start" and let it load!
 

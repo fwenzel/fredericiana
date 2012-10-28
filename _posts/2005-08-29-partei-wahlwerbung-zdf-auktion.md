@@ -9,7 +9,7 @@ meta:
   tags: die+partei ebay wahl2005
 layout: post
 ---
-<img src='http://fredericiana.de/uploads/050829parteienzurwahl.jpg' alt='Parteien zur Wahl 2005' class="alignright" />Die <a href="http://www.die-partei.de/">PARTEI</a> (schon allein durch ihren Gründer, den Chef der Satirezeitung <a href="http://www.titanic-magazin.de/">TITANIC</a>, geradezu als seriöseste aller <a href="http://de.wikipedia.org/wiki/Spa%C3%9Fpartei">ernstgemeinten Parteien</a> qualifiziert) verkauft <strong>25 Sekunden Werbezeit</strong> in ihrem <strong>Wahlwerbespot</strong> auf <a href="http://cgi.ebay.de/25-Sekunden-Werbezeit-im-ZDF-am-14-9-05_W0QQitemZ7540737218QQcategoryZ32148QQssPageNameZWDVWQQrdZ1QQcmdZViewItem">Ebay</a>.
+<img src='/media/wp/050829parteienzurwahl.jpg' alt='Parteien zur Wahl 2005' class="alignright" />Die <a href="http://www.die-partei.de/">PARTEI</a> (schon allein durch ihren Gründer, den Chef der Satirezeitung <a href="http://www.titanic-magazin.de/">TITANIC</a>, geradezu als seriöseste aller <a href="http://de.wikipedia.org/wiki/Spa%C3%9Fpartei">ernstgemeinten Parteien</a> qualifiziert) verkauft <strong>25 Sekunden Werbezeit</strong> in ihrem <strong>Wahlwerbespot</strong> auf <a href="http://cgi.ebay.de/25-Sekunden-Werbezeit-im-ZDF-am-14-9-05_W0QQitemZ7540737218QQcategoryZ32148QQssPageNameZWDVWQQrdZ1QQcmdZViewItem">Ebay</a>.
 
 Der Spot läuft am 14.9. um etwa 17:55 Uhr im ZDF, wie man dort lesen kann.
 

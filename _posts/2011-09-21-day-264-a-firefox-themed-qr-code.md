@@ -21,6 +21,6 @@ After getting the idea from this <a href="http://hackaday.com/2011/08/11/how-to-
 
 For the geeks among you who would like the 411, this works because QR codes have a certain degree of redundancy for error correction. The logo in the middle is considered an "error" and thus, the rest of the code is used to puzzle together the information in the code anyway.
 
-<img src="http://fredericiana.com/wp-content/uploads/2011/09/fx-qr.png" alt="" title="Firefox QR Code" width="174" height="174" class="alignnone size-full wp-image-4366" />
+<img src="/media/wp/2011/09/fx-qr.png" alt="" title="Firefox QR Code" width="174" height="174" class="alignnone size-full wp-image-4366" />
 
 Try it out with your smart phone (on Android, with an app like <a href="https://market.android.com/details?id=com.google.zxing.client.android&hl=en">Barcode Scanner</a>), it really works!

@@ -13,7 +13,7 @@ layout: post
 ---
 Today, Wordpress managed to make me cry: I realized that there were 100 comments stuck in the moderation queue and Wordpress had decided not to send me emails about that anymore. I didn't notice, because the comments of the people who most commonly give me feedback <em>did</em> show up on the page immediately, so I just thought I didn't get much feedback :(
 
-<img src='http://fredericiana.com/wp-content/uploads/2007/02/moderation-queue.jpg' alt='Moderation Queue' />
+<img src='/media/wp/2007/02/moderation-queue.jpg' alt='Moderation Queue' />
 
 I moderated all of them through now and I sincerely <strong>apologize</strong> to everybody who commented and never found their comment online. They weren't lost, just stuck in the queue.
 

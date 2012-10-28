@@ -16,8 +16,8 @@ layout: post
 Aber was sehn wir da??
 
 <table width="100%" border="0"><tr>
-<td width="50%" valign="middle" align="center"><a href="http://fredericiana.de/uploads/050801redhatoldeurope1.jpg" target="_blank"><img src='http://fredericiana.de/uploads/thumb-050801redhatoldeurope1.jpg' alt='Red Hat\&#39;s Europe' class="centered border" /></a>(Klicken zum Vergrößern)</td>
-<td width="50%" valign="middle"><img src='http://fredericiana.de/uploads/050801redhatoldeurope2.jpg' alt='Red Hat\&#39;s Europe, large' class="centered border" /></td>
+<td width="50%" valign="middle" align="center"><a href="/media/wp/050801redhatoldeurope1.jpg" target="_blank"><img src='/media/wp/thumb-050801redhatoldeurope1.jpg' alt='Red Hat\&#39;s Europe' class="centered border" /></a>(Klicken zum Vergrößern)</td>
+<td width="50%" valign="middle"><img src='/media/wp/050801redhatoldeurope2.jpg' alt='Red Hat\&#39;s Europe, large' class="centered border" /></td>
 </tr></table>
 
 Offenbar ist die Welt bei Redhat eine andere als hier. Wenn man genau hinsieht, findet man auf der dort dargestellten Europakarte nämlich sowohl das geteilte Deutschland als auch die ungeteilte Tschechoslowakei wieder. Außerdem leuchten die Sterne über den drei bekannten europäischen Hauptstädten Paris, Dublin und <strong>Bonn</strong>. Damit hat Redhat zwar die <em>ungeteilte</em> Aufmerksamkeit der europäischen Surfer, allerdings auch die Lacher auf seiner Seite. Denn das Ganze ist ja nun <a href="http://de.wikipedia.org/wiki/Deutsche_Wiedervereinigung">schon ein bisschen her</a> ;)

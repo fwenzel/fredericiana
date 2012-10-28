@@ -31,4 +31,4 @@ Connect all pieces seemingly at random, stir thoroughly. Connect to your car and
 
 Listen to music and be happy ;)
 
-<img src='http://fredericiana.com/wp-content/uploads/2007/11/ipod-car-kit.jpg' alt='Improvised iPod car kit' />
+<img src='/media/wp/2007/11/ipod-car-kit.jpg' alt='Improvised iPod car kit' />

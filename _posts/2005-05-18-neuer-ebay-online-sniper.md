@@ -11,7 +11,7 @@ layout: post
 ---
 Der <a href="http://lemming.name/">Lemming</a> hat einen neuen <strong>Ebay Online-Sniper</strong> <a href="http://lemming.name/000363.html">gebaut</a>: <a href="http://www.mysniper.com">mysniper.com</a>.
 
-<img src='http://fredericiana.de/uploads/050518mysniper.png' alt='MySniper; Quelle: www.lemming.name' class="centered" />
+<img src='/media/wp/050518mysniper.png' alt='MySniper; Quelle: www.lemming.name' class="centered" />
 
 Das Tool bietet zu einem gewissen Zeitpunkt auf Ebay-Auktionen. Eigentlich nichts Ungewöhnliches, solche Software gibt es haufenweise.
 <!--more-->

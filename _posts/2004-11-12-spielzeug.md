@@ -10,7 +10,7 @@ meta:
   tags: ""
 layout: post
 ---
-<p><a href='/uploads/equipment/clie.jpg'><img width="72" height="110" border="0" hspace="5" align="right" src="/wp-content/olduploads/equipment/clie.serendipityThumb.jpg" alt=""  /></a>Ich habe mir ein neues Spielzeug zugelegt :) Nachdem mein Palm V nun wohl endgültig den Akkutod gestorben ist, benötigte ich einen neuen Organizer, um mein Siebhirn ein bisschen zu entlasten.</p>
+<p><a href='/media/wp/equipment/clie.jpg'><img width="72" height="110" border="0" hspace="5" align="right" src="/media/wp/equipment/clie.serendipityThumb.jpg" alt=""  /></a>Ich habe mir ein neues Spielzeug zugelegt :) Nachdem mein Palm V nun wohl endgültig den Akkutod gestorben ist, benötigte ich einen neuen Organizer, um mein Siebhirn ein bisschen zu entlasten.</p>
 
 <p>Es ist ein Sony PDA vom Typ <i>PEG-TJ27</i>.</p>
 

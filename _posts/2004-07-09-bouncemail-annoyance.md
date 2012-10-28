@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img width="110" height="83" border="0" hspace="5" align="left" src="/wp-content/olduploads/spam-dose.serendipityThumb.jpg" alt=""  />Jetzt flattern mir heute über den Tag verteilt schon über 50 Bouncemails ins Postfach.
+<img width="110" height="83" border="0" hspace="5" align="left" src="/media/wp/spam-dose.serendipityThumb.jpg" alt=""  />Jetzt flattern mir heute über den Tag verteilt schon über 50 Bouncemails ins Postfach.
 
 Bouncemails sind <b>Fehlermeldungen</b>, die ein Mailserver automatisch zurückschickt, wenn er bspw. einen Empfänger nicht kennt, oder dessen Mailbox voll ist.
 <i>"Delivery Failure", "Undelivered Mail Returned to Sender"</i>, etc. etc.

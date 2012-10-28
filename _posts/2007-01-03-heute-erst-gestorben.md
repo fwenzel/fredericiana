@@ -23,4 +23,4 @@ Wer sich das Video unbedingt ansehen möchte, möge <a href="http://youtube.com"
 
 <!--more-->
 
-<a href="http://fredericiana.de/uploads/2007/01/saddam-youtube.jpg"><img id="image765" src="http://fredericiana.de/uploads/2007/01/saddam-youtube.jpg" alt="Screenshot von YouTube" class="centered" width="400" /></a>
+<a href="/media/wp/2007/01/saddam-youtube.jpg"><img id="image765" src="/media/wp/2007/01/saddam-youtube.jpg" alt="Screenshot von YouTube" class="centered" width="400" /></a>

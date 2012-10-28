@@ -10,7 +10,7 @@ meta:
   tags: ""
 layout: post
 ---
-<p><img width="110" height="83" border="0" hspace="5" align="right" src="/wp-content/olduploads/nmap-klein.serendipityThumb.jpg" alt=""  />Heute habe ich ein &quot;kleines&quot; Skript geschrieben, um am <a target="_BLANK" href="http://www.z-a-r.de" title="http://www.z-a-r.de" onmouseover="window.status='http://www.z-a-r.de';return true;" onmouseout="window.status='';return true;">Institut</a> eine relativ große Literaturliste für ein Projekt anzulegen.<br />
+<p><img width="110" height="83" border="0" hspace="5" align="right" src="/media/wp/nmap-klein.serendipityThumb.jpg" alt=""  />Heute habe ich ein &quot;kleines&quot; Skript geschrieben, um am <a target="_BLANK" href="http://www.z-a-r.de" title="http://www.z-a-r.de" onmouseover="window.status='http://www.z-a-r.de';return true;" onmouseout="window.status='';return true;">Institut</a> eine relativ große Literaturliste für ein Projekt anzulegen.<br />
 Dafür gibts schon ne ganze Menge Lösungen, doch leider lautete die Voraussetzung: <i>&quot;Alle Unterlagen müssen später als PDF vorliegen und im Volltext durchsuchbar sein!&quot;</i>.</p>
 
 <p>Na toll. Alle Lösungen, die ich gefunden habe, waren super Bibtex-fähig und so weiter - aber keine konnte Dateianhänge verwalten, geschweige denn PDFs durchsuchen?</p>

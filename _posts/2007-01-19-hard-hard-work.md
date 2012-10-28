@@ -16,7 +16,7 @@ If you ever wanted to know how hard we are actually working here at Mozilla, jus
 
 At the time of writing, it says there are <strong>18,446,744,073,709,551,054</strong> pages that are "probably legitimate content pages":
 
-<a class="imagelink" href="http://fredericiana.com/wp-content/uploads/2007/01/mozillawiki-statistics.png" title="Mozillawiki Statistics on 1-19-07"><img id="image159" src="http://fredericiana.com/wp-content/uploads/2007/01/mozillawiki-statistics.png" alt="Mozillawiki Statistics on 1-19-07" width="400" class="center" /></a>
+<a class="imagelink" href="/media/wp/2007/01/mozillawiki-statistics.png" title="Mozillawiki Statistics on 1-19-07"><img id="image159" src="/media/wp/2007/01/mozillawiki-statistics.png" alt="Mozillawiki Statistics on 1-19-07" width="400" class="center" /></a>
 
 That's roughly 18 and a half <strong>quintillion</strong> pages. Happy reading! ;)
 

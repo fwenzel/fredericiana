@@ -12,7 +12,7 @@ layout: post
 ---
 Haha, man studiert eindeutig zu lange an einer technischen Hochschule, wenn man <a href="http://xkcd.com/c287.html">das hier</a> komisch findet ;)
 
-<a href="http://xkcd.com/c287.html"><img src='http://fredericiana.de/uploads/2007/07/npcomplete.jpg' alt='xkcd comic on NP completeness' /></a>
+<a href="http://xkcd.com/c287.html"><img src='/media/wp/2007/07/npcomplete.jpg' alt='xkcd comic on NP completeness' /></a>
 
 Bildunterschrift: <em>"General solutions get you a 50% tip"</em>...
 

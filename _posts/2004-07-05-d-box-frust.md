@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img border="0" hspace="5" align="right" src="/wp-content/olduploads/D_Box2.serendipityThumb.jpg" alt=""  />In meinem jugendlichen Leichtsinn habe ich mich letzte Woche für ein Premiere-Start Paket mit D-Box 2 (für Satellit, natürlich) angemeldet. Mein Dad konnte mich werben, also ist das nochmal 20 Euro günstiger geworden...
+<img border="0" hspace="5" align="right" src="/media/wp/D_Box2.serendipityThumb.jpg" alt=""  />In meinem jugendlichen Leichtsinn habe ich mich letzte Woche für ein Premiere-Start Paket mit D-Box 2 (für Satellit, natürlich) angemeldet. Mein Dad konnte mich werben, also ist das nochmal 20 Euro günstiger geworden...
 
 "Toll, eine <a href="http://www.dbox2.info" title="http://www.dbox2.info" onmouseover="window.status='http://www.dbox2.info';return true;" onmouseout="window.status='';return true;">D-Box 2 mit Linux</a>! Das wollte ich immer schon mal haben!"
 

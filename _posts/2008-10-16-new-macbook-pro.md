@@ -17,7 +17,7 @@ layout: post
 ---
 Over at AppleInsider, they have a bunch of photos <a href="http://www.appleinsider.com/articles/08/10/16/high_quality_unboxing_photos_late_2008_15_macbook_pro.html">comparing the new 15-inch Macbook Pro with the now "old" design</a>:
 
-<a href="http://www.appleinsider.com/articles/08/10/16/high_quality_unboxing_photos_late_2008_15_macbook_pro.html"><img src="http://fredericiana.com/wp-content/uploads/2008/10/new-macbookpro-appleinsider.jpg" alt="" title="New MacBook Pro (Photo: Appleinsider)" width="400" height="300" class="alignnone size-full wp-image-1713" /></a>
+<a href="http://www.appleinsider.com/articles/08/10/16/high_quality_unboxing_photos_late_2008_15_macbook_pro.html"><img src="/media/wp/2008/10/new-macbookpro-appleinsider.jpg" alt="" title="New MacBook Pro (Photo: Appleinsider)" width="400" height="300" class="alignnone size-full wp-image-1713" /></a>
 
 My thoughts: The new MacBook Pros are a really worth thinking about. From their overall look, they seem to be better designed, and a few annoyances have been taken care of, such as the old MBP's plastic rim, or the hard drive (failure part number one in computers, seriously) that was hidden way on the inside of the box.
 

@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img border="0" hspace="5" align="right" src="/wp-content/olduploads/location.serendipityThumb.jpg" alt=""  /><a href="http://www.daniel-rehbein.de/urteil-landgericht-hamburg.html" title="http://www.daniel-rehbein.de/urteil-landgericht-hamburg.html" onmouseover="window.status='http://www.daniel-rehbein.de/urteil-landgericht-hamburg.html';return true;" onmouseout="window.status='';return true;">Daniel Rehbein</a> hat seine Links auf <a href="http://www.mein-dortmund.de/nachbarn.html" title="http://www.mein-dortmund.de/nachbarn.html" onmouseover="window.status='http://www.mein-dortmund.de/nachbarn.html';return true;" onmouseout="window.status='';return true;">mein-dortmund.de</a> mal durch ein wirklich kreatives <i>Mantra</i> geschützt:
+<img border="0" hspace="5" align="right" src="/media/wp/location.serendipityThumb.jpg" alt=""  /><a href="http://www.daniel-rehbein.de/urteil-landgericht-hamburg.html" title="http://www.daniel-rehbein.de/urteil-landgericht-hamburg.html" onmouseover="window.status='http://www.daniel-rehbein.de/urteil-landgericht-hamburg.html';return true;" onmouseout="window.status='';return true;">Daniel Rehbein</a> hat seine Links auf <a href="http://www.mein-dortmund.de/nachbarn.html" title="http://www.mein-dortmund.de/nachbarn.html" onmouseover="window.status='http://www.mein-dortmund.de/nachbarn.html';return true;" onmouseout="window.status='';return true;">mein-dortmund.de</a> mal durch ein wirklich kreatives <i>Mantra</i> geschützt:
 
 <blockquote><b>Wichtiger rechtlicher Hinweis:</b>
 

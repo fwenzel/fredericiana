@@ -18,7 +18,7 @@ Unter dem Titel <a href="http://killefit.net/blog/2008/07/22/aufruhr-im-bloggerl
 
 Von einer Reaktion wie Rumpelstielzchen will ich einmal absehen, nicht nur weil mir das viele andere <a href="http://rivva.de/about/http://www.dieweltistscheisse.de/2008/07/21/derspiegelistscheisse/">bereits abgenommen</a> haben, sondern vor allem, weil ich weniger verärgert als amüsiert bin.
 
-[caption id="attachment_1356" align="alignnone" width="500" caption="Cloud Gate to Millenium Park, by Miles_78 on flickr"]<a href="http://flickr.com/photos/milesh/487008841/"><img src="http://fredericiana.com/wp-content/uploads/2008/07/spiegel.jpg" alt="Cloud Gate to Millenium Park, by Miles_78 on flickr" title="Cloud Gate to Millenium Park, by Miles_78 on flickr" width="500" height="200" class="size-full wp-image-1356" /></a>[/caption]
+[caption id="attachment_1356" align="alignnone" width="500" caption="Cloud Gate to Millenium Park, by Miles_78 on flickr"]<a href="http://flickr.com/photos/milesh/487008841/"><img src="/media/wp/2008/07/spiegel.jpg" alt="Cloud Gate to Millenium Park, by Miles_78 on flickr" title="Cloud Gate to Millenium Park, by Miles_78 on flickr" width="500" height="200" class="size-full wp-image-1356" /></a>[/caption]
 
 Ausgerechnet <em>Spiegel Online</em>, der, was die sprachliche wie inhaltliche Qualität betrifft, neben seinem namengebenden Mutterblatt immer ein bisschen blass aussieht, beklagt sich über den mangelhaften politischen Einfluss der deutschen Bloggerszene, sie seien "selbstbezogen und unprofessionell"?
 <!--more-->

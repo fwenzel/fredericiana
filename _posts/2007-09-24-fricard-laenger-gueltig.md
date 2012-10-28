@@ -12,7 +12,7 @@ layout: post
 ---
 Der Studentenausweis der Uni Karlsruhe, die <a href="http://www.zvw.uni-karlsruhe.de/fricard.php">FriCard</a>, ist seit diesem Semester nicht mehr nur ein Semester lang gültig, sondern gleich ein paar Jahre: Bei mir bis 2010.
 
-<img src='http://fredericiana.de/uploads/2007/09/fricard.jpg' alt='Die Karlsruher “FriCard”' />
+<img src='/media/wp/2007/09/fricard.jpg' alt='Die Karlsruher “FriCard”' />
 
 Bis dato hatte man den Aufdruck jedes Semester erneuern müssen. Das muss man jetzt nicht mehr, was ja eigentlich gar nicht dumm ist.
 

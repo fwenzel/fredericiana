@@ -19,7 +19,7 @@ As it turns out, Blizzard Entertainment's game service <a href="http://en.wikipe
 
 Well, "fail pet" might be the wrong word for this, but who expected battle.net to have a cutesy kitten on their error pages anyway. Instead, they have a fellow who somewhat looks like the alien cousin of Lennie from <a href="http://en.wikipedia.org/wiki/Of_Mice_and_Men">"Of Mice and Men"</a>.
 
-<img src="http://fredericiana.com/wp-content/uploads/2010/07/bneterror.jpg" alt="" title="battle.net error page" width="459" height="376" class="alignnone size-full wp-image-2897" />
+<img src="/media/wp/2010/07/bneterror.jpg" alt="" title="battle.net error page" width="459" height="376" class="alignnone size-full wp-image-2897" />
 
 "Oops", indeed!
 

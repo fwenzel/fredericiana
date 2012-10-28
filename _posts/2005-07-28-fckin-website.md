@@ -13,7 +13,7 @@ Gerade stoße ich bei del.icio.us auf eine Webseite - genauer gesagt auf "<a hre
 
 Was man mit Aufklebern aus langweiligen Schildern so alles machen kann... -
 
-<a href="http://www.fuckthiswebsite.com/"><img src='http://fredericiana.de/uploads/050721f_ckinwebsite.jpg' alt='F_ckin Website' class="centered" /></a>
+<a href="http://www.fuckthiswebsite.com/"><img src='/media/wp/050721f_ckinwebsite.jpg' alt='F_ckin Website' class="centered" /></a>
 
 Das ist ja teilweise schon so blöd, dass es schon wieder lustig ist ;)
 

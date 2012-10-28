@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img width="110" height="106" border="0" hspace="5" align="right" src="/wp-content/olduploads/einmalig/amtsschimmel.serendipityThumb.jpg" alt=""  />Darf ich vorstellen? <strong>Das</strong> ist der deutsche Amtsschimmel. Er ist gerade laut wiehernd an mir vorbeigaloppiert.
+<img width="110" height="106" border="0" hspace="5" align="right" src="/media/wp/einmalig/amtsschimmel.serendipityThumb.jpg" alt=""  />Darf ich vorstellen? <strong>Das</strong> ist der deutsche Amtsschimmel. Er ist gerade laut wiehernd an mir vorbeigaloppiert.
 
 Was passiert ist?
 

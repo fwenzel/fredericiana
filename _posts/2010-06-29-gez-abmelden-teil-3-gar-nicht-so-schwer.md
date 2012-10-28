@@ -15,7 +15,7 @@ layout: post
 ---
 Ich gebe zu: Das <a href="http://fredericiana.com/2010/06/07/gez-abmelden-teil-2-wer-schreibt-der-bleibt/">GEZ-Experiment</a> habe ich mir komplizierter vorgestellt. Kürzlich erhielt ich Antwort von der GEZ, dass mit der Abmeldung alles in Ordnung sei. Seht selbst:
 
-<a href="http://fredericiana.com/wp-content/uploads/2010/06/gez-abgemeldet.jpg"><img src="http://fredericiana.com/wp-content/uploads/2010/06/gez-abgemeldet-292x400.jpg" alt="" title="GEZ: Abmeldebestaetigung" width="292" height="400" class="alignnone size-large wp-image-2851" /></a>
+<a href="/media/wp/2010/06/gez-abgemeldet.jpg"><img src="/media/wp/2010/06/gez-abgemeldet-292x400.jpg" alt="" title="GEZ: Abmeldebestaetigung" width="292" height="400" class="alignnone size-large wp-image-2851" /></a>
 
 Klar, das mit der Bearbeitungszeit von beinahe drei Wochen lässt sich noch verbessern -- aber noch nicht einmal privatwirtschaftliche Unternehmen haben es mit der Bearbeitung einer Kündigung sonderlich eilig. Das es bei der GEZ schneller geht, hat also wohl keiner erwartet.
 

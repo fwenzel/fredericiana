@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<p><img width="110" height="76" border="0" hspace="5" align="left" src="/wp-content/olduploads/D_Box2.serendipityThumb.jpg" alt=""  />Weil sonst immer nur gebloggt wird, wenn ein Service <a target="_BLANK" href="http://blog.jeanpierre.de/archives/2004/08/arbeitsmoral_be.html" title="http://blog.jeanpierre.de/archives/2004/08/arbeitsmoral_be.html" onmouseover="window.status='http://blog.jeanpierre.de/archives/2004/08/arbeitsmoral_be.html';return true;" onmouseout="window.status='';return true;">besonders schlecht</a> ist, muss ich hier mal ein Lob abstellen:</p>
+<p><img width="110" height="76" border="0" hspace="5" align="left" src="/media/wp/D_Box2.serendipityThumb.jpg" alt=""  />Weil sonst immer nur gebloggt wird, wenn ein Service <a target="_BLANK" href="http://blog.jeanpierre.de/archives/2004/08/arbeitsmoral_be.html" title="http://blog.jeanpierre.de/archives/2004/08/arbeitsmoral_be.html" onmouseover="window.status='http://blog.jeanpierre.de/archives/2004/08/arbeitsmoral_be.html';return true;" onmouseout="window.status='';return true;">besonders schlecht</a> ist, muss ich hier mal ein Lob abstellen:</p>
 
 <p>Und zwar für <b>Premiere</b>.</p>
 

@@ -18,7 +18,7 @@ It's the 30th anniversary of the <a href="http://en.wikipedia.org/wiki/Pac-Man">
 
 Apparently, Google agrees, so they celebrate it with a <strong>playable</strong> (that's right) Google logo: Today, Google is most certainly distracting more people from work than Facebook.
 
-<img src="http://fredericiana.com/wp-content/uploads/2010/05/google-pacman.jpg" alt="" title="Google Pac-Man" width="549" height="182" class="alignnone size-full wp-image-2721" />
+<img src="/media/wp/2010/05/google-pacman.jpg" alt="" title="Google Pac-Man" width="549" height="182" class="alignnone size-full wp-image-2721" />
 
 This is awesome. Make sure to try it out before the end of the day!
 

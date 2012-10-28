@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src='http://fredericiana.de/uploads/050406car.jpg' alt='Auto (Quelle: sxc.hu)' class="alignleft" />Da kommen Zivi-Gefühle auf: Heute durfte ich einen Opel Combo mit <em>Spezialumbau zur Beförderung von Rollstühlen</em> von A nach B fahren.
+<img src='/media/wp/050406car.jpg' alt='Auto (Quelle: sxc.hu)' class="alignleft" />Da kommen Zivi-Gefühle auf: Heute durfte ich einen Opel Combo mit <em>Spezialumbau zur Beförderung von Rollstühlen</em> von A nach B fahren.
 
 Die stattliche Reisegeschwindigkeit von maximal 130 km/h ist garantiert, wenn kein Berg kommt ;) Das letzte mal, als ich so einen Rennwagen fahren durfte, war es ein Combo mit Essen-auf-Rädern-Umbau. Noch mehr Zivigefühle!
 

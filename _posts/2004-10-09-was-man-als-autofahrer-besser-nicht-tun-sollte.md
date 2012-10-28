@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<p><img width="110" height="83" border="0" hspace="5" align="right" src="/wp-content/olduploads/allgemein/pozilei.serendipityThumb.jpg" alt=""  />... haben wir gestern live miterleben durfen: Beim Prinz-Max-Palais (also bei der Karlsruher Münze) fährt jemand aus der Seitenstraße auf die Vorfahrtstraße zu.</p>
+<p><img width="110" height="83" border="0" hspace="5" align="right" src="/media/wp/allgemein/pozilei.serendipityThumb.jpg" alt=""  />... haben wir gestern live miterleben durfen: Beim Prinz-Max-Palais (also bei der Karlsruher Münze) fährt jemand aus der Seitenstraße auf die Vorfahrtstraße zu.</p>
 
 <p>Unsereins, heute nicht überfahren werden wollend, wartet artig, und lässt das Auto erst vorbeifahren. Der hält kurz an, schaut, fährt los, und rammt <i>volle Granate</i> einem vorbeifahrenden Polizeiwagen in die Seite! ;)</p>
 

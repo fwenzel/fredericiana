@@ -12,7 +12,7 @@ meta:
   _edit_last: "2"
 layout: post
 ---
-<img src="http://fredericiana.com/wp-content/uploads/2008/07/bike-helmet.jpg" alt="" title="Bike Helmet" width="240" height="211" class="alignright size-medium wp-image-1330" align="right" />Sometimes the news just leave me scratching my head:
+<img src="/media/wp/2008/07/bike-helmet.jpg" alt="" title="Bike Helmet" width="240" height="211" class="alignright size-medium wp-image-1330" align="right" />Sometimes the news just leave me scratching my head:
 
 Apparently, in 2003, Pennsylvania <strong>abolished the "helmet law"</strong> forcing motorcycle riders in the state to wear a helmet.
 

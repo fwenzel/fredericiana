@@ -10,7 +10,7 @@ meta:
   _edit_last: "2"
 layout: post
 ---
-<a href='http://fredericiana.com/wp-content/uploads/2008/04/dont-fall-asleep-drummer.jpg'><img src="http://fredericiana.com/wp-content/uploads/2008/04/dont-fall-asleep-drummer-225x300.jpg" alt="" title="Don\&#039;t fall asleep!" width="225" height="300" class="alignnone size-medium wp-image-1277" /></a>
+<a href='/media/wp/2008/04/dont-fall-asleep-drummer.jpg'><img src="/media/wp/2008/04/dont-fall-asleep-drummer-225x300.jpg" alt="" title="Don\&#039;t fall asleep!" width="225" height="300" class="alignnone size-medium wp-image-1277" /></a>
 
 <strong>"Don't fall asleep!"</strong> -- a nice reminder for the drummer of the big band I play in, on the 1943 Tommy Dorsy piece "Opus One".
 

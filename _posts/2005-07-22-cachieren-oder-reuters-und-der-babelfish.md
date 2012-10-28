@@ -23,7 +23,7 @@ Nanu? Das riecht doch verdächtig nach einer (wie gewohnt eher schlechten) <a hr
 
 Und siehe da: Wenn ich den englischen Text von der Altavista-Übersetzermaschine von englisch nach deutsch übersetzen lasse, bekomme ich <strong>exakt den obigen, "fast deutschen" Text</strong> (siehe Bild, klicken zum Vergrößern).
 
-<a href="/uploads/050722reutersbabelfish.png" target="_blank"><img src='/uploads/thumb-050722reutersbabelfish.png' alt='Reuters übersetzt bei Babelfish' class="centered border" /></a>
+<a href="/media/wp/050722reutersbabelfish.png" target="_blank"><img src='/media/wp/thumb-050722reutersbabelfish.png' alt='Reuters übersetzt bei Babelfish' class="centered border" /></a>
 
 <strong>Bei Reuters verwendet man für die Webseite eine Babelfish-Übersetzung?</strong> Ein nach eigenen Angaben <a href="http://about.reuters.com/aboutus/worldwide.asp">in 94 Ländern</a> aktives Informationsunternehmen kann es sich nicht leisten, die böse, böse Droh-Zeile unter ihren Webseiten-Ausdrucken von einem <em>Menschen</em> übersetzen zu lassen?
 

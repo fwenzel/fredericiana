@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<p><img width="128" height="128" border="0" hspace="5" align="right" src="/wp-content/olduploads/logos/tux.gif" alt=""  />Jüngst suchte ich nach einer Möglichkeit, einen &quot;On Demand Audiostream&quot; auf der Unix-Kommandozeile mitzuschneiden, um ihn später als MP3 für die &quot;Ewigkeit&quot; konservieren zu können.</p>
+<p><img width="128" height="128" border="0" hspace="5" align="right" src="/media/wp/logos/tux.gif" alt=""  />Jüngst suchte ich nach einer Möglichkeit, einen &quot;On Demand Audiostream&quot; auf der Unix-Kommandozeile mitzuschneiden, um ihn später als MP3 für die &quot;Ewigkeit&quot; konservieren zu können.</p>
 
 <p>Recht bekannt ist dafür <b><a target="_BLANK" href="http://streamripper.sourceforge.net/" title="http://streamripper.sourceforge.net/" onmouseover="window.status='http://streamripper.sourceforge.net/';return true;" onmouseout="window.status='';return true;">StreamRipper</a></b> (gibt's für allerhand Betriebssysteme):<br />
 <ul>

@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<a href="http://www.ilikedrawing.co.uk/html/drawings/draw_fr.html"><img src='http://fredericiana.de/uploads/mother_toilet_14.jpg' alt='Mother Toilet Drawing' class="centered border" /></a>
+<a href="http://www.ilikedrawing.co.uk/html/drawings/draw_fr.html"><img src='/media/wp/mother_toilet_14.jpg' alt='Mother Toilet Drawing' class="centered border" /></a>
 
 <em>Mother Advertising Agency
 Drawings Commissioned For Ladie's Toilets

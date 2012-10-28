@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src='http://fredericiana.de/uploads/schroederwp.jpg' alt='Gerhard Schröder (Quelle: deWikipedia)' class="alignright" />Das "Zitat des Tages" vom Unispiegel: <a href="http://www.spiegel.de/unispiegel/studium/0,1518,352887,00.html">Gerhard Schröders Angst vor Studenten</a>.
+<img src='/media/wp/schroederwp.jpg' alt='Gerhard Schröder (Quelle: deWikipedia)' class="alignright" />Das "Zitat des Tages" vom Unispiegel: <a href="http://www.spiegel.de/unispiegel/studium/0,1518,352887,00.html">Gerhard Schröders Angst vor Studenten</a>.
 
 <blockquote>"Wenn man so als Politiker in die Universitäten kommt, ist man immer ein bisschen bedrückt. Weil man schon denkt, man kriegt wieder die Jacke voll. Nicht tätlich natürlich, aber verbal schon."</blockquote>
 

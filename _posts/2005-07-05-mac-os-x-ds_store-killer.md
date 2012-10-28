@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src='http://fredericiana.de/uploads/050705powerbook.jpg' alt='Powerbook' class="alignright" />Eigentlich mag ich <strong>Mac OS X</strong>. Eigentlich.
+<img src='/media/wp/050705powerbook.jpg' alt='Powerbook' class="alignright" />Eigentlich mag ich <strong>Mac OS X</strong>. Eigentlich.
 
 Aber was schreibbare Netzlaufwerke angeht, ist es wie ein Parasit.
 

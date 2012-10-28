@@ -10,7 +10,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src="http://fredericiana.de/wp-content/olduploads/D_Box2.serendipityThumb.jpg" alt="D-Box" align="left" hspace="10" />Heute habe ich die D-Box meiner Eltern mittels "Video LAN Client" (VLC) gefüttert. Damit kann man verschiedenste Ausgangsformate auf die D-Box streamen. Erheblich einfacher jedenfalls, als die Vorlagedatei erst umzuformatieren und dann eine DVD o.ä. brennen zu müssen.
+<img src="/media/wp/D_Box2.serendipityThumb.jpg" alt="D-Box" align="left" hspace="10" />Heute habe ich die D-Box meiner Eltern mittels "Video LAN Client" (VLC) gefüttert. Damit kann man verschiedenste Ausgangsformate auf die D-Box streamen. Erheblich einfacher jedenfalls, als die Vorlagedatei erst umzuformatieren und dann eine DVD o.ä. brennen zu müssen.
 
 Als Test-Video kam ein Kurzvideo der letztjährigen Weihnachtsfeier zum Einsatz, das gerade auf der Festplatte rumlag ;)
 

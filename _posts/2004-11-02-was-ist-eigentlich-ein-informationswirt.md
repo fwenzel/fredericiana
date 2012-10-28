@@ -10,7 +10,7 @@ meta:
   tags: ""
 layout: post
 ---
-<p><img width="110" height="110" border="0" hspace="5" align="right" src="/wp-content/olduploads/allgemein/Sound-wave.serendipityThumb.jpg" alt=""  />Diese Frage hört man als Infowirt ständig, und meistens fällt es einem ziemlich schwer, das alles ziemlich kurz zu fassen.</p>
+<p><img width="110" height="110" border="0" hspace="5" align="right" src="/media/wp/allgemein/Sound-wave.serendipityThumb.jpg" alt=""  />Diese Frage hört man als Infowirt ständig, und meistens fällt es einem ziemlich schwer, das alles ziemlich kurz zu fassen.</p>
 
 <p>Für Interessierte ist daher vielleicht folgender Radiobeitrag etwas, der mir gerade zufällig über den Weg gelaufen ist:</p>
 

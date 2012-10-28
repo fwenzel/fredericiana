@@ -10,7 +10,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src='http://fredericiana.de/uploads/050307hitchdatedoctor.jpg' alt='Hitch' class="alignright border" />Ohje, ich hab es getan. Ich habe bei unserer Sonntagszeitung an der Verlosung für zwei Kinokarten für <strong>"<a href="http://imdb.com/title/tt0386588/">Hitch</a> - der Date Doktor"</strong> teilgenommen.
+<img src='/media/wp/050307hitchdatedoctor.jpg' alt='Hitch' class="alignright border" />Ohje, ich hab es getan. Ich habe bei unserer Sonntagszeitung an der Verlosung für zwei Kinokarten für <strong>"<a href="http://imdb.com/title/tt0386588/">Hitch</a> - der Date Doktor"</strong> teilgenommen.
 
 Nicht, dass ich bei sowas besonders oft gewinnen würde. Das letzte mal wurde ich vor ein paar Jahren mit zwei Karten für den absurden Akrobatik-Zirkus <a href="http://www.flicflac.de/">FlicFlac</a> beglückt. Der war richtig cool, fanden damals jedenfalls Frau Z. und ich, als wir dort waren. Aber ich schweife ab...
 

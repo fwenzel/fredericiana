@@ -20,7 +20,7 @@ Now in order to see what kind of binary information is "sandwiched" in the file,
 
 It starts off with a "magical number", that funnily reads <strong>0xCAFEBABE</strong> in hexadecimal. -- Cafe babe? Yup.
 
-<img id="image143" src="http://fredericiana.com/wp-content/uploads/2006/12/0xcafebabe.jpg" alt="Cafebabe" class="center" />
+<img id="image143" src="/media/wp/2006/12/0xcafebabe.jpg" alt="Cafebabe" class="center" />
 
 Looks like the programmers had some fun coming up with a readable magic number. :)
 

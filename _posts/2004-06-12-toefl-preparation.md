@@ -11,7 +11,7 @@ layout: post
 ---
 Für die Bewerbung zu meinem <a href="http://fredericiana.de/archives/12_Inwis_abroad.html" title="http://fredericiana.de/archives/12_Inwis_abroad.html" onmouseover="window.status='http://fredericiana.de/archives/12_Inwis_abroad.html';return true;" onmouseout="window.status='';return true;">Auslandsstudienjahr</a> muss ich einen <em>extrem hippen</em> Englischtest ablegen, den <em>Test of English as a Foreign Language</em>, kurz <a href="http://www.ets.org/toefl/" title="http://www.ets.org/toefl/" onmouseover="window.status='http://www.ets.org/toefl/';return true;" onmouseout="window.status='';return true;">TOEFL</a>.
 
-<img border="0" hspace="5" align="right" src="/wp-content/olduploads/world.serendipityThumb.gif" alt=""  />Mein nächstes "Test Center" is in Frankfurt am Main. Terminfestlegung und Bezahlung (ganz amerikanisch per Kreditkarte) alles online. Also geschwind den AGBs zugestimmt - Ja, ihr dürft meine Fingerabdrücke nehmen! Ja, ihr dürft mich auch grundlos einfach wieder heimschicken! Nein, natürlich kann ich dafür kein Geld zurück erwarten! - Wisst ihr wie schwer es fällt, da "akzeptiert" zu klicken?
+<img border="0" hspace="5" align="right" src="/media/wp/world.serendipityThumb.gif" alt=""  />Mein nächstes "Test Center" is in Frankfurt am Main. Terminfestlegung und Bezahlung (ganz amerikanisch per Kreditkarte) alles online. Also geschwind den AGBs zugestimmt - Ja, ihr dürft meine Fingerabdrücke nehmen! Ja, ihr dürft mich auch grundlos einfach wieder heimschicken! Nein, natürlich kann ich dafür kein Geld zurück erwarten! - Wisst ihr wie schwer es fällt, da "akzeptiert" zu klicken?
 
 Aber was tut man nicht alles...
 

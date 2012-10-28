@@ -10,7 +10,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src='/uploads/thumb-nslu2-Size-In-Context.jpg' alt='NSLU2; source: nslu2-linux yahoo group' class="alignright" />Recently, I bought a Linksys NSLU2 network attached storage device and installed Linux on it. I have it boot over a 64 MB USB flash stick that I had to spare and I connected a ext3-formatted USB harddrive to it. It works flawlessly with Samba, serving the USB drive to all of my client OSes.
+<img src='/media/wp/thumb-nslu2-Size-In-Context.jpg' alt='NSLU2; source: nslu2-linux yahoo group' class="alignright" />Recently, I bought a Linksys NSLU2 network attached storage device and installed Linux on it. I have it boot over a 64 MB USB flash stick that I had to spare and I connected a ext3-formatted USB harddrive to it. It works flawlessly with Samba, serving the USB drive to all of my client OSes.
 
 However, as I only need the USB harddrive maybe twice a day, I did not want it to run all 24/7. The main reason is, of course, that it wastes electricity, and additionally running all the time might have an unnecessary impact on the longevity of my drive. Especially because it is used only now and then.
 

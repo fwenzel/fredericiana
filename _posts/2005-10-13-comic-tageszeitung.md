@@ -11,7 +11,7 @@ layout: post
 ---
 Auf der "Beaver Community Fair", einer kleinen Uni-Messe, auf der sich allerhand Leute vorgestellt haben, habe ich - neben dem Kennenlernen der Linux User Group und so weiter - auch ein 40-Wochen-Abo für die lokale Tageszeitung gemacht (für 35 Dollar. Das war wirklich günstig.). Darin befinden sich nämlich dann Informationen, was so passiert in dieser Kleinstadt, aber auch das aktuelle Kinoprogramm und so weiter.
 
-<img src='http://fredericiana.de/uploads/051015comicseite.jpg' alt='Die tägliche Comic-Seite' class="alignright" />Gestern hat der "Paperboy" die erste Lieferung gebracht. Wahrscheinlich hat er sich geärgert, dass wir im Hinterhaus wohnen, denn er hat die Zeitung nur mitten auf die Treppe geworfen. Hoffentlich wohnt im Obergeschoss nicht noch irgendjemand mit Krücken oder so, wenn der über die Zeitung stolpert, kann er seine Gehhilfen nochmal ein bisschen länger behalten... -
+<img src='/media/wp/051015comicseite.jpg' alt='Die tägliche Comic-Seite' class="alignright" />Gestern hat der "Paperboy" die erste Lieferung gebracht. Wahrscheinlich hat er sich geärgert, dass wir im Hinterhaus wohnen, denn er hat die Zeitung nur mitten auf die Treppe geworfen. Hoffentlich wohnt im Obergeschoss nicht noch irgendjemand mit Krücken oder so, wenn der über die Zeitung stolpert, kann er seine Gehhilfen nochmal ein bisschen länger behalten... -
 
 Und als ich die (gegen den Oregonischen Regen eingetütete) Zeitung öffne, lese ich.... - <a href="http://www.democratherald.com/">The Albany Democrat-Herald</a>.
 

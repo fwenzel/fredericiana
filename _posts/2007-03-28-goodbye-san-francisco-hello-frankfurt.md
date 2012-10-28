@@ -14,7 +14,7 @@ layout: post
 ---
 Alright, my bags are packed and I am about to leave... tomorrow morning. Rumor has it it's snowy in Germany which feels kind of unreal considering how sunny the Bay Area is at the moment.
 
-<img src='http://fredericiana.com/wp-content/uploads/2007/03/lufthansa.jpg' alt='Lufthansa Airbus' class="alignright" align="right" />Just so I know what's expecting me in Germany (in case I forgot), Jean Pierre sent me a link to <a href="http://www.tobsy.de/?p=22">20 things to keep in mind when visiting Germany</a>, a quite funny list of things you might (well, you <em>will</em>) stumble across when you make it to my home country.
+<img src='/media/wp/2007/03/lufthansa.jpg' alt='Lufthansa Airbus' class="alignright" align="right" />Just so I know what's expecting me in Germany (in case I forgot), Jean Pierre sent me a link to <a href="http://www.tobsy.de/?p=22">20 things to keep in mind when visiting Germany</a>, a quite funny list of things you might (well, you <em>will</em>) stumble across when you make it to my home country.
 
 <strong>Things I am looking forward to?</strong> The food. The beer, obviously. Spring and summer. Some of my classes. Making more music again (my trumpet really does want to get played more often than recently!). German folk festivals. That the price on the shelves is actually what I have to pay. The metric system. Buildings with walls that actually deserve the name. Public transportation that works. The autobahn and people who know how to drive stick (no offense ;) ). 
 

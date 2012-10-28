@@ -13,7 +13,7 @@ Wer gedacht hat, sich gegen die alltäglichen Wehwehchen zu versichern sei ander
 
 Nicht nur, dass die deutschen Deckungssummen die dortigen Hanselen irgendwie irritieren ("wie jetzt, kein Limit?"), nein auch allerhand Krankheiten, die deutsche Versicherer aus Prinzip ausschließen, wollen sie abgedeckt haben.
 
-<img src='/uploads/thumb-formulare.jpg' alt='Von der Wiege bis zur Bahre: Formulare, Formulare...' class="alignleft" />Und so stehe ich seit ungefähr zwei Wochen jeden Tag in E-Mail-Kontakt mit den "Student Health Services" an der OSU, um die eine oder andere Versicherung auf ihre Tauglichkeit prüfen zu lassen.
+<img src='/media/wp/thumb-formulare.jpg' alt='Von der Wiege bis zur Bahre: Formulare, Formulare...' class="alignleft" />Und so stehe ich seit ungefähr zwei Wochen jeden Tag in E-Mail-Kontakt mit den "Student Health Services" an der OSU, um die eine oder andere Versicherung auf ihre Tauglichkeit prüfen zu lassen.
 
 <em>Einfach die <a href="http://dkv.de">teuerste</a> deutsche Versicherung wählen</em> (von denen, die ich mir angesehen habe) wäre zwar auch gegangen, hätte den studentischen Geldbeutel aber wohl ein wenig überfordert.
 <!--more-->

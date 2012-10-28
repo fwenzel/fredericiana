@@ -11,7 +11,7 @@ layout: post
 ---
 <blockquote>"Von Zeit zu Zeit soll (der Präsident) dem Kongress Bericht erstatten über die <strong>Lage der Nation</strong> und ihm diejenigen Maßnahmen unterbreiten, die er für notwendig oder ratsam hält." -- Verfassung der Vereinigten Staaten, Artikel II, Abschnitt III</blockquote>
 
-<img src="http://fredericiana.de/uploads/20060131-bush.jpg" width="250" height="187" alt="Bush; Official White House picture, therefore in the public domain" title="Bush; Official White House picture, therefore in the public domain" class="alignright" />Heute abend, 21 Uhr Ostküsten-Zeit, hält der Präsident der Vereinigten Staaten seine diesjährige <a href="http://de.wikipedia.org/wiki/State_of_the_Union_Address">"State of the Union Address"</a>, also seine <strong>Rede zur Lage der Nation</strong>.
+<img src="/media/wp/20060131-bush.jpg" width="250" height="187" alt="Bush; Official White House picture, therefore in the public domain" title="Bush; Official White House picture, therefore in the public domain" class="alignright" />Heute abend, 21 Uhr Ostküsten-Zeit, hält der Präsident der Vereinigten Staaten seine diesjährige <a href="http://de.wikipedia.org/wiki/State_of_the_Union_Address">"State of the Union Address"</a>, also seine <strong>Rede zur Lage der Nation</strong>.
 
 Die Leute hier sind naturgemäß nicht gerade aufgeregt, hier in West-Oregon hat der Redner ja nicht direkt seine sichersten Sympathiepunkte. Trotzdem werden es sich wohl einige von ihnen ansehen.
 

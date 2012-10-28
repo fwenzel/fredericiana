@@ -11,7 +11,7 @@ layout: post
 ---
 Also ich weiß ja, dass die katholische Kirche gegenwärtig um ihre Mitglieder bangt - aber dass sie gleich <em>so eine</em> Marketingaktion starten müssen ;)? (war heute eine Google-Anzeige)
 
-<img src='http://fredericiana.de/uploads/050621sofortkauf.gif' alt='Gott zum Sofortkauf auf Ebay?' class="centered border" />
+<img src='/media/wp/050621sofortkauf.gif' alt='Gott zum Sofortkauf auf Ebay?' class="centered border" />
 
 Dazu passend ein kleiner Witz, den ich diese Woche per Mail bekommen habe... :)
 

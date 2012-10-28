@@ -19,7 +19,7 @@ As only the most attentive readers may have noticed by now, I redesigned my blog
 So I went ahead, got myself a template from <a href="http://www.freecsstemplates.org/">freecsstemplates</a> and tweaked away. It wasn't a Wordpress template, so there was quite a lot of work to do, but I am quite pleased with the outcome.
 
 <div class="img-label">
-<img src="http://fredericiana.com/wp-content/uploads/2008/09/blog-style-fastswing.png" alt="" title="Fast Swing, the old blog layout" width="300" height="225" class="alignnone size-full wp-image-1574" />
+<img src="/media/wp/2008/09/blog-style-fastswing.png" alt="" title="Fast Swing, the old blog layout" width="300" height="225" class="alignnone size-full wp-image-1574" />
 Gone: The old design.
 </div>
 
@@ -31,6 +31,6 @@ Second, due to the <a href="http://famfamfam.com/">famfamfam icons</a> I built i
 
 At last, my comments now differ visually from everybody else's:
 
-<img src="http://fredericiana.com/wp-content/uploads/2008/09/fred-comment-style.jpg" alt="" title="New Comment Style" width="575" height="214" class="alignnone size-full wp-image-1584" />
+<img src="/media/wp/2008/09/fred-comment-style.jpg" alt="" title="New Comment Style" width="575" height="214" class="alignnone size-full wp-image-1584" />
 
 I hope you like it. Oh, and if you find anything out of the ordinary, let me know!

@@ -17,6 +17,6 @@ Another addition to my <a href="http://fredericiana.com/tag/failpet/">ever-growi
 
 Their "fail pet" is an octopus, the "Neatokraken":
 
-<a href="http://fredericiana.com/wp-content/uploads/2010/03/neatokraken-splash.jpg"><img src="http://fredericiana.com/wp-content/uploads/2010/03/neatokraken-splash-533x400.jpg" alt="" title="neatokraken" width="533" height="400" class="alignnone size-large wp-image-2659" /></a>
+<a href="/media/wp/2010/03/neatokraken-splash.jpg"><img src="/media/wp/2010/03/neatokraken-splash-533x400.jpg" alt="" title="neatokraken" width="533" height="400" class="alignnone size-large wp-image-2659" /></a>
 
 Fail whale, make room: You've got company.

@@ -17,7 +17,7 @@ layout: post
 Oh, that almost slipped through my radar: On January the 10th, Wikipedia's featured article was the <a href="http://en.wikipedia.org/wiki/Oregon_State_Capitol">Oregon State Capitol</a> in Salem, OR.
 
 <div class="img-label">
-<img src='http://fredericiana.com/wp-content/uploads/2008/01/oregon-state-capitol.jpg' alt='The Oregon State Capitol' />
+<img src='/media/wp/2008/01/oregon-state-capitol.jpg' alt='The Oregon State Capitol' />
 The Oregon State Capitol, picture off <a href="http://en.wikipedia.org/wiki/Image:ORCap1.JPG">Wikipedia</a>.
 </div>
 

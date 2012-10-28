@@ -17,6 +17,6 @@ Of course I want most of these things (did I mention I will add them to my wish 
 
 Except for the <a href="http://www.amazon.com/Fred-Toothpick-Holder-Ouch-Gray/dp/B000HKHAHY/">Fred "ouch" toothpick holder</a>, maybe (which would make for a nice voodoo doll, too!):
 
-<img src='http://fredericiana.com/wp-content/uploads/2008/01/fred-toothpick.jpg' alt='Fred Toothpick Holder' />
+<img src='/media/wp/2008/01/fred-toothpick.jpg' alt='Fred Toothpick Holder' />
 
 <em>(Thanks for the link, Jenny!)</em>

@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<p><img width="110" height="81" border="0" hspace="5" align="right" src="/wp-content/olduploads/fred/eye.serendipityThumb.jpg" alt=""  />Schlimm genug, wenn man beim Glas den Boden sieht...<br />
+<p><img width="110" height="81" border="0" hspace="5" align="right" src="/media/wp/fred/eye.serendipityThumb.jpg" alt=""  />Schlimm genug, wenn man beim Glas den Boden sieht...<br />
 noch viel schlimmer, wenn man ihn <i>nicht sieht</i> ;-)</p>
 
 <p>Und was tut man dagegen? Seit bestimmt zehn Jahren trag ich eine Brille. Ab und zu kauf ich mir ne neue, zuletzt 2001 eine (zugegeben: sündhaft teure) &quot;Air-Titan&quot; mit entspiegelten Kunststoffgläsern etc. etc...</p>

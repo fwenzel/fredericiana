@@ -12,7 +12,7 @@ layout: post
 ---
 <p>Heute hat der Fredsche Arbeitsplatz ein neues Spielzeug bekommen:</p>
 
-<blockquote><p><img width="110" height="109" border="0" hspace="20" align="left" src="/wp-content/olduploads/equipment/iiyama-e431s.serendipityThumb.jpg" alt=""  /><br />
+<blockquote><p><img width="110" height="109" border="0" hspace="20" align="left" src="/media/wp/equipment/iiyama-e431s.serendipityThumb.jpg" alt=""  /><br />
 Vielen Dank für Ihre Bestellung.<br />
 1    E431S-W<br />
      iiyama ProLite E431S, weiss, 17&quot;<br />

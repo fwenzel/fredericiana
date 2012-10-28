@@ -12,7 +12,7 @@ layout: post
 ---
 Cool, <a href="http://starbucks.com">Starbucks</a> kommt endlich nach Karlsruhe. Heute habe ich folgende Anzeige in der Zeitung gefunden:
 
-<img src='http://fredericiana.de/uploads/2007/06/starbucks.jpg' alt='Starbucks Karlsruhe' />
+<img src='/media/wp/2007/06/starbucks.jpg' alt='Starbucks Karlsruhe' />
 
 Ich frage mich noch, wann und wohin der Laden kommt (obwohl das "wohin" relativ wahrscheinlich die Kaiserstraße, die Postgalerie oder das ECE-Center sein werden -- und die liegen alle sehr nah beieinander).
 

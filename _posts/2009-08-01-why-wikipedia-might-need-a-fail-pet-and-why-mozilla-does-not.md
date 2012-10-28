@@ -23,17 +23,17 @@ layout: post
 
 When I was just visiting Wikipedia, I was greeted with this temporary error note (which, luckily, does not happen too often in spite of Wikipedia's huge popularity):
 
-<img src="http://fredericiana.com/wp-content/uploads/2009/07/wikimedia-borken-575x165.jpg" alt="Wikimedia borken" title="Wikimedia borken" width="575" height="165" class="alignnone size-large wp-image-2345" />
+<img src="/media/wp/2009/07/wikimedia-borken-575x165.jpg" alt="Wikimedia borken" title="Wikimedia borken" width="575" height="165" class="alignnone size-large wp-image-2345" />
 
 And, even if this marks me as a Web 2.0 geek, I must admit: All I was thinking was -- <em>where's the pet?</em>
 
 The first company to put a recognizable, even likable, "pet" onto their error pages was likely Twitter. And due to the horribly frequent outages associated with Twitter's "growing pain", we got to see the <del>little</del><ins>huge</ins> fellow quite often. In the mean time, he seems to have swam away, at least I haven't seen him in awhile. Yet, he's not forgotten: the fail whale even has <a href="http://failwhale.com/">his own fanclub</a>.
 
-<img src="http://fredericiana.com/wp-content/uploads/2009/07/twitter_fail_whale.jpg" alt="Twitter Fail Whale" title="Twitter Fail Whale" width="400" height="300" class="alignnone size-full wp-image-2342" />
+<img src="/media/wp/2009/07/twitter_fail_whale.jpg" alt="Twitter Fail Whale" title="Twitter Fail Whale" width="400" height="300" class="alignnone size-full wp-image-2342" />
 
 Another place where I saw a "fail pet" was yelp, whose error page was sporting a picture of an actual dog, apparently the company puppy "Darwin" (sorry for the tiny screenshot):
 
-<img src="http://fredericiana.com/wp-content/uploads/2009/07/yelp-puppy.jpg" alt="Yelp Puppy" title="Yelp Puppy" width="300" height="293" class="alignnone size-full wp-image-2343" />
+<img src="/media/wp/2009/07/yelp-puppy.jpg" alt="Yelp Puppy" title="Yelp Puppy" width="300" height="293" class="alignnone size-full wp-image-2343" />
 
 <strong>Now where's yours, Wikipedia?</strong>
 

@@ -26,11 +26,11 @@ If you have a short URL service that you like more than the default, you can pic
 <strong>Notifications</strong>
 Initially, there was no way to tell if the add-on had already done its job, except for checking your clipboard contents (hint, <em>if in doubt, yes, it worked</em>). So I added unobtrusive Growl notifications for platforms that support it. For example:
 
-<img src="http://fredericiana.com/wp-content/uploads/2010/09/copyshorturl-growl.jpg" alt="" title="Copy ShortURL Growl Notification" width="314" height="118" class="aligncenter size-full wp-image-2942" />
+<img src="/media/wp/2010/09/copyshorturl-growl.jpg" alt="" title="Copy ShortURL Growl Notification" width="314" height="118" class="aligncenter size-full wp-image-2942" />
 
 If you don't have Growl, a Firefox notification bar is shown instead:
 
-<img src="http://fredericiana.com/wp-content/uploads/2010/09/copyshorturl-nogrowl-575x219.jpg" alt="" title="Copy ShortURL NoGrowl notification" width="575" height="219" class="aligncenter size-large wp-image-2945" />
+<img src="/media/wp/2010/09/copyshorturl-nogrowl-575x219.jpg" alt="" title="Copy ShortURL NoGrowl notification" width="575" height="219" class="aligncenter size-large wp-image-2945" />
 
 Finally, Copy ShortURL is now compatible with Firefox versions 3.6 to 4.0b5pre.
 

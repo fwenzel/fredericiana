@@ -19,6 +19,6 @@ Not sure what's causing it, but sometimes that's easier said than done. Trying t
 
 Sure, you could restart your computer and that'd take care of it. But please, this is not Windows. A simple workaround is <strong>pressing the Command button while right-clicking the Trash</strong>. It'll allow you to <strong>"securely empty [the] trash"</strong>. This actually overwrites the deleted data on the hard drive for security reasons -- but as a side effect, it also deletes files that are supposedly "still in use".
 
-<img src="/wp-content/uploads/2012/10/secure-empty-trash.png" alt="" title="Secure Empty Trash" width="204" height="149" class="alignnone size-full wp-image-5010" />
+<img src="/media/wp/2012/10/secure-empty-trash.png" alt="" title="Secure Empty Trash" width="204" height="149" class="alignnone size-full wp-image-5010" />
 
 Hope this helps!

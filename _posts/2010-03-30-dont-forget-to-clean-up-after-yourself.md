@@ -17,7 +17,7 @@ meta:
   aktt_notify_twitter: "yes"
 layout: post
 ---
-<img src="http://fredericiana.com/wp-content/uploads/2010/03/hudson-butler.png" alt="" title="The Hudson Butler." width="96" height="96" class="alignright size-full wp-image-2680" />On a growing number of projects at Mozilla, we use a tool called <a href="http://hudson-ci.org/">Hudson</a> that runs a complete set of tests on the code with every check-in. The beauty of this is that if you accidentally break something, you (and everyone else) will know immediately, so you can fix it quickly. We also use a bunch of plugins with Hudson, <a href="http://wiki.hudson-ci.org/display/HUDSON/The+Continuous+Integration+Game+plugin">one of which</a> assigns points to every check-in: For example, if all tests pass, you get a positive number of points, or if you broke something, you get a negative score.
+<img src="/media/wp/2010/03/hudson-butler.png" alt="" title="The Hudson Butler." width="96" height="96" class="alignright size-full wp-image-2680" />On a growing number of projects at Mozilla, we use a tool called <a href="http://hudson-ci.org/">Hudson</a> that runs a complete set of tests on the code with every check-in. The beauty of this is that if you accidentally break something, you (and everyone else) will know immediately, so you can fix it quickly. We also use a bunch of plugins with Hudson, <a href="http://wiki.hudson-ci.org/display/HUDSON/The+Continuous+Integration+Game+plugin">one of which</a> assigns points to every check-in: For example, if all tests pass, you get a positive number of points, or if you broke something, you get a negative score.
 
 An innocent little commit of mine gained me a whopping <strong>-100 points</strong> (yes, that is minus 100) today.
 

@@ -10,7 +10,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src='http://fredericiana.de/uploads/050331ipodmini.jpg' alt='iPod Mini' class="alignright border" />*juhu*. Seit Anfang der Woche bin ich stolzer Besitzer eines <strong>iPod mini</strong>. Das handliche kleine Teil (übrigens: silber. War nicht ganz leicht zu besorgen, aber wer will schon pink??) - versorgt mich unterwegs tapfer mit Musik, aber auch mit Hörbüchern und demnächst, wenn ich ein paar Feeds gesammelt habe, stets auch mit den neuesten <a href="http://www.podcast.de/">Podcasts</a>.
+<img src='/media/wp/050331ipodmini.jpg' alt='iPod Mini' class="alignright border" />*juhu*. Seit Anfang der Woche bin ich stolzer Besitzer eines <strong>iPod mini</strong>. Das handliche kleine Teil (übrigens: silber. War nicht ganz leicht zu besorgen, aber wer will schon pink??) - versorgt mich unterwegs tapfer mit Musik, aber auch mit Hörbüchern und demnächst, wenn ich ein paar Feeds gesammelt habe, stets auch mit den neuesten <a href="http://www.podcast.de/">Podcasts</a>.
 <!--more-->
 
 Irgendwie kann ich den iPod-Boom verstehen. Die Bedienung ist einfach, der Speicher reichlich und er passt in jede Tasche. Und obwohl ich eigentlich kein Fan solcher Software bin, kann ich mit der iTunes Software ganz gut leben: Nachdem ich den üblichen "Idioten-Modus" weitgehend ausgestellt habe, ist sie erstaunlich bedienbar geworden: Man könnte fast sagen, das Füttern des iPod gehe extrem leicht.

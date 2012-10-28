@@ -25,7 +25,7 @@ In my talk, I am looking at two math problems from <a href="http://projecteuler.
 
 Check it out and let me know what you think!
 
-<video id="movie" width="640" height="360" preload="none" controls poster="http://fredericiana.com/wp-content/uploads/2012/03/mozilla_wht.png">
+<video id="movie" width="640" height="360" preload="none" controls poster="/media/wp/2012/03/mozilla_wht.png">
   <source src="http://videos-cdn.mozilla.net/serv/flux/lightningtalks-q1-2012/2-fred-premature-optimization.webm" type='video/webm; codecs="vp8, vorbis"' />
   <source src="http://videos-cdn.mozilla.net/serv/flux/lightningtalks-q1-2012/2-fred-premature-optimization.ogv" type='video/ogg; codecs="theora, vorbis"' />
   <source src="http://videos-cdn.mozilla.net/serv/flux/lightningtalks-q1-2012/2-fred-premature-optimization.mp4" />

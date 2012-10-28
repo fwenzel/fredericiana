@@ -17,7 +17,7 @@ layout: post
 ---
 Is it time to leave? <a href="http://fredericiana.com/2007/03/14/wrapping-up-an-internship/">Again?</a> Yup. The final days of my <a href="http://fredericiana.com/2008/03/15/masters-thesis-planned/">stay in Pittsburgh</a> have come: My master's thesis is more or less complete (by the way, it has the nice name "Transaction Management Challenges for Cross-Organizational, Workflow-Based SOA Applications" and spans 104 pages total), so it is time for me to take it back to Germany and finally wrap up that "Diplom" of mine.
 
-<img src="http://fredericiana.com/wp-content/uploads/2009/01/pittsburgh-skyline.jpg" alt="Pittsburgh Skyline" title="Pittsburgh Skyline" width="500" height="333" class="alignnone size-full wp-image-2033" />
+<img src="/media/wp/2009/01/pittsburgh-skyline.jpg" alt="Pittsburgh Skyline" title="Pittsburgh Skyline" width="500" height="333" class="alignnone size-full wp-image-2033" />
 
 It was a fun time in the "Steel City", I've learned a lot both professionally as well as personally and I have met great people who I will really miss. Thanks for making my time in Pittsburgh great, you know who you are!
 

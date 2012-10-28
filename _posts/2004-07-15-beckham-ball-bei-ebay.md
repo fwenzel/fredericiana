@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img width="110" height="83" border="0" hspace="5" align="left" src="/wp-content/olduploads/einmalig/beckham-ball.serendipityThumb.JPG" alt=""  />... es gibt jetzt den
+<img width="110" height="83" border="0" hspace="5" align="left" src="/media/wp/einmalig/beckham-ball.serendipityThumb.JPG" alt=""  />... es gibt jetzt den
 
 <a href="http://cgi.ebay.de/ws/eBayISAPI.dll?ViewItem&category=13347&item=5109400347&rd=1" title="http://cgi.ebay.de/ws/eBayISAPI.dll?ViewItem&category=13347&item=5109400347&rd=1" onmouseover="window.status='http://cgi.ebay.de/ws/eBayISAPI.dll?ViewItem&category=13347&item=5109400347&rd=1';return true;" onmouseout="window.status='';return true;">Original Europameisterschaft Beckham Ball Elfmeter</a> (auch als <a href="http://www.magenson.de/data/fun/beckham-ball-ebay-falsch.pdf" title="http://www.magenson.de/data/fun/beckham-ball-ebay-falsch.pdf" onmouseover="window.status='http://www.magenson.de/data/fun/beckham-ball-ebay-falsch.pdf';return true;" onmouseout="window.status='';return true;">PDF</a>)
 

@@ -11,7 +11,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src='http://fredericiana.de/uploads/2007/08/broken-television.jpg' alt='Broken Television' class="alignright" align="right" />Leider kein Scherz:
+<img src='/media/wp/2007/08/broken-television.jpg' alt='Broken Television' class="alignright" align="right" />Leider kein Scherz:
 
 <blockquote>Ich fahre in Urlaub, drehe ein kleines Filmchen über meine Erlebnisse und möchte meine Freunde daran im Internet teilhaben lassen – vorher habe ich aber bitte schön eine Senderlizenz zu beantragen, deren Genehmigung vermutlich Monate braucht.
 

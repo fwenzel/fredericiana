@@ -22,13 +22,13 @@ layout: post
 
 This morning, we published the <a href="http://input.mozilla.com">Firefox Input</a> application. It is a little web application soliciting feedback from our <a href="http://www.mozilla.com/en-US/firefox/all-beta.html">Firefox Beta Program</a> users. The aim is to make it as easy as possible for people to tell us what specifically they like or dislike about an upcoming version of Firefox.
 
-<a href="http://fredericiana.com/wp-content/uploads/2010/06/fx-input-dashboard.jpg"><img src="http://fredericiana.com/wp-content/uploads/2010/06/fx-input-dashboard-300x210.jpg" alt="" title="Firefox Input: Dashboard" width="300" height="210" class="aligncenter size-medium wp-image-2835" /></a>
+<a href="/media/wp/2010/06/fx-input-dashboard.jpg"><img src="/media/wp/2010/06/fx-input-dashboard-300x210.jpg" alt="" title="Firefox Input: Dashboard" width="300" height="210" class="aligncenter size-medium wp-image-2835" /></a>
 
 The application was, as far as software goes, developed very rapidly: We made it from requirements to production in a mere three weeks. What made this possible was a number of reusable components that allowed us to avoid reinventing the wheel and stay focused on making the application awesome.
 
-<a href="http://fredericiana.com/wp-content/uploads/2010/06/fx-input-happy.jpg"><img src="http://fredericiana.com/wp-content/uploads/2010/06/fx-input-happy-300x100.jpg" alt="" title="Firefox Input: Happy Feedback" width="300" height="100" class="aligncenter size-medium wp-image-2842" /></a>
+<a href="/media/wp/2010/06/fx-input-happy.jpg"><img src="/media/wp/2010/06/fx-input-happy-300x100.jpg" alt="" title="Firefox Input: Happy Feedback" width="300" height="100" class="aligncenter size-medium wp-image-2842" /></a>
 
-<a href="http://fredericiana.com/wp-content/uploads/2010/06/fx-input-sad.jpg"><img src="http://fredericiana.com/wp-content/uploads/2010/06/fx-input-sad-300x110.jpg" alt="" title="Firefox Input: Sad Feedback" width="300" height="110" class="aligncenter size-medium wp-image-2843" /></a>
+<a href="/media/wp/2010/06/fx-input-sad.jpg"><img src="/media/wp/2010/06/fx-input-sad-300x110.jpg" alt="" title="Firefox Input: Sad Feedback" width="300" height="110" class="aligncenter size-medium wp-image-2843" /></a>
 
 A few key components of the Input application:
 <ul>

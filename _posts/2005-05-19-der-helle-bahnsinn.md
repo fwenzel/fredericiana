@@ -10,7 +10,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src='http://fredericiana.de/uploads/thumb-050519lidlbahn.jpg' alt='Lidl Bahnticketwerbung; Quelle: www.lidl.de' class="alignright border" />Da macht Lidl groß <a href="http://www.lidl.de/de/home.nsf/pages/c.service.news.am.e.Ticket-Aktion">Werbung</a>, dass es vom 19. bis zum 28.5. <strong>deutschlandweite Bahntickets</strong> für etwa 50 EUR gibt.
+<img src='/media/wp/thumb-050519lidlbahn.jpg' alt='Lidl Bahnticketwerbung; Quelle: www.lidl.de' class="alignright border" />Da macht Lidl groß <a href="http://www.lidl.de/de/home.nsf/pages/c.service.news.am.e.Ticket-Aktion">Werbung</a>, dass es vom 19. bis zum 28.5. <strong>deutschlandweite Bahntickets</strong> für etwa 50 EUR gibt.
 
 Als ich heute um 7:45 Uhr bei unserem lokalen Lidl aufkreuzte (um 7:30 hatte ich noch einen Termin), waren schätzungsweise <strong>150 Leute</strong> vor mir. - Der ganze Parkplatz war voll (kein Foto dabei gehabt :( Wenn ich noch eins finde, reiche ich es nach).
 

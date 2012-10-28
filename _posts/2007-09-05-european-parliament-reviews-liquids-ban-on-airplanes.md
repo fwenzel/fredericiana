@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<a href='http://fredericiana.com/wp-content/uploads/2007/09/liquids-on-a-plane.jpg' title='Liquids on a Plane spoof'><img src='http://fredericiana.com/wp-content/uploads/2007/09/liquids-on-a-plane.thumbnail.jpg' alt='Liquids on a Plane spoof' class="alignright" align="right" vspace="20" /></a>The European Parliament in Strasbourg want the European Commission to <a href="http://www.iht.com/articles/ap/2007/09/04/europe/EU-GEN-EU-Airport-Security.php">review the ban on liquids on European flights</a>:
+<a href='/media/wp/2007/09/liquids-on-a-plane.jpg' title='Liquids on a Plane spoof'><img src='/media/wp/2007/09/liquids-on-a-plane.thumbnail.jpg' alt='Liquids on a Plane spoof' class="alignright" align="right" vspace="20" /></a>The European Parliament in Strasbourg want the European Commission to <a href="http://www.iht.com/articles/ap/2007/09/04/europe/EU-GEN-EU-Airport-Security.php">review the ban on liquids on European flights</a>:
 
 <blockquote>EU parliamentarians are to vote on a resolution Wednesday calling on the EU executive to urgently review the restrictions, which have led to widespread confiscations, confusion and delays at airports.
 

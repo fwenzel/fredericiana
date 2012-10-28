@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img border="0" hspace="5" align="left" src="/wp-content/olduploads/fussball.serendipityThumb.jpg" alt=""  /><b>Liebe Griechen!</b>
+<img border="0" hspace="5" align="left" src="/media/wp/fussball.serendipityThumb.jpg" alt=""  /><b>Liebe Griechen!</b>
 
 Nach dem heutigen <a href="http://www.kicker.de/content/spielplan/spielbericht.asp?folder=28200&object=662733&liga=107&saison=2004&spieltag=5&spielpaarung=662733&turnier=&bvc_atab=4" title="http://www.kicker.de/content/spielplan/spielbericht.asp?folder=28200&object=662733&liga=107&saison=2004&spieltag=5&spielpaarung=662733&turnier=&bvc_atab=4" onmouseover="window.status='http://www.kicker.de/content/spielplan/spielbericht.asp?folder=28200&object=662733&liga=107&saison=2004&spieltag=5&spielpaarung=662733&turnier=&bvc_atab=4';return true;" onmouseout="window.status='';return true;">Sieg</a> eurer Nationalmannschaft über die Tschechen seid Ihr <a href="http://euro2004.ard.de/em2004/nachrichten/news200407/02/nachbericht_tsch_grie.jhtml" title="http://euro2004.ard.de/em2004/nachrichten/news200407/02/nachbericht_tsch_grie.jhtml" onmouseover="window.status='http://euro2004.ard.de/em2004/nachrichten/news200407/02/nachbericht_tsch_grie.jhtml';return true;" onmouseout="window.status='';return true;">"König" Otto</a> schon was schuldig. Kommt, jetzt reißt mal endlich den Zeustempel in Athen ab, und stellt die überlebensgroße <b>König-Otto-Statue</b> auf, die ihr vor der EM bestimmt schon heimlich gebaut habt.
 

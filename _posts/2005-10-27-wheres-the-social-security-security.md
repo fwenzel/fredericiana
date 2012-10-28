@@ -15,7 +15,7 @@ Today, I got my social security card. (Yes it <em>is</em> as ugly as in the pict
 
 This, however, is no big secret. Almost every American has one.
 
-<img src='/uploads/051027socialsecuritycard.gif' alt='Social Security Card' class="centered" />
+<img src='/media/wp/051027socialsecuritycard.gif' alt='Social Security Card' class="centered" />
 
 The bigger secret is the number itself. Being discovered by "bad guys", they can do quite a bunch of bad things concerning identity theft. Therefore it is a sensitive document, and you don't want to carry it around. And you don't want arbitrary people know your number. Maybe your employer. Maybe your bank. But nobody else. Especially not the bad guys mentioned above.
 

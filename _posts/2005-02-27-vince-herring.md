@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src='http://fredericiana.de/uploads/050227vincentherring.jpg' alt='Vincent Herring' class="alignright border" />... oder: Wie geil ein stinknormales Yamaha-Altsax doch klingen kann, wenn es der Richtige spielt ;)
+<img src='/media/wp/050227vincentherring.jpg' alt='Vincent Herring' class="alignright border" />... oder: Wie geil ein stinknormales Yamaha-Altsax doch klingen kann, wenn es der Richtige spielt ;)
 
 War gestern auf einem Konzert von <a href="http://www.vincentherring.com/">Vincent Herring</a>, momentan wohl einem der besten (und schnellsten ;) ) Jazz-Altsaxophonisten der Welt. Wer sich noch nicht selbst davon überzeugen konnte, kann sich ja mal von der <a href="http://www.vincentherring.com/pages/1/index.htm">Biographie</a> beeindrucken lassen:
 <blockquote>Vincent has worked with Nat Adderley, Art Blakey and The Jazz Messengers, The Horace Silver Quintet, Jack DeJohnette&#8217;s Special Edition, Larry Coryell, Cedar Walton, Freddie Hubbard, Dizzy Gillespie, The Mingus Big Band, Nancy Wilson, The Roy Hargrove Big Band...</blockquote>

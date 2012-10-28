@@ -15,9 +15,9 @@ layout: post
 
 Aus dem Buch <em>"Hansi -- the Girl Who Loved the Swastika"</em>, in dem Hansi, Bauerstochter aus dem Sudetenland, vom Glauben abfällt und für das Dritte Reich kämpft, und erst über Umwege nach Amerika kommt, wo sie merkt wie "böse die Russen und wie gut die Amerikaner doch sind":
 
-<blockquote><img src='http://fredericiana.de/uploads/2007/06/hansi-soldiers.jpg' alt='Hansi and the American Soldiers' />
+<blockquote><img src='/media/wp/2007/06/hansi-soldiers.jpg' alt='Hansi and the American Soldiers' />
 ...
-<img src='http://fredericiana.de/uploads/2007/06/hansi-love-kindness.jpg' alt='Hansi in America' /></blockquote>
+<img src='/media/wp/2007/06/hansi-love-kindness.jpg' alt='Hansi in America' /></blockquote>
 
 Es geht doch nichts über einfache Weltbilder. ;)
 

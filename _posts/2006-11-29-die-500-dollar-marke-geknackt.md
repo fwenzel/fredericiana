@@ -10,7 +10,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img id="image733" src="http://fredericiana.de/uploads/2006/11/goog.png" alt="Google Aktienkurs" class="alignright" />Letzte Woche ging das hier in den USA ziemlich heftig durch die Presse: Unser "Nachbar" auf der anderen Straßenseite, <strong>Google</strong>, hat die 500 Dollar je Aktie <a href="http://news.bbc.co.uk/go/rss/-/2/hi/business/6171320.stm">geknackt</a> und erfreut sich nun eines Unternehmenswerts von ungefähr 155 Milliarden US-Dollar.
+<img id="image733" src="/media/wp/2006/11/goog.png" alt="Google Aktienkurs" class="alignright" />Letzte Woche ging das hier in den USA ziemlich heftig durch die Presse: Unser "Nachbar" auf der anderen Straßenseite, <strong>Google</strong>, hat die 500 Dollar je Aktie <a href="http://news.bbc.co.uk/go/rss/-/2/hi/business/6171320.stm">geknackt</a> und erfreut sich nun eines Unternehmenswerts von ungefähr 155 Milliarden US-Dollar.
 
 Das ist eine Menge Holz... (Oder Bits und Bytes, wie man's nimmt)
 

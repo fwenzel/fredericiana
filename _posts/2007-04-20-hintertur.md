@@ -17,6 +17,6 @@ layout: post
 
 Das hat mich doch gleich an dieses Bild einer Werbung in Hamburg erinnert, das jüngst im Internet umherblubberte <em>(via <a href="http://www.boingboing.net/2007/04/09/goatse_ad_tells_you_.html">bb</a>)</em>:
 
-<img src='http://fredericiana.de/uploads/2007/04/goadsetjobsads.jpg' alt='Goatse Style Job Ad' />
+<img src='/media/wp/2007/04/goadsetjobsads.jpg' alt='Goatse Style Job Ad' />
 
 Die vielbeschworenen Verbesserungen der Lehre haben übrigens meinem Eindruck nach noch nicht begonnen -- aber das kann ja nicht mehr lange dauern ;)

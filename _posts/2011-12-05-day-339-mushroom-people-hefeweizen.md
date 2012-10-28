@@ -17,6 +17,6 @@ After <a href="https://twitter.com/#!/tofumatt/status/143104602873667584">a</a> 
 
 Speaking of which:
 
-<img src="http://fredericiana.com/wp-content/uploads/2011/12/facebook-novascotia.jpg" alt="" title="The little mushroom people" width="350" height="50" class="aligncenter size-full wp-image-4727" />
+<img src="/media/wp/2011/12/facebook-novascotia.jpg" alt="" title="The little mushroom people" width="350" height="50" class="aligncenter size-full wp-image-4727" />
 
 That's right.

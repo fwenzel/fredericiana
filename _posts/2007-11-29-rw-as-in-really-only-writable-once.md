@@ -15,7 +15,7 @@ layout: post
 Who ever had the brilliant idea to put the RW logo on every writable DVD kind, no matter if it is <strong>actually rewritable or only writable once</strong>?
 
 <div align="center">
-<img src='http://fredericiana.com/wp-content/uploads/2007/11/dvdr_logo.png' alt='The DVD+R logo, containing the big letters RW meaning that it is NOT writable more than once.' />
+<img src='/media/wp/2007/11/dvdr_logo.png' alt='The DVD+R logo, containing the big letters RW meaning that it is NOT writable more than once.' />
 (The DVD+R logo, containing the big letters RW meaning that it is <em>NOT</em> writable more than once.)
 </div>
 

@@ -25,6 +25,6 @@ Whistler itself is a breathtaking place, they say, so I am particularly thrilled
 
 If you want to see what's going on at the Mozilla Summit, hop on over to <a href="http://summit.mozilla.org/">summit.mozilla.org</a>, a new mash-up site showing tons of media related to the summit. Soon it'll look much fuller than this:
 
-<a href="http://summit.mozilla.org"><img src="http://fredericiana.com/wp-content/uploads/2008/07/summit-page.jpg" alt="" title="summit.mozilla.org" width="240" height="117" class="alignnone size-full wp-image-1381" /></a>
+<a href="http://summit.mozilla.org"><img src="/media/wp/2008/07/summit-page.jpg" alt="" title="summit.mozilla.org" width="240" height="117" class="alignnone size-full wp-image-1381" /></a>
 
 I'll write again when I'm there :)

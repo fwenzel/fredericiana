@@ -15,7 +15,7 @@ layout: post
 ---
 Das <strong>Abmelden</strong> von den deutschen <strong>Rundfunkgebühren</strong>, da ist sich das Internet weitgehend einig, ist schwer. Da ich beruflich bedingt in ein paar Monaten nichts Gebührenpflichtiges mehr in Deutschland "bereithalten" werde (ja, ganz legal), komme auch ich nun in den zweifelhaften Genuss, das Verfahren einmal ausprobieren zu dürfen.
 
-<img src="http://fredericiana.com/wp-content/uploads/2010/06/gez-abmelden-screenshot.jpg" alt="" title="Screenshot: gez.de" width="569" height="327" class="alignnone size-full wp-image-2766" />
+<img src="/media/wp/2010/06/gez-abmelden-screenshot.jpg" alt="" title="Screenshot: gez.de" width="569" height="327" class="alignnone size-full wp-image-2766" />
 
 Einmal abgesehen von der angsteinflößenden Webseitengestaltung, klingt das Ganze auf der <a href="http://gez.de/online_service/abmelden/index_ger.html">Abmeldungsseite auf gez.de</a> eigentlich ganz einfach: <em>"wer sich abmelden möchte, kann hierfür das Formular downloaden: Einfach das Formular ... ausdrucken, ausfüllen und uns per Fax oder Post zukommen lassen"</em>.
 

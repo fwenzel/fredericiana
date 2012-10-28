@@ -19,7 +19,7 @@ layout: post
 ---
 <blockquote>World leaders have hailed the election of Senator Barack Obama as the first black president of the United States.</blockquote>
 
-<img src="http://fredericiana.com/wp-content/uploads/2008/11/obama-poster.jpg" alt="" title="Obama Poster" width="240" height="150" class="alignright size-full wp-image-1780" />... <a href="http://news.bbc.co.uk/2/hi/americas/us_elections_2008/7711321.stm">writes BBC News</a> and expresses what I am sure at the very least most of Europe thinks: That Obama's election for president is not only good for the United States, but good for the world.
+<img src="/media/wp/2008/11/obama-poster.jpg" alt="" title="Obama Poster" width="240" height="150" class="alignright size-full wp-image-1780" />... <a href="http://news.bbc.co.uk/2/hi/americas/us_elections_2008/7711321.stm">writes BBC News</a> and expresses what I am sure at the very least most of Europe thinks: That Obama's election for president is not only good for the United States, but good for the world.
 
 German politicians are also thrilled about the outcome of the US elections and both the Chancellor and the Minister of the Exterior are <a href="http://www.tagesschau.de/inland/obamareax100.html" hreflang="de">"looking forward" to working with Obama and his government</a>. The German president reassured Obama in a letter that the US <em>"can count on Germany as a dependable partner and long-time friend"</em>.
 
@@ -29,6 +29,6 @@ So I sure hope that the German disappointment is not too big once they land back
 
 This, however, leads to another problem: In September 2009, Germany is due to vote for a new parliament (and, consequently, a Chancellor). With so much focus on and excitement about the U.S. elections, it almost seemed like the Germans forgot their own reality: That we need <strong>change</strong> in our own country as well. That our government is busy selling out our constitutional rights instead of establishing trust. And that as of now, there's no "German Obama" in sight who is likely to glue the constitution together again.
 
-<a href="http://comics.com/mike_luckovich/2008-11-05/"><img src="http://fredericiana.com/wp-content/uploads/2008/11/luckovitchobama-541x400.jpg" alt="" title="&quot;Day One&quot;" width="541" height="400" class="alignnone size-medium wp-image-1783" /></a>
+<a href="http://comics.com/mike_luckovich/2008-11-05/"><img src="/media/wp/2008/11/luckovitchobama-541x400.jpg" alt="" title="&quot;Day One&quot;" width="541" height="400" class="alignnone size-medium wp-image-1783" /></a>
 
 <em>(<a href="http://flickr.com/photos/anthonybaker/2228158870/">"Obama campaign poster"</a> picture CC by-nc-sa licensed by Anthony Baker on flickr; <a href="http://comics.com/mike_luckovich/2008-11-05/">"Day one"</a> comic by Mike Luckovich on comics.com)</em>

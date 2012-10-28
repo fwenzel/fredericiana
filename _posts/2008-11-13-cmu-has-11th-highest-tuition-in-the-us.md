@@ -17,7 +17,7 @@ meta:
   aktt_notify_twitter: "yes"
 layout: post
 ---
-<a href="http://www.ipernity.com/doc/fredw/2179796"><img src="http://fredericiana.com/wp-content/uploads/2008/11/walking-to-the-sky-small.jpg" alt="" title="Walking to the Sky" width="180" height="240" class="alignright size-full wp-image-1816" /></a>CMU's newspaper "The Tartan" has an article about <a href="http://www.thetartan.org/2008/11/10/news/tuition">Carnegie Mellon University's tuition being the 11th highest in the nation</a>:
+<a href="http://www.ipernity.com/doc/fredw/2179796"><img src="/media/wp/2008/11/walking-to-the-sky-small.jpg" alt="" title="Walking to the Sky" width="180" height="240" class="alignright size-full wp-image-1816" /></a>CMU's newspaper "The Tartan" has an article about <a href="http://www.thetartan.org/2008/11/10/news/tuition">Carnegie Mellon University's tuition being the 11th highest in the nation</a>:
 
 <blockquote>Tuition is on the rise, according to a new College Board list citing Carnegie Mellon as having the 11th highest tuition in the U.S.
 

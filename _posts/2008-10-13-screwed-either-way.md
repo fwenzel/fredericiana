@@ -19,7 +19,7 @@ layout: post
 ---
 Today's xkcd comic boils down the <a href="http://en.wikipedia.org/wiki/Digital_rights_management">Digital Restrictions Management</a> dilemma to its core:
 
-<a href="http://xkcd.com/488/"><img src="http://fredericiana.com/wp-content/uploads/2008/10/steal_this_comic.png" alt="" title="&quot;Steal This Comic&quot;, CC by-nc licensed by Randall Munroe" width="498" height="469" class="alignnone size-full wp-image-1700" /></a>
+<a href="http://xkcd.com/488/"><img src="/media/wp/2008/10/steal_this_comic.png" alt="" title="&quot;Steal This Comic&quot;, CC by-nc licensed by Randall Munroe" width="498" height="469" class="alignnone size-full wp-image-1700" /></a>
 
 The latest Wal-Mart example--<a href="http://voices.washingtonpost.com/fasterforward/2008/09/wal-mart_latest_music_store_to.html">switching off their DRM servers</a> (in spite of their later decision <a href="http://consumerist.com/5061839/walmart-decides-to-honor-drm+protected-mp3-purchases-after-all-at-least-for-now">not to do it after all</a>)--has shown that companies are not willing to stand by their <strong>self-imposed</strong> duties of providing a DRM framework for many decades to come. Instead, they are taking away the technical possibility to play your files at their sole discretion, leaving you as a customer with no choice other than throw away your media collection--or violate the law.
 

@@ -16,7 +16,7 @@ It's the second time in only a few days that I read this, so I guess I have to c
 
 Today I had some minor problems loading my <a href="http://gmail.com">GMail</a> account, so it showed me an error as follows:
 
-<a class="imagelink" href="http://fredericiana.com/wp-content/uploads/2006/11/gmail-disable-firewall.png" title="Google: Switch off your Firewall"><img id="image125" src="http://fredericiana.com/wp-content/uploads/2006/11/gmail-disable-firewall.png" alt="Google: Switch off your Firewall" width="450" class="center" /></a>
+<a class="imagelink" href="/media/wp/2006/11/gmail-disable-firewall.png" title="Google: Switch off your Firewall"><img id="image125" src="/media/wp/2006/11/gmail-disable-firewall.png" alt="Google: Switch off your Firewall" width="450" class="center" /></a>
 
 Alright, so imagine I am a naive computer user who just got this message and I obviously believe what they are saying. Now I am going to go ahead and disable my firewall altogether and live happily ever after -- until I come across the first script kiddie that turns my workstation into a spam bot, virus nest, or both.
 

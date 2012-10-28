@@ -14,7 +14,7 @@ layout: post
 ---
 Heute lag eine Marketing-Umfrage der Deutschen Post AG im Briefkasten. Der Fragebogen befasst sich mit den persönlichen Vorlieben der Einsender hinsichtlich Autos. Als "Gegenleistung" werden <strong>500 mal 50 Euro</strong> in Aral-Tankgutscheinen verlost:
 
-<img src='http://fredericiana.de/uploads/2007/06/post-umfrage.jpg' alt='Post-Umfrage Autos' />
+<img src='/media/wp/2007/06/post-umfrage.jpg' alt='Post-Umfrage Autos' />
 
 Da es sich ja um persönliche Daten handelt, die wir hier "verkaufen", <strong>rechnen</strong> wir doch einfach mal etwas nach.
 <!--more-->

@@ -16,7 +16,7 @@ layout: post
 ---
 Interesting, I just noticed that what is known (and has been for like a decade or so) as the "Opel Astra" in Europe is sold here in the US under the Saturn brand name, making it the <strong>Saturn Astra</strong>:
 
-<img src="http://fredericiana.com/wp-content/uploads/2008/07/astra.jpg" alt="" title="Saturn Astra" width="500" height="196" class="alignnone size-full wp-image-1328" />
+<img src="/media/wp/2008/07/astra.jpg" alt="" title="Saturn Astra" width="500" height="196" class="alignnone size-full wp-image-1328" />
 
 Both Saturn and Opel are brands under the hood of General Motors, so there's no big surprise here. What's more interesting is that 4-dollars-a-gallon seem to be making American car buyers interested in smaller European-style cars quite a bit more than they used to.
 

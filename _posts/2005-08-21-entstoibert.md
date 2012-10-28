@@ -11,7 +11,7 @@ layout: post
 ---
 Ich bin ja erschüttert, förmlich. Da hat es sich ausgestoibert im Merkelschen Kompetenzteam.
 
-<img src='http://fredericiana.de/uploads/20050820kompetenzteam.jpg' alt='Angies Fußballmannschaft' class="centered" />
+<img src='/media/wp/20050820kompetenzteam.jpg' alt='Angies Fußballmannschaft' class="centered" />
 
 Ich meine, eine illustre Truppe, die sie sich da zusammengestellt hat. (Vor allem, dass das Finanzressort wirklich einer übernehmen soll, der <a href="http://www.spiegel.de/wirtschaft/0,1518,370102,00.html">rechnen kann</a>, ist für "Schattenkabinette" eher ungewöhnlich... Aber <a href="http://blog.koehntopp.de/archives/833-Imperator-Beckstein-ueber-Darth-Schily.html">Darth Beckstein</a> und <a href="http://www.spiegel.de/unispiegel/studium/0,1518,370299,00.html">däumchen drehende Küchenhilfen</a> stellen das Gleichgewicht dann wieder her ;) ) Also ganz rund eigentlich, die Mannschaft im schwarzen Trikot. Nur der - nie um einen unpassenden Kommentar verlegene - <del>Mittelstürmer</del>Fast-Superminister Edmund fehlt. Dabei hat der doch jüngst so überaus kompetent über die Vorlieben ostdeutscher Wähler philosophiert.
 

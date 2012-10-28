@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src="http://fredericiana.de/wp-content/olduploads/allgemein/FahneDeutschland.serendipityThumb.jpg" alt="Deutsche Flagge" class="alignright" />Da geht der <a href="http://de.wikipedia.org/wiki/Tag_der_deutschen_Einheit">Tag der deutschen Einheit</a> sang- und klanglos dem Ende entgegen.
+<img src="/media/wp/allgemein/FahneDeutschland.serendipityThumb.jpg" alt="Deutsche Flagge" class="alignright" />Da geht der <a href="http://de.wikipedia.org/wiki/Tag_der_deutschen_Einheit">Tag der deutschen Einheit</a> sang- und klanglos dem Ende entgegen.
 
 Bevor ich gestern schlafen gegangen bin, habe ich mir noch schnell online den Livestream der 9-Uhr-Tagesschau angesehen, und habe da einen kleinen Ausschnitt zu den Feierlichkeiten in Brandenburg gesehen.
 

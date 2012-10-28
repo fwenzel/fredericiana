@@ -11,7 +11,7 @@ layout: post
 ---
 Ich ahne ja, von welchem Betriebssystem der heutige <a href="http://www.dilbert.com">Dilbert</a> da spricht:
 
-<a href="http://flickr.com/photos/freeed/28755526/"><img src='http://fredericiana.de/uploads/thumb050424dilbert2005042261584.jpg' alt='Daily Dilbert 2005-04-24' class="centered border" /></a>
+<a href="http://flickr.com/photos/freeed/28755526/"><img src='/media/wp/thumb050424dilbert2005042261584.jpg' alt='Daily Dilbert 2005-04-24' class="centered border" /></a>
 
 Wisst ihr, der Dilbert ist ein <a href="http://fswiwi.wiwi.uni-karlsruhe.de/">Wiwi</a>-Comic und alle Wiwis sind eben klassische Kleinweich-Freunde.
 

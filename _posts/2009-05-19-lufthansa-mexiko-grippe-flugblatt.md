@@ -29,6 +29,6 @@ Auf der Rückseite wird der möglicherweise behandelnde Arzt über die "Schweine
 
 Die Ausgangsfassung des Robert-Koch-Instituts (<a href="http://www.rki.de/cln_109/nn_200120/DE/Content/InfAZ/I/Influenza/IPV/Schweinegrippe__Einsteiger__DE.html">erhältlich auf dessen Webseite</a>) enthält hingegen keine spezifischen Dosisanweisungen, und empfiehlt den Medizinern lediglich die <em>"Gabe von Neuraminidasehemmern in therapeutischer Dosierung gemäß Fachinformation in Erwägung [zu] ziehen"</em>.
 
-<a href="http://fredericiana.com/wp-content/uploads/2009/05/lufthansa.pdf"><img src="http://fredericiana.com/wp-content/uploads/2009/05/lufthansa.jpg" alt="Lufthansa Influenza Flugblatt" title="Lufthansa Influenza Flugblatt" width="309" height="400" class="alignnone size-full wp-image-2241" /></a>
+<a href="/media/wp/2009/05/lufthansa.pdf"><img src="/media/wp/2009/05/lufthansa.jpg" alt="Lufthansa Influenza Flugblatt" title="Lufthansa Influenza Flugblatt" width="309" height="400" class="alignnone size-full wp-image-2241" /></a>
 
 Mit einem Klick auf das Bild könnt ihr das ganze Dokument als PDF-Datei ansehen.

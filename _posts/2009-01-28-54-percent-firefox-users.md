@@ -19,7 +19,7 @@ layout: post
 ---
 Today I looked at this blog's usage statistics and as it turns out, a whopping <strong>54 percent of my visitors use Firefox</strong>, followed by Internet Explorer, then Safari, Opera, Chrome.
 
-<img src="http://fredericiana.com/wp-content/uploads/2009/01/fredericiana-browser-statistics.jpg" alt="fredericiana Browser Statistics" title="fredericiana Browser Statistics" width="327" height="261" class="alignnone size-full wp-image-2015" />
+<img src="/media/wp/2009/01/fredericiana-browser-statistics.jpg" alt="fredericiana Browser Statistics" title="fredericiana Browser Statistics" width="327" height="261" class="alignnone size-full wp-image-2015" />
 
 It's interesting to see how much difference the "clientele" of a page makes for its statistics. The overall market share of Firefox has <a href="http://blog.mozilla.com/metrics/2008/11/03/its-official-firefox-surpasses-20-worldwide-market-share/">topped 20%</a> a few months ago, but since this blog has a lot of tech content, a higher number of Firefox users is probably not surprising.
 

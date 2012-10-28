@@ -16,7 +16,7 @@ Nachdem ich jüngst alles für die kalifornische Autoanmeldung vorbereiten durft
 Die theoretische Prüfung ist deutlich einfacher als in Deutschland (<em>wie überraschend</em>) und findet im Gegensatz zu Oregon noch auf Papier statt. Auch die Ausstellung des Führerscheins dauert länger: Statt direkt ausgedruckt zu werden, darf man im "goldenen Staat" etwa zwei Wochen auf Post warten.
 
 Immerhin bekommt man dann direkt <strong>Post von Arnold</strong>:
-<a class="imagelink" href="http://fredericiana.de/uploads/2006/10/calicense.jpg" title="CA Führerschein"><img id="image711" src="http://fredericiana.de/uploads/2006/10/calicense.thumbnail.jpg" alt="CA Führerschein" class="centered" /></a>
+<a class="imagelink" href="/media/wp/2006/10/calicense.jpg" title="CA Führerschein"><img id="image711" src="/media/wp/2006/10/calicense.thumbnail.jpg" alt="CA Führerschein" class="centered" /></a>
 (dass ich auf dem Foto so weiblich aussehe ist natürlich reiner Zufall)
 
 Nun also: <strong>Streiche Oregon, setze Kalifornien.</strong> Vollständig eingebürgert: in meinem Oregonischen Führerschein prangt jetzt ein Loch.

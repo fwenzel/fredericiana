@@ -24,7 +24,7 @@ If these were the presidential elections, I would demand a recount, but <em>in d
 
 and what did I get back? Obviously, <strong>big macs per second</strong>:
 
-<img src="http://fredericiana.com/wp-content/uploads/2008/09/bigmac-hertz.jpg" alt="" title="Big Macs per Second" width="441" height="79" class="alignnone size-full wp-image-1545" />
+<img src="/media/wp/2008/09/bigmac-hertz.jpg" alt="" title="Big Macs per Second" width="441" height="79" class="alignnone size-full wp-image-1545" />
 
 By the way: Using more conventional units, this totals between 1 and 2 big macs a day.
 

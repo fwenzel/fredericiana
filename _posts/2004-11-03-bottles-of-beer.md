@@ -17,7 +17,7 @@ layout: post
 <p>Dort gibt es gegenwärtig <b>621</b> Versionen ein und desselben Programms:<br />
 <blockquote></blockquote></p>
 
-<p><img width="83" height="110" border="0" hspace="5" align="right" src="/wp-content/olduploads/allgemein/prost.serendipityThumb.jpg" alt=""  />10 REM BASIC Version of 99 Bottles of beer<br />
+<p><img width="83" height="110" border="0" hspace="5" align="right" src="/media/wp/allgemein/prost.serendipityThumb.jpg" alt=""  />10 REM BASIC Version of 99 Bottles of beer<br />
 20 FOR X=100 TO 1 STEP -1<br />
 30 PRINT X;&quot;Bottle(s) of beer on the wall,&quot;;X;&quot;bottle(s) of beer&quot;<br />
 40 PRINT &quot;Take one down and pass it around,&quot;<br />

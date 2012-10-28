@@ -19,7 +19,7 @@ layout: post
 ---
 I just implemented a little eye candy for my blog: <strong>Language icons</strong> in front of links.
 
-<img src="http://fredericiana.com/wp-content/uploads/2008/11/css3-language-flag.jpg" alt="" title="Language Flag" width="385" height="159" class="alignnone size-full wp-image-1788" />
+<img src="/media/wp/2008/11/css3-language-flag.jpg" alt="" title="Language Flag" width="385" height="159" class="alignnone size-full wp-image-1788" />
 
 Actually, it's only one language so far, German. The reason I am doing this is because on occasion I link to German articles that are no use clicking on for people who don't understand a word in German -- or at the very least it makes them aware of that behind this link, they'll find a German page.
 
@@ -33,6 +33,6 @@ For the geeky readers, I used a <a href="http://www.css3.info/using-css-3-select
 
 <strong>Update:</strong> Some commenters pointed out a better way: Taking the <code>hreflang</code> attribute and displaying it behind the actual link text. That removes possible confusion about the flag icons, and hopefully doesn't disturb the reader. I found the approach very nice so I adapted it instead. This is how it looks:
 
-<img src="http://fredericiana.com/wp-content/uploads/2008/11/css-language-tag.jpg" alt="" title="CSS Language Tag" width="357" height="140" class="alignnone size-full wp-image-1800" />
+<img src="/media/wp/2008/11/css-language-tag.jpg" alt="" title="CSS Language Tag" width="357" height="140" class="alignnone size-full wp-image-1800" />
 
 On a side note, even IE&nbsp;7 users won't see this. Sorry.

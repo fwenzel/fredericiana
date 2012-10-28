@@ -18,7 +18,7 @@ Spätestens aber als er fragte, ob das Kennzeichen aus <em>Oh-reh-gohn</em> sei,
 
 Zeit die wahloregonische Identität etwas unter Beweis zu stellen. Nach kurzem Suchen fand ich meinen OSU-Aufkleber, den ich bis dato aus Faulheit noch nicht aufgeklebt hatte:
 
-<img id="image680" src="http://fredericiana.de/uploads/2006/09/osu-autoaufkleber.jpg" alt="OSU Autoaufkleber" class="centered" />
+<img id="image680" src="/media/wp/2006/09/osu-autoaufkleber.jpg" alt="OSU Autoaufkleber" class="centered" />
 Nett, oder? Jean Pierre bestand dann aber auch gleich darauf, dass ich auch den Apple-Apfel auf der anderen Seite verewige. So sei es!
 
-<img id="image681" src="http://fredericiana.de/uploads/2006/09/apple-autoaufkleber.jpg" alt="Apple Autoaufkleber" class="centered" />
+<img id="image681" src="/media/wp/2006/09/apple-autoaufkleber.jpg" alt="Apple Autoaufkleber" class="centered" />

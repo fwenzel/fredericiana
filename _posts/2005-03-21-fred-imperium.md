@@ -11,7 +11,7 @@ layout: post
 ---
 Das FRED-Imperium wird immer größer:
 
-<img src='http://fredericiana.de/uploads/050321fred.jpg' alt='Fred Gesch&auml;ft' class="centered border" />
+<img src='/media/wp/050321fred.jpg' alt='Fred Gesch&auml;ft' class="centered border" />
 
 Fotografiert von Jean Pierre im Ring-Center an der Frankfurter Allee in Berlin. Schönen Dank :)
 

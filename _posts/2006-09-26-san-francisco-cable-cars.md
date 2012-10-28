@@ -18,6 +18,6 @@ Damit zu fahren macht Spaß und fühlt sich für den ein bisschen sicherheitsver
 Eine Fahrt (one way) kostet übrigens 5 Dollar, nicht ganz billig, aber das Vergnügen sicher wert. Diesen Preis hätten wir auch investiert, wenn denn jemand unser Geld gewollt hätte. Wie zum Geier kauft man eigentlich Fahrkarten für das Cablecar? Weiß jemand bescheid?
 
 Aber was solls. Fotos? Hier.
-<img id="image676" src="http://fredericiana.de/uploads/2006/09/sf-cablecar.jpg" alt="San Francisco: Ein Cablecar von außen" class="centered" />
+<img id="image676" src="/media/wp/2006/09/sf-cablecar.jpg" alt="San Francisco: Ein Cablecar von außen" class="centered" />
 
-<img id="image677" src="http://fredericiana.de/uploads/2006/09/sf-cablecar-innen.jpg" alt="San Francisco: Ein Cablecar von innen" class="centered" />
+<img id="image677" src="/media/wp/2006/09/sf-cablecar-innen.jpg" alt="San Francisco: Ein Cablecar von innen" class="centered" />

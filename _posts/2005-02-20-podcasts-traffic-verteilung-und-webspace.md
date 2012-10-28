@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src="http://fredericiana.de/uploads/podcastlg4.gif" alt="Podcast-Logo von http://www.timmadden.com.au/podcast-logos.htm" class="alignleft" /><a href="http://www.podcast.de/">Podcasts</a> sind schwer im Kommen: Gesprochene Weblogs, sozusagen. Veröffentlichen kann sie jeder, der ein Mikro hat und eine Webseite. Er spricht eine Audiodatei, konvertiert sie zu MP3 (oder einem anderen Format) und läd sie mit ein bisschen technischem Schnickschnack außenrum auf seinen Webserver hoch. Auf der anderen Seite sitzen seine Benutzer und laden die Datei wahlweise auf ihren MP3-Player oder ihren Computer runter und hören es sich an.
+<img src="/media/wp/podcastlg4.gif" alt="Podcast-Logo von http://www.timmadden.com.au/podcast-logos.htm" class="alignleft" /><a href="http://www.podcast.de/">Podcasts</a> sind schwer im Kommen: Gesprochene Weblogs, sozusagen. Veröffentlichen kann sie jeder, der ein Mikro hat und eine Webseite. Er spricht eine Audiodatei, konvertiert sie zu MP3 (oder einem anderen Format) und läd sie mit ein bisschen technischem Schnickschnack außenrum auf seinen Webserver hoch. Auf der anderen Seite sitzen seine Benutzer und laden die Datei wahlweise auf ihren MP3-Player oder ihren Computer runter und hören es sich an.
 
 Doch da fängt für den Autor die unangenehme Seite vom Podcasting an:
 

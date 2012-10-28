@@ -12,7 +12,7 @@ layout: post
 ---
 About a week ago, <a href="http://skype.com">Skype</a> came up with its <a href="http://www.skype.com/download/skype/macosx/25beta.html">beta version 2.5 for Mac</a>, so today I gave it a shot. Ambitiously, I dared to call into a meeting, where I was expected to enter the access code using my phone's number pad (<a href="http://en.wikipedia.org/wiki/Dual-tone_multi-frequency">DTMF</a> dialing is what they call it, I think).
 
-<img id="image136" src="http://fredericiana.com/wp-content/uploads/2006/11/skype-dtmf.jpg" alt="Skype's built in dial pad" class="center" />
+<img id="image136" src="/media/wp/2006/11/skype-dtmf.jpg" alt="Skype's built in dial pad" class="center" />
 
 Of course, it did not work: The numbers I dialed were not understood and after a few seconds, the computer on the other side cut off my connection.
 

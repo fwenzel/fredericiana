@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src='http://fredericiana.de/uploads/050701dasfestlogo.jpg' alt='Das Fest Karlsruhe' class="alignright" />Ich freu mich ja schon länger darauf: <a href="http://dasfest-karlsruhe.de/"><strong>Das Fest 2005</strong></a> in der Karlsruher <a href="http://ka.stadtwiki.net/Das_Fest">Günther-Klotz-Anlage</a> steht diesen Monat vor der Tür und wird sicher, wie fast schon gewohnt, wieder Hunderttausende begeisterte Fans in seinen Bann ziehen.
+<img src='/media/wp/050701dasfestlogo.jpg' alt='Das Fest Karlsruhe' class="alignright" />Ich freu mich ja schon länger darauf: <a href="http://dasfest-karlsruhe.de/"><strong>Das Fest 2005</strong></a> in der Karlsruher <a href="http://ka.stadtwiki.net/Das_Fest">Günther-Klotz-Anlage</a> steht diesen Monat vor der Tür und wird sicher, wie fast schon gewohnt, wieder Hunderttausende begeisterte Fans in seinen Bann ziehen.
 
 Außerdem steht das <a href="http://dasfest-karlsruhe.de/programm.html">Programm</a> zwischenzeitlich ganz fest und jeder kann sich aus den vielen (oft parallel spielenden) Bands seine Favoriten heraussuchen.
 

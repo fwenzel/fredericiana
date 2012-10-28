@@ -16,7 +16,7 @@ layout: post
 ---
 I can't decide if United Airlines is just promoting the Mile High Club on <a href="http://fredericiana.com/unitedairlines">its twitter page</a>, or if it's just an ordinary spammer hijacking their account:
 
-<a href="http://fredericiana.com/wp-content/uploads/2010/02/milehighclub.jpg"><img src="http://fredericiana.com/wp-content/uploads/2010/02/milehighclub-575x323.jpg" alt="" title="United on Twitter: Mile High Club" width="575" height="323" class="alignnone size-large wp-image-2624" /></a>
+<a href="/media/wp/2010/02/milehighclub.jpg"><img src="/media/wp/2010/02/milehighclub-575x323.jpg" alt="" title="United on Twitter: Mile High Club" width="575" height="323" class="alignnone size-large wp-image-2624" /></a>
 
 (and no, you shouldn't actually enter that URL into your browser. It's boring spammy stuff.)
 

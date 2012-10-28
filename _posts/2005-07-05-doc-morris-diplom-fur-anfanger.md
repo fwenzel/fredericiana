@@ -11,7 +11,7 @@ layout: post
 ---
 Heute habe ich das erste mal bei <a href="http://www.docmorris.com">Doc Morris</a> bestellt. Zeit für einen kleinen Test zum Thema <strong>Medikamente per Post</strong>!
 
-<img src='http://fredericiana.de/uploads/050705docmorris.gif' alt='Doc Morris' class="centered" />
+<img src='/media/wp/050705docmorris.gif' alt='Doc Morris' class="centered" />
 
 Die Versandapotheke wurde ja 2003 vom Europäischen Gerichtshof <del>heilig gesprochen</del> <a href="http://www.curia.eu.int/de/actu/communiques/cp03/aff/cp03113de.htm">für legal erklärt</a> und darf seitdem lustig (in Deutschland zugelassene) Medikamente per Post verschicken.
 

@@ -22,7 +22,7 @@ After I <a href="http://fredericiana.com/2008/10/20/no-subscribe-to-comments-any
 
 So I installed the latter and set it up so it sends you the following email the first time you subscribe to comments on this blog:
 
-<a href="http://fredericiana.com/wp-content/uploads/2008/10/fredericiana-double-opt-in.jpg"><img src="http://fredericiana.com/wp-content/uploads/2008/10/fredericiana-double-opt-in-575x215.jpg" alt="" title="fredericiana: Double-opt-in" width="575" height="215" class="alignnone size-medium wp-image-1733" /></a>
+<a href="/media/wp/2008/10/fredericiana-double-opt-in.jpg"><img src="/media/wp/2008/10/fredericiana-double-opt-in-575x215.jpg" alt="" title="fredericiana: Double-opt-in" width="575" height="215" class="alignnone size-medium wp-image-1733" /></a>
 
 Note that this email will only be sent once, ever. If you accept it, you'll be able to subscribe to additional blog entries' comments without further hassle. If you ignore it, you won't be asked again.
 

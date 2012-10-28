@@ -29,7 +29,7 @@ One of the things that struck me as weird is how all flags, resolutions, etc. mo
 
 So I decided to throw a quick Greasemonkey user script together to put an additional commit button to the top of the page (just so we can drop the scrolling part), like this:
 
-<img src="http://fredericiana.com/wp-content/uploads/2008/08/bugzilla-commit.jpg" alt="" title="Second Bugzilla Commit Button" width="500" height="223" class="alignnone size-full wp-image-1498" />
+<img src="/media/wp/2008/08/bugzilla-commit.jpg" alt="" title="Second Bugzilla Commit Button" width="500" height="223" class="alignnone size-full wp-image-1498" />
 
 And here's the script for your enjoyment:
 <a href="http://people.mozilla.com/~fwenzel/files/bugzilla-commit.user.js">bugzilla-commit.user.js</a> (click to install)

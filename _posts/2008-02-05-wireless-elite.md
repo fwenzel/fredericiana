@@ -16,7 +16,7 @@ Jeden Tag dasselbe Spiel hier an der Uni Karlsruhe: Wenn man um die Mittagszeit 
 Von den zahlreichen verfügbaren Wireless-Netzwerken (verschlüsselt, unverschlüsselt, und so weiter) funktioniert kein einziges: Mal ist die Signalstärke null, aber noch deutlich häufiger scheitert das Unterfangen daran, dass der Versuch, eine IP-Adresse per DHCP zu bekommen, nicht beantwortet wird. Das Betriebssystem schmollt und gibt sich statt dessen selbst eine "private" -- und damit ziemlich unnütze -- Adresse. Viele Studenten helfen sich ab, indem sie ein Netzwerkkabel mitbringen: Denn das Kabel-Netzwerk funktioniert manchmal besser, manchmal aber auch nicht.
 
 <div class="img-label">
-<img src='http://fredericiana.com/wp-content/uploads/2008/02/rz08.jpg' alt='Rechenzentrum der Uni KA' />
+<img src='/media/wp/2008/02/rz08.jpg' alt='Rechenzentrum der Uni KA' />
 So sieht es im Rechenzentrum aus, wenn es funktioniert ;)
 </div>
 
@@ -29,7 +29,7 @@ Es erscheint unklar, warum gegen dieses Problem nichts getan wird. Dass bei eine
 Und was die IP-Adressen angeht, sind die DHCP-Probleme ein seit Jahren bekanntes Problem, gegen das, zumindest meinem subjektiven Eindruck nach, noch nie etwas getan wurde. Zugegeben (und man verzeihe mir den flachen Spruch), IPv4-Adressen wachsen ja nicht auf Bäumen. Aber man könnte ja zum Beispiel der Bibliothek einen ausreichend großen, privaten, Adressbereich zuweisen, statt dort globale IP-Adressen auszuhändigen -- zumal der Zugriff von außen durch die Campus-Firewall ohnehin sehr stark eingeschränkt ist. Im Laufe meiner Studentenzeit (also seit etwa 5 Jahren) habe ich in dieser Richtung schon ein paarmal beim Rechenzentrum nachgefragt: Schade, dass ich nie eine Antwort erhielt.
 
 <div class="img-label">
-<img src='http://fredericiana.com/wp-content/uploads/2008/02/csi-ip-address.png' alt='CSI Miami IP-Adresse' />
+<img src='/media/wp/2008/02/csi-ip-address.png' alt='CSI Miami IP-Adresse' />
 Keine Adresse (Unibibliothek), oder eine (ungültige) wie diese (Fernsehshow "CSI Miami") -- sie sind beide etwa gleich sinnvoll (oder -los).
 </div>
 

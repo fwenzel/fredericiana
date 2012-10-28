@@ -12,7 +12,7 @@ layout: post
 ---
 Lustige <a href="http://blog.modernmechanix.com/2007/05/26/kelp-o-malt-skinny-girls/">Anzeige aus den 30er Jahren</a>, für Frauen, die mit ihrem Gewicht unzufrieden sind und unbedingt <strong>zunehmen</strong> möchten...:
 
-<img src='http://fredericiana.de/uploads/2007/06/einfach-zunehmen.jpg' alt='Naturally Skinny' />
+<img src='/media/wp/2007/06/einfach-zunehmen.jpg' alt='Naturally Skinny' />
 
 Ein bisschen surreal, wenn man sich die Zeitungen heute so ansieht, die eigentlich alle nur von Diäten schreiben ;)
 

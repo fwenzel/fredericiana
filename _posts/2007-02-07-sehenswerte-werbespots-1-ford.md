@@ -20,7 +20,7 @@ Und während das dann doch noch nicht so ganz überwältigend ist, fand ich den 
 Und was schreibt Ford?
 
 <!--more-->
-<img src='http://fredericiana.de/uploads/2007/02/ford-edge-phantasy.jpg' alt='Ford Edge: This is phantasy' />
+<img src='/media/wp/2007/02/ford-edge-phantasy.jpg' alt='Ford Edge: This is phantasy' />
 
 <em>"Ja, das ist eine Fantasie. Autos können nicht tatsächlich auf Gebäuden fahren."</em>
 

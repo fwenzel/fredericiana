@@ -12,7 +12,7 @@ meta:
   aktt_notify_twitter: "yes"
 layout: post
 ---
-<img src="http://fredericiana.com/wp-content/uploads/2011/08/failsnail.jpg" alt="" title="Fail Snail" width="500" height="281" class="aligncenter size-full wp-image-4179" />
+<img src="/media/wp/2011/08/failsnail.jpg" alt="" title="Fail Snail" width="500" height="281" class="aligncenter size-full wp-image-4179" />
 
 Haven't posted new <a href="http://fredericiana.com/tag/failpet/">fail pets</a> in a while! Perhaps because this one took so long to arrive.
 

@@ -22,11 +22,11 @@ Sure enough, I called customer service (1-800-REDBOX3, in case you were wonderin
 
 So I took back the discs, and got two new ones -- only to notice that one of them was, yet again, looking like somebody had used it as a <strong>coaster</strong>:
 
-<img src="http://fredericiana.com/wp-content/uploads/2008/08/dvd-scratched.jpg" alt="" title="Scratched DVD" width="500" height="210" class="alignnone size-full wp-image-1428" />
+<img src="/media/wp/2008/08/dvd-scratched.jpg" alt="" title="Scratched DVD" width="500" height="210" class="alignnone size-full wp-image-1428" />
 
 Though they gave me another replacement code, I decided to try something different to satisfy my urge for movies and TV shows: I signed up for <a href="http://netflix.com">Netflix</a>.
 
-<img src="http://fredericiana.com/wp-content/uploads/2008/08/netflix-welcome.jpg" alt="" title="Welcome to Netflix" width="499" height="180" class="alignnone size-full wp-image-1429" />
+<img src="/media/wp/2008/08/netflix-welcome.jpg" alt="" title="Welcome to Netflix" width="499" height="180" class="alignnone size-full wp-image-1429" />
 
 The idea of finding a new movie in the mail box when I come home from work sounded appealing to me. So I already put 20 discs into the queue which, considering I have the 1-DVD-at-a-time-plan, will probably take ages to go through, but we'll see how it goes. Another cool feature is their <em>"watch instantly"</em> collection, but I may blog about that some other time.
 

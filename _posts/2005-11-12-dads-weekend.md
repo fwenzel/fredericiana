@@ -12,7 +12,7 @@ layout: post
 ---
 Was hat es zu bedeuten, wenn das ganze Universitätsviertel mit Autos zugeparkt ist, besonders vor den Wohnheimen, aber auch bei den Fraternities und Sororities?
 
-<img src="http://fredericiana.de/uploads/051111-dadsweekend-osu.gif" width="136" height="110" alt="Dad's Weekend" title="Dad's Weekend" class="centered" />
+<img src="/media/wp/051111-dadsweekend-osu.gif" width="136" height="110" alt="Dad's Weekend" title="Dad's Weekend" class="centered" />
 
 Genau, dann ist <strong>Dad's weekend</strong>. Das <em>Vaterwochenende</em> ist sowas wie der Muttertag, nur für Väter natürlich und ein ganzes Wochenende. Da gibt es dann einen Haufen <a href="http://osumu.org/events_dad.htm#Schedule">Vater-und-Studentenkind Veranstaltungen</a> auf dem Campus und außen herum, damit die ganzen Väter sich auch nicht langweilen und das Studentenleben ihrer Kinder mal von einer nicht ganz realitätsnahen, aber schönen Seite kennenlernen können.
 

@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img width="110" height="93" border="0" hspace="5" align="right" src="/wp-content/olduploads/einmalig/waschmaschine.serendipityThumb.jpg" alt=""  />... sind keine Wasserrohrbrüche, Stromausfälle und andere Kleinigkeiten. <em>Richtig kritisch</em> sind nur <b>Herrensocken fressende Waschmaschinen</b>.
+<img width="110" height="93" border="0" hspace="5" align="right" src="/media/wp/einmalig/waschmaschine.serendipityThumb.jpg" alt=""  />... sind keine Wasserrohrbrüche, Stromausfälle und andere Kleinigkeiten. <em>Richtig kritisch</em> sind nur <b>Herrensocken fressende Waschmaschinen</b>.
 
 <i>Tausende, wenn nicht gar hunderte</i> (sic!) von ihnen muss es weltweit geben und sie rücken fleißig vorzugsweise <i>den</i> Socken zu Leibe, die man am allerdringensten braucht!
 

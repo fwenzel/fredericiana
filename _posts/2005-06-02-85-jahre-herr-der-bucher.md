@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src='http://fredericiana.de/uploads/050602ranicki.jpg' alt='Marcel Reich-Ranicki' class="alignright" />Er sitzt an einem Schreibtisch, der etwa so chaotisch aussieht wie meiner, nur die Absender der Briefe sind wichtiger. Er ruft seine Sekretärin zu sich und diktiert:
+<img src='/media/wp/050602ranicki.jpg' alt='Marcel Reich-Ranicki' class="alignright" />Er sitzt an einem Schreibtisch, der etwa so chaotisch aussieht wie meiner, nur die Absender der Briefe sind wichtiger. Er ruft seine Sekretärin zu sich und diktiert:
 
 <blockquote>Liebste Monika, Sie bitten mich zu einem Gespräch zum Thema "mein Bayern". Aber Bayern ist nicht mein, genau so wenig wie Oldenburg oder Württemberg. (...)</blockquote>
 
@@ -19,7 +19,7 @@ und, etwas weniger warmherzig, ja fast schon genervt:
 
 Die Rede ist von <a href="http://de.wikipedia.org/wiki/Marcel_Reich-Ranicki">Marcel Reich-Ranicki</a>, dem großen deutschen Literaturkritiker. Er wird heute <a href="http://www.heute.de/ZDFheute/inhalt/4/0,3672,2306532,00.html">85 Jahre alt</a>.
 <!--more-->
-<img src='http://fredericiana.de/uploads/050602ranickigrassspiegel.jpg' alt='Reich-Ranicki vs. Grass' class="alignleft" />Er, der trotz seiner Verfolgung durch die Nazis Deutschland immer als seine Heimat betrachtet hat, hat die Kultur der Bundesrepublik maßgeblich mitgeprägt. Und das nicht durch weiche Worte, sondern meistens durch grundehrliche Kritik (wie man an seinen Briefen oben schon erahnen kann). Dabei hat er sich nie gescheut, auch mal jemandem auf die Füße zu treten, darunter Größen wie Literatur-Nobelpreisträger Günter Grass (dessen Roman <em>Ein weites Feld</em> bezeichnete er 1995 in einer <em>Spiegel</em>-Titelstory als <em>"wertlose Prosa, langweilig von der ersten bis zur letzten Zeile, unlesbar!"</em>).
+<img src='/media/wp/050602ranickigrassspiegel.jpg' alt='Reich-Ranicki vs. Grass' class="alignleft" />Er, der trotz seiner Verfolgung durch die Nazis Deutschland immer als seine Heimat betrachtet hat, hat die Kultur der Bundesrepublik maßgeblich mitgeprägt. Und das nicht durch weiche Worte, sondern meistens durch grundehrliche Kritik (wie man an seinen Briefen oben schon erahnen kann). Dabei hat er sich nie gescheut, auch mal jemandem auf die Füße zu treten, darunter Größen wie Literatur-Nobelpreisträger Günter Grass (dessen Roman <em>Ein weites Feld</em> bezeichnete er 1995 in einer <em>Spiegel</em>-Titelstory als <em>"wertlose Prosa, langweilig von der ersten bis zur letzten Zeile, unlesbar!"</em>).
 
 <blockquote>Man kann einen Garten nicht düngen, indem man durch den Zaun furzt.</blockquote>
 

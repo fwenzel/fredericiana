@@ -21,7 +21,7 @@ So I asked for suggestions on the mailinglist, and Chacko came up with the idea 
 Let's build a custom UPS for the NSLU2!
 
 I made a small sketch of how it is supposed to look like:
-<a class="imagelink" href="http://fredericiana.com/wp-content/uploads/2006/08/slug-ups.png" title="NSLU2 battery backup"><img id="image88" src="http://fredericiana.com/wp-content/uploads/2006/08/slug-ups.png" alt="NSLU2 battery backup" width="300"  class="centered" /></a>
+<a class="imagelink" href="/media/wp/2006/08/slug-ups.png" title="NSLU2 battery backup"><img id="image88" src="/media/wp/2006/08/slug-ups.png" alt="NSLU2 battery backup" width="300"  class="centered" /></a>
 <!--more-->
 I got the parts at RadioShack (you can get them on ebay, too, or wherever). This is what I needed:
 <ul>

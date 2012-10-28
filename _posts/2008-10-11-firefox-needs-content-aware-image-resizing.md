@@ -25,7 +25,7 @@ layout: post
 ---
 The new feature called "content-aware image resizing" in Photoshop is amazing. There is a <a href="http://av.adobe.com/russellbrown/ContentAwareScale_SM.mov">promotional video up on the Adobe site</a> that's really fun to watch. For example, they make a Volkswagen bus more "economical" (mind you, while keeping the wheels round):
 
-<a href="http://av.adobe.com/russellbrown/ContentAwareScale_SM.mov"><img src="http://fredericiana.com/wp-content/uploads/2008/10/content-aware-image-resizing.jpg" alt="" title="Content-aware Image Resizing" width="500" height="392" class="alignnone size-full wp-image-1683" /></a>
+<a href="http://av.adobe.com/russellbrown/ContentAwareScale_SM.mov"><img src="/media/wp/2008/10/content-aware-image-resizing.jpg" alt="" title="Content-aware Image Resizing" width="500" height="392" class="alignnone size-full wp-image-1683" /></a>
 
 The technology behind it is based on research from an Isreali research group. That group put a video up on youtube in 2007 already:
 

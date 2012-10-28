@@ -12,7 +12,7 @@ layout: post
 ---
 Wie krass:
 
-<a href="http://www.pornstarbears.com/"><img src='http://fredericiana.de/uploads/thumb-050706pornostarbaeren.jpg' alt='Pornostarb&Atilde;&curren;ren' class="centered" /></a>
+<a href="http://www.pornstarbears.com/"><img src='/media/wp/thumb-050706pornostarbaeren.jpg' alt='Pornostarb&Atilde;&curren;ren' class="centered" /></a>
 
 Habe gerade einen Anbieter für <a href="http://www.pornstarbears.com/">Porno-Teddybären</a> gefunden.
 

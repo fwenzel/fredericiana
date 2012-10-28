@@ -24,6 +24,6 @@ In his article, Rintel attributes me with coining the term "fail pet".
 
 Attentive readers may also notice that Mozilla's strategy of (rightly) attributing Adobe Flash's crashes with Flash itself by putting a "sad brick" in place worked formidably: Rintel (just like most users, I am sure) assumes this message comes from Adobe, not Mozilla:
 
-<img src="http://fredericiana.com/wp-content/uploads/2012/06/sad-brick.jpg" alt="" title="Sad Brick: Adobe Flash crashed" width="500" height="159" class="alignnone size-full wp-image-4980" />
+<img src="/media/wp/2012/06/sad-brick.jpg" alt="" title="Sad Brick: Adobe Flash crashed" width="500" height="159" class="alignnone size-full wp-image-4980" />
 
 Thanks, Sean, for the mention, and I hope you all enjoy his article.

@@ -11,7 +11,7 @@ layout: post
 ---
 <em>Wellington Grey</em> hat zwei einfache Flussdiagramme entworfen: Sie beschreiben, wie Wissenschaftler und Gläubige jeweils mit einer Idee umgehen. Sehr lustig! :)
 
-<a href='http://fredericiana.de/uploads/2007/02/science-vs-faith.png' title='Science vs Faith'><img src='http://fredericiana.de/uploads/2007/02/science-vs-faith.thumbnail.png' alt='Science vs Faith' /></a>
+<a href='/media/wp/2007/02/science-vs-faith.png' title='Science vs Faith'><img src='/media/wp/2007/02/science-vs-faith.thumbnail.png' alt='Science vs Faith' /></a>
 
 Ich hoffe natürlich, dass auch gläubige Katholiken, die an dem Fleckchen Erde, von dem ich stamme, die deutliche Mehrheit stellen, Sinn für Humor haben ;)
 

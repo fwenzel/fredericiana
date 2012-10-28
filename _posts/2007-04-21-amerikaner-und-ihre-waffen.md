@@ -13,7 +13,7 @@ layout: post
 ---
 Wie passend (angesichts der jüngsten Kritik an den Amerikanischen Waffengesetzen): Ein Buch namens <a href="http://www.armedamerica.org/">"Armed America", Portraits von Amerikanern mit ihren Waffen</a>.
 
-<a href='http://www.armedamerica.org/aa2/index5.html' title='Ausschnitt aus “Armed America”'><img src='http://fredericiana.de/uploads/2007/04/armedamerica.jpg' alt='Ausschnitt aus “Armed America”' /></a>
+<a href='http://www.armedamerica.org/aa2/index5.html' title='Ausschnitt aus “Armed America”'><img src='/media/wp/2007/04/armedamerica.jpg' alt='Ausschnitt aus “Armed America”' /></a>
 
 Anthony, der Herr im Bild, <a href="http://www.armedamerica.org/aa2/index5.html">sagt</a> dazu:
 

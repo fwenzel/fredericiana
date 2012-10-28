@@ -14,7 +14,7 @@ Today I was connecting a second USB harddrive to my <a href="http://fredericiana
 
 What you get is a few interesting effects, among them device IDs (<code>/dev/sda</code>, <code>sdb</code>...) changing depending on the order in which you attach the drives. Plus, I added a USB hub, which makes the device names change anyway.
 
-<img id="image57" src="http://fredericiana.com/wp-content/uploads/2006/03/udev-tux.thumbnail.png" alt="udev plus tux, from the udev page" class="alignright" />The solution for the crazily jumping dev nodes is the <a href="http://www.kernel.org/pub/linux/utils/kernel/hotplug/udev.html">udev</a> system, which is part of Linux for quite a while now, but I never really had a need to play with it yet. But the <a href="http://www.reactivated.net/writing_udev_rules.html">howto</a> is pretty nice and easy to apply.
+<img id="image57" src="/media/wp/2006/03/udev-tux.thumbnail.png" alt="udev plus tux, from the udev page" class="alignright" />The solution for the crazily jumping dev nodes is the <a href="http://www.kernel.org/pub/linux/utils/kernel/hotplug/udev.html">udev</a> system, which is part of Linux for quite a while now, but I never really had a need to play with it yet. But the <a href="http://www.reactivated.net/writing_udev_rules.html">howto</a> is pretty nice and easy to apply.
 
 Still, a few notes:
 

@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img id="image776" src="http://fredericiana.de/uploads/2007/01/childrenofmen.jpg" alt="Children of Men Movie Poster" class="alignright" />Am Wochenende habe ich im Kino <a href="http://www.imdb.com/title/tt0206634/">Children of Men</a> gesehen. Eine düstere Zukunftsvision:
+<img id="image776" src="/media/wp/2007/01/childrenofmen.jpg" alt="Children of Men Movie Poster" class="alignright" />Am Wochenende habe ich im Kino <a href="http://www.imdb.com/title/tt0206634/">Children of Men</a> gesehen. Eine düstere Zukunftsvision:
 
 <blockquote>Im Jahr 2027, in einer chaotischen Welt, in der sich die Menschen nicht mehr fortpflanzen können, hilft ein ehemaliger Aktivist einer -- wie durch ein Wunder schwangeren -- Frau dabei, Asyl beim "Humane Project" auf See zu bekommen, wo die Geburt ihres Kindes die Zukunft der Menschheit retten könnte.</blockquote>
 

@@ -14,7 +14,7 @@ layout: post
 ---
 This is how facebook greets me this morning:
 
-<img src='http://fredericiana.com/wp-content/uploads/2008/03/german-facebook.jpg' alt='Facebook in German' />
+<img src='/media/wp/2008/03/german-facebook.jpg' alt='Facebook in German' />
 
 <blockquote>Welcome to Facebook in German... Now German speakers all over the world can join.</blockquote>
 

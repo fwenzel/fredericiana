@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src='http://fredericiana.de/uploads/050712albert.jpg' alt='Prinz Albert' class="alignright" /><a href="http://www.bbv-net.de/public/article/nachrichten/journal/gesellschaft/ausland/97683">Prinz Albert besteigt den Monegassischen Fürstenthron</a>.
+<img src='/media/wp/050712albert.jpg' alt='Prinz Albert' class="alignright" /><a href="http://www.bbv-net.de/public/article/nachrichten/journal/gesellschaft/ausland/97683">Prinz Albert besteigt den Monegassischen Fürstenthron</a>.
 
 Nicht besonders prickelnd - außer vielleicht der <a href="http://www.ap-project.com/comments/P1365_0_1_0/">staubtrockene Kommentar von Andreas</a>, über den ich schon a weng schmunzeln musste ;)
 

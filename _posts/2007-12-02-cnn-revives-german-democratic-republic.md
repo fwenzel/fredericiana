@@ -15,7 +15,7 @@ layout: post
 ---
 Funny: According to <a href="http://www.tagesschau.de/ausland/cnn2.html">German news magazine tagesschau.de</a>, the CNN weather forecast still draws a <strong>thick border</strong> between the former German Democratic Republic and West Germany:
 
-<img src='http://fredericiana.com/wp-content/uploads/2007/12/cnn-europe-gdr.jpg' alt='CNN Europe: West Germany and the GDR' />
+<img src='/media/wp/2007/12/cnn-europe-gdr.jpg' alt='CNN Europe: West Germany and the GDR' />
 
 Of course, we really can't expect them to update their maps within 17 years after a <a href="http://en.wikipedia.org/wiki/German_reunification">major political event</a>.
 

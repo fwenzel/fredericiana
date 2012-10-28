@@ -15,7 +15,7 @@ Lustiges erreicht mich aus der Heimat: Unter dem Titel <a href="http://www.immo-
 
 Das Besondere: Die Wohnung ist eine ehemalige Arztpraxis und hat deswegen eine schmucke Anmeldung im Eingang :)
 
-<a class="imagelink" href="http://fredericiana.de/uploads/2006/10/wohnen-in-arztpraxis.jpg" title="Wohnen in der Arztpraxis, Karlsruhe"><img id="image701" src="http://fredericiana.de/uploads/2006/10/wohnen-in-arztpraxis.jpg" alt="Wohnen in der Arztpraxis, Karlsruhe" width="350" class="centered" /></a>
+<a class="imagelink" href="/media/wp/2006/10/wohnen-in-arztpraxis.jpg" title="Wohnen in der Arztpraxis, Karlsruhe"><img id="image701" src="/media/wp/2006/10/wohnen-in-arztpraxis.jpg" alt="Wohnen in der Arztpraxis, Karlsruhe" width="350" class="centered" /></a>
 
 Ein Wartezimmer habe ich auch noch nicht in einer Wohnung gesehen! Ich hoffe, die Jungs und Mädels machen mal eine Arzt-Party dort, das bietet sich ja sozusagen an.
 

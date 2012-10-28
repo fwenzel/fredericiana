@@ -11,7 +11,7 @@ layout: post
 ---
 Heute ist der <strong>36. Jahrestag</strong> der ersten bemannten <a href="http://de.wikipedia.org/wiki/Mondlandung">Landung</a> auf dem <a href="http://de.wikipedia.org/wiki/Mond">Mond</a>.
 
-<a href="http://www.spiegel.de/wissenschaft/weltraum/0,1518,grossbild-495665-365927,00.html"><img src='http://fredericiana.de/uploads/050720mondkaese.jpg' alt='Der Mond ist aus Käse' class="alignright border" /></a>Von dieser Mission, <a href="http://de.wikipedia.org/wiki/Apollo_11">Apollo 11</a>,  stammen auch die berühmten Worte von <a href="http://de.wikipedia.org/wiki/Neil_Armstrong">Neil Armstrong</a>:
+<a href="http://www.spiegel.de/wissenschaft/weltraum/0,1518,grossbild-495665-365927,00.html"><img src='/media/wp/050720mondkaese.jpg' alt='Der Mond ist aus Käse' class="alignright border" /></a>Von dieser Mission, <a href="http://de.wikipedia.org/wiki/Apollo_11">Apollo 11</a>,  stammen auch die berühmten Worte von <a href="http://de.wikipedia.org/wiki/Neil_Armstrong">Neil Armstrong</a>:
 
 <blockquote>"Es ist ein kleiner Schritt für einen Menschen, aber ein großer Schritt für die Menschheit!"</blockquote>
 

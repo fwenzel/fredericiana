@@ -10,7 +10,7 @@ meta:
   tags: ""
 layout: post
 ---
-<p><a href='/uploads/allgemein/reichstag.jpg'><img width="110" height="82" border="0" hspace="5" align="right" src="/wp-content/olduploads/allgemein/reichstag.serendipityThumb.jpg" alt=""  /></a>... so heißt ein <a target="_BLANK" href="http://parlament.blogg.de/" title="http://parlament.blogg.de/" onmouseover="window.status='http://parlament.blogg.de/';return true;" onmouseout="window.status='';return true;">neues Blog</a>, das heute eröffnet wurde.</p>
+<p><a href='/media/wp/allgemein/reichstag.jpg'><img width="110" height="82" border="0" hspace="5" align="right" src="/media/wp/allgemein/reichstag.serendipityThumb.jpg" alt=""  /></a>... so heißt ein <a target="_BLANK" href="http://parlament.blogg.de/" title="http://parlament.blogg.de/" onmouseover="window.status='http://parlament.blogg.de/';return true;" onmouseout="window.status='';return true;">neues Blog</a>, das heute eröffnet wurde.</p>
 
 <blockquote><p>Das Warten wird sich lohnen.</p>
 

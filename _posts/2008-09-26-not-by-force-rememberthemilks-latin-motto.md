@@ -18,7 +18,7 @@ layout: post
 
 Recently I took a look at their page's source code, and it seems, they have a <strong>Latin motto</strong>:
 
-<img src="http://fredericiana.com/wp-content/uploads/2008/09/non-vi-sed-virtute.jpg" alt="" title="Non vi sed virtute, not armis sed arte paritur victoria" width="575" height="132" class="alignnone size-full wp-image-1599" />
+<img src="/media/wp/2008/09/non-vi-sed-virtute.jpg" alt="" title="Non vi sed virtute, not armis sed arte paritur victoria" width="575" height="132" class="alignnone size-full wp-image-1599" />
 
 The Latin <em>"Non vi sed virtute, not armis sed arte paritur victoria"</em>, for my readers whose Latin is a little rusty, means <em>"Not by force but by virtue, not with arms but with art, victory is won."</em>
 

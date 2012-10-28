@@ -10,7 +10,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img id="image94" src="http://fredericiana.com/wp-content/uploads/2006/08/openoffice-logo.png" alt="OpenOffice Logo" class="alignright" />I am a convinced <a href="http://openoffice.org">OpenOffice</a> user. Part of it is because the "old bull" of office suites, <strong>Microsoft Office</strong>, is expensive, even for students. Even more convincingly, though, MS Office often just plain sucks.
+<img id="image94" src="/media/wp/2006/08/openoffice-logo.png" alt="OpenOffice Logo" class="alignright" />I am a convinced <a href="http://openoffice.org">OpenOffice</a> user. Part of it is because the "old bull" of office suites, <strong>Microsoft Office</strong>, is expensive, even for students. Even more convincingly, though, MS Office often just plain sucks.
 
 I have worked for a few years as a research assistant, among my major everyday tasks being "please fix my Word document".
 

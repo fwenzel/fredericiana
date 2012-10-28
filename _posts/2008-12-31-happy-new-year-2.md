@@ -15,7 +15,7 @@ layout: post
 ---
 Happy new year, everybody!
 
-<img src="http://fredericiana.com/wp-content/uploads/2008/12/new_years_2009.jpg" alt="Happy New Year 2009" title="Happy New Year 2009" width="425" height="237" class="alignnone size-full wp-image-1887" />
+<img src="/media/wp/2008/12/new_years_2009.jpg" alt="Happy New Year 2009" title="Happy New Year 2009" width="425" height="237" class="alignnone size-full wp-image-1887" />
 
 I wish you good, painless new year's celebrations and a fabulous and in-spite-of-it-all successful year 2009. Don't let a "slowing economy" and any other horror stories in the news put you off your personal pursuit of happiness. There are better times ahead!
 

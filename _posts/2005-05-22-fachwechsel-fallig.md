@@ -10,7 +10,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src='http://fredericiana.de/uploads/philosopher.jpg' alt='Philosoph' class="alignright" />Nachdem sich die halbe deutsche Blogosphäre (<a href="http://www.scsy.de/~mas/archiv/000571.html">Martin</a>, <a href="http://blog.koehntopp.de/archives/807-Philologe,-was.html">Iso</a>, <a href="http://www.julian-finn.de/blog/index.php?/archives/322-Analytischer-Mathematiker.html">Julian</a>...) heute einem <a href="http://de.tickle.com/test/iq/intro.html">klassischen Intelligenztest</a> unterzogen hat, habe ich mich dem endlosen Gruppenzwang gebeugt und auch mal mitgemacht...
+<img src='/media/wp/philosopher.jpg' alt='Philosoph' class="alignright" />Nachdem sich die halbe deutsche Blogosphäre (<a href="http://www.scsy.de/~mas/archiv/000571.html">Martin</a>, <a href="http://blog.koehntopp.de/archives/807-Philologe,-was.html">Iso</a>, <a href="http://www.julian-finn.de/blog/index.php?/archives/322-Analytischer-Mathematiker.html">Julian</a>...) heute einem <a href="http://de.tickle.com/test/iq/intro.html">klassischen Intelligenztest</a> unterzogen hat, habe ich mich dem endlosen Gruppenzwang gebeugt und auch mal mitgemacht...
 
 Wenn ich das so anschaue... Vielleicht sollte ich im <em>Nebenfach Philosophie</em> studieren? ;)
 

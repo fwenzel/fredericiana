@@ -16,7 +16,7 @@ layout: post
 ---
 Forbes has an interesting list of <a href="http://www.forbes.com/women/">"the world's 100 most powerful women"</a>. Number one on the list is:
 
-<a href="http://fredericiana.com/wp-content/uploads/2008/09/100-most-powerful-women.jpg"><img src="http://fredericiana.com/wp-content/uploads/2008/09/100-most-powerful-women-372x400.jpg" alt="" title="Forbes: 100 Most Powerful Women" width="372" height="400" class="alignnone size-medium wp-image-1604" /></a>
+<a href="/media/wp/2008/09/100-most-powerful-women.jpg"><img src="/media/wp/2008/09/100-most-powerful-women-372x400.jpg" alt="" title="Forbes: 100 Most Powerful Women" width="372" height="400" class="alignnone size-medium wp-image-1604" /></a>
 
 <strong>German chancellor <a href="http://en.wikipedia.org/wiki/Angela_Merkel">Angela Merkel</a></strong>.
 

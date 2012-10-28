@@ -16,6 +16,6 @@ Today I had to upgrade <a href="http://developer.apple.com/tools/xcode/">Apple's
 And all that just to <a href="http://trac.macosforge.org/projects/macports/wiki/InstallingMacPorts">install Macports</a>, my favorite tool to bring the most powerful Unix tools to OSX. 
 
 At least their download servers are pretty darn fast -- that eases the pain:
-<img src='http://fredericiana.com/wp-content/uploads/2007/10/xcode-download-speed.jpg' alt='XCode Download Speed' />
+<img src='/media/wp/2007/10/xcode-download-speed.jpg' alt='XCode Download Speed' />
 
 I am just wondering: What do people do with a <strong>slow internet connection</strong> or a <strong>small harddrive</strong>?

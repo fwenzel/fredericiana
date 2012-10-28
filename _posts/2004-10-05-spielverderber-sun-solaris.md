@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<p><img width="110" height="83" border="0" hspace="5" align="right" src="/wp-content/olduploads/nmap-klein.serendipityThumb.jpg" alt=""  />Wie der <a target="_BLANK" href="http://www.sun.com" title="http://www.sun.com" onmouseover="window.status='http://www.sun.com';return true;" onmouseout="window.status='';return true;">Sun</a>-Mitarbeiter <a target="_BLANK" href="http://blogs.sun.com/roller/comments/jbeck/Weblog/rm_rf_protection" title="http://blogs.sun.com/roller/comments/jbeck/Weblog/rm_rf_protection" onmouseover="window.status='http://blogs.sun.com/roller/comments/jbeck/Weblog/rm_rf_protection';return true;" onmouseout="window.status='';return true;">John Beck bloggt</a>, verdirbt Sun Solaris seit der Version 10, Build 36 dem Administrator den größten <i>&quot;Spaß&quot;</i>, den er so haben kann:</p>
+<p><img width="110" height="83" border="0" hspace="5" align="right" src="/media/wp/nmap-klein.serendipityThumb.jpg" alt=""  />Wie der <a target="_BLANK" href="http://www.sun.com" title="http://www.sun.com" onmouseover="window.status='http://www.sun.com';return true;" onmouseout="window.status='';return true;">Sun</a>-Mitarbeiter <a target="_BLANK" href="http://blogs.sun.com/roller/comments/jbeck/Weblog/rm_rf_protection" title="http://blogs.sun.com/roller/comments/jbeck/Weblog/rm_rf_protection" onmouseover="window.status='http://blogs.sun.com/roller/comments/jbeck/Weblog/rm_rf_protection';return true;" onmouseout="window.status='';return true;">John Beck bloggt</a>, verdirbt Sun Solaris seit der Version 10, Build 36 dem Administrator den größten <i>&quot;Spaß&quot;</i>, den er so haben kann:</p>
 
 <p>Auf einer UNIX-Maschine ist es ein ziemlicher &quot;Super-Gau&quot;,</p>
 

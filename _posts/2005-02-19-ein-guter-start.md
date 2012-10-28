@@ -11,4 +11,4 @@ layout: post
 ---
 ... in den Nachmittag, findet ihr nicht?
 
-<img src="http://fredericiana.de/uploads/050219kaffee.jpg" alt="Kaffee" class="centered border" />
+<img src="/media/wp/050219kaffee.jpg" alt="Kaffee" class="centered border" />

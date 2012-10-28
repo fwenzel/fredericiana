@@ -15,7 +15,7 @@ Da gibt es ein deutsches <a href="http://www.us-botschaft.de/germany-ger/visa/fo
 
 Cool, oder?
 
-<img src='http://fredericiana.de/uploads/050518widowed.png' alt='Verwitwet oder Single?' class="centered border" />
+<img src='/media/wp/050518widowed.png' alt='Verwitwet oder Single?' class="centered border" />
 
 <strong>Dumm nur</strong>, dass bei der Übersetzung <strong>"verwitwet" und "ledig" vertauscht wurden</strong>. Ich möchte nicht wissen, wie viele hundert deutsche, ledige Visa-Antragsteller dieses Jahr als Witwer und Witwen in die USA reisen.
 

@@ -10,7 +10,7 @@ meta:
   _sg_subscribe-to-comments: zxcv@gres.us
 layout: post
 ---
-<p><img width="84" height="110" border="0" hspace="5" align="right" src="/wp-content/olduploads/allgemein/xml.serendipityThumb.jpg" alt=""  />Seit kurzem speichere ich die meisten Bookmarks, die mir über den Weg laufen, bei <a target="_BLANK" href="http://del.icio.us/freeed/" title="http://del.icio.us/freeed/" onmouseover="window.status='http://del.icio.us/freeed/';return true;" onmouseout="window.status='';return true;">del.icio.us</a>.<br />
+<p><img width="84" height="110" border="0" hspace="5" align="right" src="/media/wp/allgemein/xml.serendipityThumb.jpg" alt=""  />Seit kurzem speichere ich die meisten Bookmarks, die mir über den Weg laufen, bei <a target="_BLANK" href="http://del.icio.us/freeed/" title="http://del.icio.us/freeed/" onmouseover="window.status='http://del.icio.us/freeed/';return true;" onmouseout="window.status='';return true;">del.icio.us</a>.<br />
 <blockquote></blockquote></p>
 
 <p><i>Was ist del.icio.us?</i><br />

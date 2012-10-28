@@ -9,7 +9,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src='http://fredericiana.de/uploads/athenefridericiana.jpg' alt='Nicht Fridericiana, sondern Athene. Macht aber nichts.' class="alignright" />Ein bisschen englisches Bloggen kann nicht schaden. Also zumindest dann nicht, wenn man für ein Jährchen den (ober-)rheinischen Strand gegen die ostpazifische Brandung eintauscht.
+<img src='/media/wp/athenefridericiana.jpg' alt='Nicht Fridericiana, sondern Athene. Macht aber nichts.' class="alignright" />Ein bisschen englisches Bloggen kann nicht schaden. Also zumindest dann nicht, wenn man für ein Jährchen den (ober-)rheinischen Strand gegen die ostpazifische Brandung eintauscht.
 
 Passend zum Namen meines Blogs habe ich mir gleich mal <strong>zwei neue Domains</strong> besorgt:
 

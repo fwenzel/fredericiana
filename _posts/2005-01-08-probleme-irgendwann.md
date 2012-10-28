@@ -7,13 +7,13 @@ title: Probleme, irgendwann
 type: post
 meta: 
   enclosure: |-
-    http://fredericiana.de/uploads/thumb-asterixobelix.jpg
+    /media/wp/thumb-asterixobelix.jpg
     13693
     image/jpeg
   tags: ""
 layout: post
 ---
-<img src="http://fredericiana.de/uploads/thumb-asterixobelix.jpg" alt="" class="alignright" />Gerade schickt mir meine Schwägerin einen netten Spruch:
+<img src="/media/wp/thumb-asterixobelix.jpg" alt="" class="alignright" />Gerade schickt mir meine Schwägerin einen netten Spruch:
 
 <blockquote>si quid habet mammas vel rotas, res habebis difficiles aliquando.</blockquote>
 

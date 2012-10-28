@@ -19,6 +19,6 @@ You are bookmarking the unbelievably useful website <a href="about:blank"><code>
 
 Due to the <em>ginormous</em> amount of information stored on that web page, I decided to keep the bookmark as a valuable resource for my daily Internet research (after all, it is the "home" page in my web browser and thus the first page I ever see when opening Firefox). ... And so did <strong>2362</strong> other people who were as <del>stupid</del>smart as me to bookmark <code>about:blank</code> ;)
 
-<img id="image64" src="http://fredericiana.com/wp-content/uploads/2006/05/aboutblank-bookmark.png" alt="about:blank bookmark" class="centered" />
+<img id="image64" src="/media/wp/2006/05/aboutblank-bookmark.png" alt="about:blank bookmark" class="centered" />
 
 <strong>Update:</strong> ... and counting...: There are already 2374 people besides me, now :)

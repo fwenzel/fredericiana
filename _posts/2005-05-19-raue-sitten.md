@@ -11,7 +11,7 @@ layout: post
 ---
 ... da drüben, im <em>Land der unbegrenzten Möglichkeiten</em>.
 
-<img src='http://fredericiana.de/uploads/050519bulletproof.jpg' alt='Raue Sitten' class="centered" />
+<img src='/media/wp/050519bulletproof.jpg' alt='Raue Sitten' class="centered" />
 
 Gehört Oregon eigentlich auch irgendwie zum Wilden (Nord-)Westen? ;)
 

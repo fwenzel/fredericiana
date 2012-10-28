@@ -15,7 +15,7 @@ layout: post
 ---
 What do Firefoxes snack on? Cookies, of course. So somebody went ahead and baked <a href="http://m3.entitea.com/piles/?s=ffcookie">these Firefox cookies</a>:
 
-<img src='http://fredericiana.com/wp-content/uploads/2007/10/firefox-cookies.jpg' alt='Firefox Cookies' />
+<img src='/media/wp/2007/10/firefox-cookies.jpg' alt='Firefox Cookies' />
 
 Yummy!
 

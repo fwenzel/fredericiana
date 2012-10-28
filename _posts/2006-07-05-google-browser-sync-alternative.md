@@ -10,7 +10,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img id="image79" src="http://fredericiana.com/wp-content/uploads/2006/07/google_labs_logo.gif" alt="Google Labs Logo" title="Google Browser Sync is the youngest product by the Google Labs" class="alignright" />I recently tried out Google's (quite) new <a href="http://www.google.com/tools/firefox/browsersync/">Browser Sync</a> extension for <a href="http://spreadfirefox.com">Firefox</a>.
+<img id="image79" src="/media/wp/2006/07/google_labs_logo.gif" alt="Google Labs Logo" title="Google Browser Sync is the youngest product by the Google Labs" class="alignright" />I recently tried out Google's (quite) new <a href="http://www.google.com/tools/firefox/browsersync/">Browser Sync</a> extension for <a href="http://spreadfirefox.com">Firefox</a>.
 
 So far, I like it. It seems to be synchronizing my bookmarks and long-term cookies between browsers and across operating systems pretty well. But, there are a few things I don't like:
 

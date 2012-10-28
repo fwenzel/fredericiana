@@ -10,7 +10,7 @@ meta:
   tags: ""
 layout: post
 ---
-<img src='http://fredericiana.de/uploads/2007/07/karlsruhe-train.jpg' alt='Karlsruhe: Tram' class="alignright" align="right" />Gerade sind mir meine ersten Semestertickets in die Hände gefallen, genauer aus dem Wintersemester 2002. Der <a href="http://kvv.de/">Karlsruher Verkehrsverbund (KVV)</a> nahm damals <strong>68 Euro</strong> für ein Semester lang Bahnfahren von den Studenten (zzgl. etwa 15 Euro Solidaranteil, der von jedem Studenten über das Studentenwerk bezahlt wird, ob er Bahn fährt oder nicht).
+<img src='/media/wp/2007/07/karlsruhe-train.jpg' alt='Karlsruhe: Tram' class="alignright" align="right" />Gerade sind mir meine ersten Semestertickets in die Hände gefallen, genauer aus dem Wintersemester 2002. Der <a href="http://kvv.de/">Karlsruher Verkehrsverbund (KVV)</a> nahm damals <strong>68 Euro</strong> für ein Semester lang Bahnfahren von den Studenten (zzgl. etwa 15 Euro Solidaranteil, der von jedem Studenten über das Studentenwerk bezahlt wird, ob er Bahn fährt oder nicht).
 
 <a href="http://www.studentenwerk-karlsruhe.de/static.php?page=services-kvv-vpe">Zum kommenden Wintersemester</a> wird das gleiche Ticket <strong>102,50 Euro</strong> kosten.
 

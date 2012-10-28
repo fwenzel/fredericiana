@@ -14,7 +14,7 @@ layout: post
 ---
 A while ago, I <a href="http://fredericiana.com/2007/07/12/blog-fusion/">asked my German readership</a> if they would mind me merging my German and English blog together. For time reasons, my blog output wasn't as high as would be reasonable to fill two blogs with, and furthermore, I often had trouble deciding if I wanted to blog something in my English or rather my German blog.
 
-<img src='http://fredericiana.com/wp-content/uploads/2007/10/merge-sign.jpg' alt='Merge Sign' class="alignright" align="right" />Fact is, most of my German readers can read English (and don't mind doing so either), while the opposite does not apply.
+<img src='/media/wp/2007/10/merge-sign.jpg' alt='Merge Sign' class="alignright" align="right" />Fact is, most of my German readers can read English (and don't mind doing so either), while the opposite does not apply.
 
 The German readers (and the English-speaking ones who also understand German) said they wouldn't mind, and encouraged me to do so.
 

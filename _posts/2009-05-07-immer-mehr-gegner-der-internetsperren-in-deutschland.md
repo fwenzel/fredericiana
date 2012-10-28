@@ -17,11 +17,11 @@ meta:
   aktt_notify_twitter: "yes"
 layout: post
 ---
-<img src="http://fredericiana.com/wp-content/uploads/2009/05/50000.jpg" alt="50000" title="50000" width="73" height="73" class="alignright size-full wp-image-2207" />Die <a href="http://fredericiana.com/2009/05/04/petition-gegen-internetsperren/">Online-Petition beim Deutschen Bundestag gegen die unsäglichen Pläne der Bundesregierung, Contentfilter im Internet einzurichten</a>, hat nun auch einen Twitter-Feed.
+<img src="/media/wp/2009/05/50000.jpg" alt="50000" title="50000" width="73" height="73" class="alignright size-full wp-image-2207" />Die <a href="http://fredericiana.com/2009/05/04/petition-gegen-internetsperren/">Online-Petition beim Deutschen Bundestag gegen die unsäglichen Pläne der Bundesregierung, Contentfilter im Internet einzurichten</a>, hat nun auch einen Twitter-Feed.
 
 Unter dem Namen <a href="https://twitter.com/Mitzeichner">@Mitzeichner</a> notiert ein Bot, wie viele Leute bereits die Petition online "unterzeichnet" haben -- zum jetzigen Zeitpunkt beispielsweise bereits über <strong>40.000 Leute</strong>.
 
-<img src="http://fredericiana.com/wp-content/uploads/2009/05/mitzeichner-on-twitter-575x196.jpg" alt="Mitzeichner on Twitter" title="Mitzeichner on Twitter" width="575" height="196" class="alignright size-large wp-image-2208" />
+<img src="/media/wp/2009/05/mitzeichner-on-twitter-575x196.jpg" alt="Mitzeichner on Twitter" title="Mitzeichner on Twitter" width="575" height="196" class="alignright size-large wp-image-2208" />
 
 Ich freue mich, dass die Mindestzahl von 50.000 Unterzeichnern in greifbare Nähe gerückt ist.
 
