@@ -1,0 +1,19 @@
+--- 
+status: publish
+tags: 
+- "10100111001"
+published: true
+title: GMail spricht POP - ist das alles?
+type: post
+meta: 
+  tags: ""
+layout: post
+---
+An vielen Stellen im Netz pfeifen es die Spatzen von den Dächern: (z.B.: <a href="http://www.golem.de/0411/34656.html" title="http://www.golem.de/0411/34656.html" onmouseover="window.status='http://www.golem.de/0411/34656.html';return true;" onmouseout="window.status='';return true;">Google verpasst E-Mail-Dienst Gmail POP3-Zugang - Golem.de</a>)
+
+<br /><br /><img width="110" hspace="5" height="45" border="0" align="left" src="/wp-content/olduploads/logos/gmaillogo.serendipityThumb.gif" alt=""  /><a href="http://blog.jeanpierre.de/archives/2004/11/poppen_mit_gmai_1.html" title="http://blog.jeanpierre.de/archives/2004/11/poppen_mit_gmai_1.html" onmouseover="window.status='http://blog.jeanpierre.de/archives/2004/11/poppen_mit_gmai_1.html';return true;" onmouseout="window.status='';return true;">GMail kann jetzt POP3 und SMTP</a> und erlaubt seinen Benutzern damit, eine ganz normale Mailsoftware statt des Web-Interface zu benutzen. (Anm.: Es sind noch nicht alle Accounts umgestellt; meiner z.B. erst seit Anfang der Woche).<br /><br />Was auf den ersten Blick ziemlich gut klingt, erweist sich aber auf den zweiten Blick zumindest nicht als sensationell: Denn zum einen haben andere Anbieter bekanntlich POP und SMTP &quot;out of the box&quot;, da ist das plakative <span style="font-style: italic;">&quot;New Features!&quot;</span>, mit dem die POP-Funktion angepriesen wird, doch mehr oder weniger übertrieben.<br /><br />Da frage ich mich: Wo bleibt denn die <span style="font-style: italic;">IMAP-Unterstützung</span>, liebes GMail Team?<br />
+
+
+            <br /><!--more-->
+Das wäre ausnahmsweise richtig fortschrittlich: <a href="http://www.imap.org/" title="http://www.imap.org/" onmouseover="window.status='http://www.imap.org/';return true;" onmouseout="window.status='';return true;">IMAP</a> wäre im Gegensatz zu <a href="http://de.wikipedia.org/wiki/POP3" title="http://de.wikipedia.org/wiki/POP3" onmouseover="window.status='http://de.wikipedia.org/wiki/POP3';return true;" onmouseout="window.status='';return true;">POP3</a> dazu in der Lage, die bewährten Google-Suchfunktionen serverseitig durchzuführen. Gerade auf diesen zentralen GMail-Vorteil müssen die POP-Benutzer von GMail jetzt verzichten. Für sie wird eines der wichtigsten Features (&quot;Don't Throw Away Anything!&quot;) ihres Mailaccounts also völlig unbrauchbar.<br /><br />Zum anderen lässt sich auch der zweite &quot;revolutionäre Ansatz&quot; von GMail, nämlich die Möglichkeit <a href="https://gmail.google.com/support/bin/answer.py?answer=6578" title="https://gmail.google.com/support/bin/answer.py?answer=6578" onmouseover="window.status='https://gmail.google.com/support/bin/answer.py?answer=6578';return true;" onmouseout="window.status='';return true;">&quot;Labels&quot;</a> (auch unter dem Namen &quot;Virtuelle Ordner&quot;) zu vergeben, kann mit POP nicht adäquat abgebildet werden. Ein IMAP Client für GMail könnte auch hier helfen, und das Konzept aus dem Webinterface auch für den Benutzer verwendbar machen, der ein Mailprogramm nutzen will.<br />(Das Labels-Konzept ist übrigens so innovativ, dass es in Zukunft bspw. sogar Thunderbird Mail <a href="http://opensource.weblogsinc.com/entry/2868755886687309/" title="http://opensource.weblogsinc.com/entry/2868755886687309/" onmouseover="window.status='http://opensource.weblogsinc.com/entry/2868755886687309/';return true;" onmouseout="window.status='';return true;">integriert werden soll</a>).<br /><br />Alles in allem reißt einen diese POP-Funktion also nicht &quot;vom Hocker&quot;. Wenn Google mit GMail weiter konkurrenzfähig sein möchte, muss es die zentralen Features auch im Mailprogramm nutzbar machen. Und dazu führt an IMAP nichts vorbei.<br /><br />
+<!--adsense-->
