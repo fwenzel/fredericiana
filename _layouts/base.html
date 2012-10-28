@@ -10,7 +10,7 @@
     <link rel="stylesheet" type="text/css" media="screen" href="/css/stylesheet.css">
     <link rel="shortcut icon" href="/images/favicon.ico">
 
-    <title>{% if page.title != empty %}{{ page.title }} | {% endif %}fredericiana</title>
+    <title>{% if page.title != '' %}{{ page.title }} | {% endif %}fredericiana</title>
   </head>
 
   <body class="{{ page.bodyclass }}">
@@ -30,7 +30,7 @@
     <div id="footer_wrap" class="outer">
       <footer class="inner">
         <p class="copyright">Copyright &copy; {{ site.time|date:"%Y" }} fredericiana | fredericiana theme based on <a href="https://github.com/jsncostello">"Slate"</a></p>
-        {% if page.layout != 'post'%}{% include cvr.html %}{% endif %}
+        {% if page.layout != 'post' %}{% include cvr.html %}{% endif %}
       </footer>
     </div>
 
