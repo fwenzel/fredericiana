@@ -397,6 +397,21 @@ footer {
   padding-bottom: 20px;
 }
 
+#pagination {
+  font-family: 'Goudy Bookletter 1911', Georgia, times, serif;
+  font-size: 18px;
+  text-align: center;
+}
+#pagination li {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  width: 33%;
+}
+#pagination .deactivated {
+  opacity: .4;
+}
+
 /*******************************************************************************
 Small Device Styles
 *******************************************************************************/

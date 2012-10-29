@@ -5,11 +5,13 @@ robots: noarchive
 ---
 <div class="inner group">
   <section id="main_content" class="post">
-    <h1>{{ page.title }}</h1>
+    <h1>{{ page.title }}{% if paginator.page > 1 %} - Page {{ paginator.page }}{% endif %}</h1>
     <ul>
       {% for post in page.posts %}
         {% include archive_post.html %}
       {% endfor %}
     </ul>
+
+    {% if paginator %}{% include paginator.html %}{% endif %}
   </section>
 </div>

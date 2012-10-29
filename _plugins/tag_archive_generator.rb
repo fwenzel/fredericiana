@@ -16,7 +16,7 @@ Missing file:
 
     def initialize(site, posts, tag)
       @tag = tag
-      @url = "/tag/#{@tag}/"
+      @baseurl = "/tag/#{@tag}/"
       super site, posts
     end
 

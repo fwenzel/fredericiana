@@ -7,6 +7,7 @@ module Jekyll
       @site = site
       @posts = posts
       @dir = ''
+      @url = @baseurl  # URL without pagination
 
       @name = "#{@url}index.html"
       halt_on_layout_error unless layout_available?
@@ -29,6 +30,7 @@ module Jekyll
         "layout" => @layout,
         "posts" => @posts,
         "url" => @url,
+        "baseurl" => @baseurl,
         "pager" => @pager,
       }
     end
@@ -43,7 +45,7 @@ module Jekyll
       @pager = pager
       if @pager.page != 1
         # Fix URL and file name if necessary.
-        @url += "page/#{pager.page}/"
+        @url = @baseurl + "page/#{pager.page}/"
         @name = "#{@url}index.html"
       end
     end

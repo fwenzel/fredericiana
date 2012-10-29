@@ -18,7 +18,7 @@ Missing file:
 
     def initialize(site, posts, year)
       @year = year
-      @url = "/%04d/" % [@year]
+      @baseurl = "/%04d/" % [@year]
       super site, posts
     end
 
