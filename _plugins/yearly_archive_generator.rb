@@ -1,4 +1,4 @@
-module TravisSwicegoodGenerators
+module Jekyll
   class YearlyArchivePage < BaseArchivePage
     attr_accessor :posts
 
@@ -28,7 +28,7 @@ Missing file:
     end
   end
 
-  class YearlyArchiveGenerator < Jekyll::Generator
+  class YearlyArchiveGenerator < Generator
     include ArchiveGenerator
 
     def add_to_bucket(post)

@@ -1,5 +1,5 @@
-module TravisSwicegoodGenerators
-  class BaseArchivePage < Jekyll::Page
+module Jekyll
+  class BaseArchivePage < Page
     def initialize(site, posts)
       if @layout.nil?
         @layout = "%s_archive" % self.class.to_s.split('::').last.to_s.sub('ArchivePage', '').downcase
@@ -49,6 +49,7 @@ module TravisSwicegoodGenerators
 
     def generate(site)
       @site = site
+      @bucket = {}  # Empty bucket on each page generation.
       site.posts.dup.each { |post| add_to_bucket(post) }
       process
     end

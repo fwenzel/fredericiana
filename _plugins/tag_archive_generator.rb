@@ -1,36 +1,49 @@
 module Jekyll
-  class TagIndex < Page
-    def initialize(site, base, dir, tag)
-      @site = site
-      @base = base
-      @dir = dir
-      @name = 'index.html'
+  class TagArchivePage < BaseArchivePage
+    attr_accessor :posts
 
-      self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), 'tag_archive.html')
-      self.data['tag'] = tag
-      tag_title_prefix = site.config['tag_title_prefix'] || 'Posts Tagged &ldquo;'
-      tag_title_suffix = site.config['tag_title_suffix'] || '&rdquo;'
-      self.data['title'] = "#{tag_title_prefix}#{tag}#{tag_title_suffix}"
+    def layout_err_msg
+      "
+Hold your horses!  tag_archive_generator plugin, here.
+
+You've enabled me but haven't added a tag_archive layout.
+At least put an empty file there or I'm not going to run.
+
+Missing file:
+  %s/%s.html
+" % ["_layouts", @layout]
+    end
+
+    def initialize(site, tag, posts)
+      @tag = tag
+      @url = "/tag/#{@tag}/"
+      super site, posts
+    end
+
+    def data
+      super.deep_merge({
+        "tag" => @tag,
+        "title" => "Posts tagged \"%s\"" % @tag,
+      })
     end
   end
 
   class TagGenerator < Generator
-    safe true
-    def generate(site)
-      if site.layouts.key? 'tag_archive'
-        dir = site.config['tag_dir'] || 'tag'
-        site.tags.keys.each do |tag|
-          write_tag_index(site, File.join(dir, tag), tag)
-        end
+    include ArchiveGenerator
+
+    def add_to_bucket(post)
+      post.tags.each do |tag|
+        @bucket[tag] ||= default_bucket
+        @bucket[tag][:posts] << post
       end
     end
 
-    def write_tag_index(site, dir, tag)
-      index = TagIndex.new(site, site.source, dir, tag)
-      index.render(site.layouts, site.site_payload)
-      index.write(site.dest)
-      site.pages << index
+    def process
+      @bucket.each_pair do |tag, data|
+        posts = data[:posts]
+        posts.sort! { |a,b| b.date <=> a.date }
+        @site.pages << TagArchivePage.new(@site, tag, posts)
+      end
     end
   end
 end

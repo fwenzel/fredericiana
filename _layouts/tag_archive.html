@@ -7,12 +7,8 @@ robots: noarchive
   <section id="main_content" class="post">
     <h1>{{ page.title }}</h1>
     <ul>
-      {% for post in site.posts %}
-        {% for tag in post.tags %}
-          {% if tag == page.tag %}
-            {% include archive_post.html %}
-          {% endif %}
-        {% endfor %}
+      {% for post in page.posts %}
+        {% include archive_post.html %}
       {% endfor %}
     </ul>
   </section>
