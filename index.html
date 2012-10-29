@@ -13,7 +13,12 @@ bodyclass: index
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
-  <p><a href="/archives.html">&raquo; Post archives&hellip;</a></p>
+  <p id="archives">
+    &raquo; Post archives:
+    {% for year in site.years %}
+      <a href="/{{ year }}/"{% if forloop.first %} class="first"{% endif %}>{{ year }}</a>
+    {% endfor %}
+  </p>
 
   <h3>elsewhere on the net</h3>
   {% include elsewhere.html %}

@@ -46,4 +46,11 @@ Missing file:
       end
     end
   end
+
+  # Calculate list of years and expose it to the templates
+  class YearListGenerator < Generator
+    def generate(site)
+      site.config['years'] = site.posts.map {|p| p.date.year}.uniq.sort.reverse
+    end
+  end
 end
