@@ -10,6 +10,11 @@
     <link rel="stylesheet" type="text/css" media="screen" href="/css/stylesheet.css">
     <link rel="shortcut icon" href="/images/favicon.ico">
 
+    {% if page.robots == 'noarchive' %}
+      <meta name="googlebot" content="index,follow,noarchive">
+      <meta name="robots" content="noindex,follow">
+    {% endif %}
+
     <title>{% if page.title != '' %}{{ page.title }} | {% endif %}fredericiana</title>
   </head>
 
