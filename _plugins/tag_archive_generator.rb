@@ -14,7 +14,7 @@ Missing file:
 " % ["_layouts", @layout]
     end
 
-    def initialize(site, tag, posts)
+    def initialize(site, posts, tag)
       @tag = tag
       @url = "/tag/#{@tag}/"
       super site, posts
@@ -23,7 +23,7 @@ Missing file:
     def data
       super.deep_merge({
         "tag" => @tag,
-        "title" => "Posts tagged \"%s\"" % @tag,
+        "title" => "Posts tagged \"#{@tag}\"",
       })
     end
   end
@@ -42,7 +42,7 @@ Missing file:
       @bucket.each_pair do |tag, data|
         posts = data[:posts]
         posts.sort! { |a,b| b.date <=> a.date }
-        @site.pages << TagArchivePage.new(@site, tag, posts)
+        paginate(@site, posts, TagArchivePage, [tag])
       end
     end
   end

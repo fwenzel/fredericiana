@@ -1,12 +1,13 @@
 module Jekyll
   class BaseArchivePage < Page
-    def initialize(site, posts)
+    def initialize(site, posts, pager=nil)
       if @layout.nil?
         @layout = "%s_archive" % self.class.to_s.split('::').last.to_s.sub('ArchivePage', '').downcase
       end
       @site = site
       @posts = posts
       @dir = ''
+
       @name = "#{@url}index.html"
       halt_on_layout_error unless layout_available?
     end
@@ -28,12 +29,23 @@ module Jekyll
         "layout" => @layout,
         "posts" => @posts,
         "url" => @url,
+        "pager" => @pager,
       }
     end
 
     def halt_on_layout_error
       $stderr.puts self.layout_err_msg
       exit(-1)
+    end
+
+    # Add pagination data to this page.
+    def add_pager(pager)
+      @pager = pager
+      if @pager.page != 1
+        # Fix URL and file name if necessary.
+        @url += "page/#{pager.page}/"
+        @name = "#{@url}index.html"
+      end
     end
   end
 
@@ -52,6 +64,24 @@ module Jekyll
       @bucket = {}  # Empty bucket on each page generation.
       site.posts.dup.each { |post| add_to_bucket(post) }
       process
+    end
+
+    # Generate one or more pages from a list of posts with a given
+    # page class, if pagination is enabled.
+    def paginate(site, all_posts, pageclass, pageargs=[])
+      if site.config['paginate'].nil?
+        site.pages << pageclass.new(site, all_posts, *pageargs)
+      else
+        pages = Pager.calculate_pages(all_posts, site.config['paginate'].to_i)
+        all_posts.each_slice(@site.config['paginate']).with_index do |slice, i|
+          pager = Pager.new(site.config, i + 1, all_posts, pages)
+
+          newpage = pageclass.new(site, slice, *pageargs)
+          newpage.add_pager(pager)
+
+          @site.pages << newpage
+        end
+      end
     end
 
   end

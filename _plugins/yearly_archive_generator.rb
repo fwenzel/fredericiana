@@ -1,3 +1,5 @@
+require 'enumerator'
+
 module Jekyll
   class YearlyArchivePage < BaseArchivePage
     attr_accessor :posts
@@ -14,7 +16,7 @@ Missing file:
 " % ["_layouts", @layout]
     end
 
-    def initialize(site, year, posts)
+    def initialize(site, posts, year)
       @year = year
       @url = "/%04d/" % [@year]
       super site, posts
@@ -40,7 +42,7 @@ Missing file:
       @bucket.each_pair do |year, data|
         posts = data[:posts]
         posts.sort! { |a,b| b.date <=> a.date }
-        @site.pages << YearlyArchivePage.new(@site, year, posts)
+        paginate(@site, posts, YearlyArchivePage, [year])
       end
     end
   end
