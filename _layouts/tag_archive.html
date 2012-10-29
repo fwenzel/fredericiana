@@ -9,11 +9,7 @@ bodyclass: tags
       {% for post in site.posts %}
         {% for tag in post.tags %}
           {% if tag == page.tag %}
-          <li class="archive_list">
-            <h2><a class="archive_list_article_link" href="{{ post.url }}">{{ post.title }}</a></h2>
-            <time datetime="{{ post.date | date: "%Y-%m-%d" }}" class="meta">{{ post.date|date_to_string }}</time>
-            <p class="summary">{{ post.content|truncatewords:20 }}</p>
-          </li>
+            {% include archive_post.html %}
           {% endif %}
         {% endfor %}
       {% endfor %}
