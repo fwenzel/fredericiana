@@ -1,3 +1,7 @@
+name: fredericiana
+description: open source, the web, and german-american oddities
+url: http://fredericiana.com
+
 pygments: true
 markdown: rdiscount
 permalink: /:year/:month/:day/:title/
