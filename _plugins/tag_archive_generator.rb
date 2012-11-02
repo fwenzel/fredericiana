@@ -24,7 +24,22 @@ Missing file:
       super.deep_merge({
         "tag" => @tag,
         "title" => "Posts tagged \"#{@tag}\"",
+        "feedurl" => @baseurl + 'feed/'
       })
+    end
+  end
+
+  # RSS Feed for tag
+  class TagFeedPage < TagArchivePage
+    attr_accessor :name
+
+    def initialize(site, posts, tag)
+      @layout = "feed"
+
+      super site, posts, tag
+
+      @baseurl = @baseurl + 'feed/'
+      @url = @name = @baseurl + 'index.xml'
     end
   end
 
@@ -42,7 +57,7 @@ Missing file:
       @bucket.each_pair do |tag, data|
         posts = data[:posts]
         posts.sort! { |a,b| b.date <=> a.date }
-        paginate(@site, posts, TagArchivePage, [tag])
+        paginate(@site, posts, TagArchivePage, TagFeedPage, [tag])
       end
     end
   end

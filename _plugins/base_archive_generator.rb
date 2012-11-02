@@ -70,7 +70,7 @@ module Jekyll
 
     # Generate one or more pages from a list of posts with a given
     # page class, if pagination is enabled.
-    def paginate(site, all_posts, pageclass, pageargs=[])
+    def paginate(site, all_posts, pageclass, feedclass, pageargs=[])
       if site.config['paginate'].nil?
         site.pages << pageclass.new(site, all_posts, *pageargs)
       else
@@ -83,6 +83,10 @@ module Jekyll
 
           @site.pages << newpage
         end
+      end
+
+      if !feedclass.nil?  # Generate RSS feed too.
+        site.pages << feedclass.new(site, all_posts, *pageargs)
       end
     end
 

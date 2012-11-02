@@ -9,6 +9,10 @@
     <link href="//fonts.googleapis.com/css?family=Goudy+Bookletter+1911|Droid+Serif:400,400italic,700&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
     <link rel="stylesheet" type="text/css" media="screen" href="/css/stylesheet.css">
     <link rel="shortcut icon" href="/images/favicon.ico">
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed for {{ site.name }}" href="/feed/">
+    {% if page.tag %}
+      <link rel="alternate" type="application/rss+xml" title="Posts tagged &quot;{{ page.tag }}&quot;" href="{{ page.feedurl }}">
+    {% endif %}
 
     {% if page.robots == 'noarchive' %}
       <meta name="googlebot" content="index,follow,noarchive">
@@ -35,7 +39,13 @@
     <div id="footer_wrap" class="outer">
       <footer class="inner">
         <p class="copyright">Copyright &copy; {{ site.time|date:"%Y" }} {{ site.name }} |
-          {{ site.name }} is built with <a href="https://github.com/mojombo/jekyll/">jekyll</a></p>
+          {{ site.name }} is built with <a href="https://github.com/mojombo/jekyll/">jekyll</a> |
+          {% if page.tag %}
+            <a href="{{ page.feedurl }}" class="rss">Subscribe to this tag (RSS)</a>
+          {% else %}
+            <a href="/feed/" class="rss">Subscribe (RSS)</a>
+          {% endif %}
+        </p>
         {% if page.layout != 'post' %}{% include cvr.html %}{% endif %}
       </footer>
     </div>

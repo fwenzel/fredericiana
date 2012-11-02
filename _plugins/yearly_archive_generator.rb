@@ -42,7 +42,7 @@ Missing file:
       @bucket.each_pair do |year, data|
         posts = data[:posts]
         posts.sort! { |a,b| b.date <=> a.date }
-        paginate(@site, posts, YearlyArchivePage, [year])
+        paginate(@site, posts, YearlyArchivePage, nil, [year])
       end
     end
   end

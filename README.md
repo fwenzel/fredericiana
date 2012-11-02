@@ -21,3 +21,5 @@ Thanks
 * The design is based on jsncostello's fabulous [slate](https://github.com/jsncostello/slate) theme.
 * I adopted (and modified) some of tswicegood's excellent little
   [Jekyll extensions](https://github.com/tswicegood/tswicegood-jekyll-extensions).
+* The XML feeds are derived from snaptortoise's
+  [jekyll-rss-feeds](https://github.com/snaptortoise/jekyll-rss-feeds).

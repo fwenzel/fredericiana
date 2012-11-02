@@ -399,6 +399,11 @@ footer {
   font-size: 80%;
 }
 
+footer .rss {
+  background: url('../images/feed.png') left center no-repeat;
+  padding-left: 18px;
+}
+
 .tags .archive_list h2 {
   padding-bottom: 0;
 }
