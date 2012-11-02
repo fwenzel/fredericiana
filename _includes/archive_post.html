@@ -2,4 +2,5 @@
   <h2><a class="archive_list_article_link" href="{{ post.url }}">{{ post.title }}</a></h2>
   <time datetime="{{ post.date | date: "%Y-%m-%d" }}" class="meta">{{ post.date|date_to_string }}</time>
   <p class="summary">{{ post.content|strip_html|truncatewords:20 }}</p>
+  <a href="{{ post.url }}">Read more&hellip;</a>
 </li>

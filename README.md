@@ -18,8 +18,13 @@ required.
 
 Thanks
 ------
-* The design is based on jsncostello's fabulous [slate](https://github.com/jsncostello/slate) theme.
+* The design is based on jsncostello's fabulous [slate theme][slate].
 * I adopted (and modified) some of tswicegood's excellent little
-  [Jekyll extensions](https://github.com/tswicegood/tswicegood-jekyll-extensions).
-* The XML feeds are derived from snaptortoise's
-  [jekyll-rss-feeds](https://github.com/snaptortoise/jekyll-rss-feeds).
+  [Jekyll extensions][tswicegood].
+* The XML feeds are derived from snaptortoise's [jekyll-rss-feeds][jekyll-rss].
+* The social icons are from the [IconDock Mono Social Icon set][icondock].
+
+[slate]: https://github.com/jsncostello/slate
+[tswicegood]: https://github.com/tswicegood/tswicegood-jekyll-extensions
+[jekyll-rss]: https://github.com/snaptortoise/jekyll-rss-feeds
+[icondock]: http://icondock.com/free/mono-social-icons

@@ -336,7 +336,7 @@ Full-Width Styles
   font-style: italic;
 }
 
-#main_content .meta {
+.meta {
   padding-top: .5em;
   font-size: 80%;
   line-height: 80%;
@@ -348,29 +348,47 @@ Full-Width Styles
   margin: 0 20px 20px 0;
 }
 
+.index #main_content_wrap h1 {
+  opacity: .2;
+}
+
 .index h3 {
   margin-top: 30px;
 }
 
-.index ul li,
-.tags li.archive_list {
+li.archive_list {
   list-style: none;
+  margin-bottom: 30px;
   padding-left: 0;
 }
 
-.index .posts span {
-  display: inline-block;
-  width: 6em;
+.archive_list h2 {
+  font-size: 21px;
+  padding-bottom: 0;
+  margin: 0;
 }
 
 .index #archives a {
   margin: 0 .2em;
   padding: .1em;
-  opacity: .5;
 }
-.index #archives a.first {
-  opacity: 1;
+
+.index #elsewhere li {
+  display: inline-block;
+  list-style: none;
+  min-width: 15%;
+  margin-right: .5em;
+  padding-left: 0;
 }
+.index #elsewhere li a {
+  background: url('../images/socialsprite.png') no-repeat top left;
+  display: inline-block;
+  line-height: 32px;
+  padding-left: 32px;
+}
+.index #elsewhere .flickr { background-position: 0 0; width: 32px; height: 32px; }
+.index #elsewhere .github { background-position: 0 -82px; width: 32px; height: 32px; }
+.index #elsewhere .twitter { background-position: 0 -164px; width: 32px; height: 32px; }
 
 .gist pre {
   width: auto;
@@ -402,14 +420,6 @@ footer {
 footer .rss {
   background: url('../images/feed.png') left center no-repeat;
   padding-left: 18px;
-}
-
-.tags .archive_list h2 {
-  padding-bottom: 0;
-}
-
-.tags li {
-  padding-bottom: 20px;
 }
 
 #pagination {
