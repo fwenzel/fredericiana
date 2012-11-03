@@ -22,9 +22,9 @@ Thanks
 * I adopted (and modified) some of tswicegood's excellent little
   [Jekyll extensions][tswicegood].
 * The XML feeds are derived from snaptortoise's [jekyll-rss-feeds][jekyll-rss].
-* The social icons are from the [IconDock Mono Social Icon set][icondock].
+* The social icons are from the [IconDock Social Icon set][icondock].
 
 [slate]: https://github.com/jsncostello/slate
 [tswicegood]: https://github.com/tswicegood/tswicegood-jekyll-extensions
 [jekyll-rss]: https://github.com/snaptortoise/jekyll-rss-feeds
-[icondock]: http://icondock.com/free/mono-social-icons
+[icondock]: http://icondock.com/free/vector-social-media-icons

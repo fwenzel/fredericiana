@@ -383,12 +383,12 @@ li.archive_list {
 .index #elsewhere li a {
   background: url('../images/socialsprite.png') no-repeat top left;
   display: inline-block;
-  line-height: 32px;
-  padding-left: 32px;
+  line-height: 16px;
+  padding-left: 22px;
 }
-.index #elsewhere .flickr { background-position: 0 0; width: 32px; height: 32px; }
-.index #elsewhere .github { background-position: 0 -82px; width: 32px; height: 32px; }
-.index #elsewhere .twitter { background-position: 0 -164px; width: 32px; height: 32px; }
+.index #elsewhere .flickr { background-position: 0 0; width: 16px; height: 16px; }
+.index #elsewhere .github { background-position: 0 -66px; width: 16px; height: 16px; }
+.index #elsewhere .twitter { background-position: 0 -132px; width: 16px; height: 16px; }
 
 .gist pre {
   width: auto;
