@@ -1,7 +1,7 @@
 --- 
 status: publish
 tags: 
-- OSU OSL Crosspost
+- osl
 - websights
 published: true
 title: Slashdot slashdotted itself

@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - iso
-- Mozilla Crosspost
+- mozilla
 - odf
 - pdf
 - Tech Talk

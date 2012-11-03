@@ -4,7 +4,7 @@ tags:
 - blog
 - fredericiana
 - merge
-- Mozilla Crosspost
+- mozilla
 published: true
 title: Blog Merger
 type: post

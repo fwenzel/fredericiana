@@ -1,7 +1,7 @@
 --- 
 status: publish
 tags: 
-- Mozilla Crosspost
+- mozilla
 - USA
 - websights
 published: true

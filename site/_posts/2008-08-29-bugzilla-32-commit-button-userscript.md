@@ -4,8 +4,8 @@ tags:
 - bugzilla
 - button
 - commit
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 - userscript
 - ux

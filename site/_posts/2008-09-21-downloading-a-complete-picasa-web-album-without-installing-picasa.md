@@ -5,8 +5,8 @@ tags:
 - downthemall
 - firefox
 - greasemonkey
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - picasa web
 - Tech Talk
 published: true

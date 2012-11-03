@@ -2,8 +2,8 @@
 status: publish
 tags: 
 - failpet
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 - websights
 published: true

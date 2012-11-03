@@ -3,8 +3,8 @@ status: publish
 tags: 
 - django
 - library
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 published: true
 title: "Easy on the bandwidth, easy on the server: Pull-style updates in django-mozilla-product-details"

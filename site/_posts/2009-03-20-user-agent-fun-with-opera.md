@@ -3,9 +3,9 @@ status: publish
 tags: 
 - internet explorer
 - microsoft
-- Mozilla Crosspost
+- mozilla
 - opera
-- OSU OSL Crosspost
+- osl
 - Tech Talk
 - user agent
 published: true

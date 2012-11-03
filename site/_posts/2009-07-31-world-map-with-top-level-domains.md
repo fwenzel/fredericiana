@@ -3,7 +3,7 @@ status: publish
 tags: 
 - internet
 - map
-- Mozilla Crosspost
+- mozilla
 - Tech Talk
 - tld
 - websights

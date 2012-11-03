@@ -2,8 +2,8 @@
 status: publish
 tags: 
 - fredericiana
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 published: true
 title: Back to Normal
 type: post

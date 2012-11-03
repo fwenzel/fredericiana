@@ -4,9 +4,9 @@ tags:
 - fredericiana
 - headquarters
 - Kalifornien
-- Mozilla Crosspost
+- mozilla
 - office
-- OSU OSL Crosspost
+- osl
 - USA
 published: true
 title: Photos of the New Mozilla Headquarters

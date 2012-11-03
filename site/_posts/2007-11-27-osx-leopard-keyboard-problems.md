@@ -3,7 +3,7 @@ status: publish
 tags: 
 - keyboard
 - leopard
-- Mozilla Crosspost
+- mozilla
 - osx
 - Tech Talk
 - unresponsive

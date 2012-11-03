@@ -2,8 +2,8 @@
 status: publish
 tags: 
 - fredericiana
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - websights
 published: true
 title: How to make me not want a car

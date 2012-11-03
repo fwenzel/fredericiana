@@ -5,7 +5,7 @@ tags:
 - delicious
 - greasemonkey
 - keyword
-- Mozilla Crosspost
+- mozilla
 - tags
 - Tech Talk
 - userscript

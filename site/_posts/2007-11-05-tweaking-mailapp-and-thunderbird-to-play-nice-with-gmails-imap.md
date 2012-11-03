@@ -4,7 +4,7 @@ tags:
 - gmail
 - imap
 - mail.app
-- Mozilla Crosspost
+- mozilla
 - Tech Talk
 - thunderbird
 - trash

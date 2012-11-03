@@ -2,8 +2,8 @@
 status: publish
 tags: 
 - fredericiana
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 published: true
 title: "Image Web Services: One That Exists and One That Should"

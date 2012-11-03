@@ -1,8 +1,8 @@
 --- 
 status: publish
 tags: 
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 published: true
 title: Fixing Backspace and Delete for SSH in OS X's Terminal.app

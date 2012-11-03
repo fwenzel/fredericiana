@@ -1,8 +1,8 @@
 --- 
 status: publish
 tags: 
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 published: true
 title: "Fun with ebtables: Routing IPTV packets on a home network"

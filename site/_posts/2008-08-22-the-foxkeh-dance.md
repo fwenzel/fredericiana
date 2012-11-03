@@ -3,8 +3,8 @@ status: publish
 tags: 
 - dance
 - foxkeh
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - polvi
 - websights
 published: true

@@ -2,9 +2,9 @@
 status: publish
 tags: 
 - firefox 3
-- Mozilla Crosspost
+- mozilla
 - os x
-- OSU OSL Crosspost
+- osl
 - pdf
 - pdfkit
 - Tech Talk

@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - fredericiana
-- Mozilla Crosspost
+- mozilla
 - work
 published: true
 title: O Hai again, Mozilla!

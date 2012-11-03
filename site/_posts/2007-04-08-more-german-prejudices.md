@@ -2,8 +2,8 @@
 status: publish
 tags: 
 - Germany
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - USA
 published: true
 title: More German Prejudices

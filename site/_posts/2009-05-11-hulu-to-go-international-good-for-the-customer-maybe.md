@@ -4,8 +4,8 @@ tags:
 - drm
 - hulu
 - media
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 - tv
 published: true

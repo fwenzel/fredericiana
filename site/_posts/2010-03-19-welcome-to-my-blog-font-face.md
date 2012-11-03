@@ -3,7 +3,7 @@ status: publish
 tags: 
 - css
 - fonts
-- Mozilla Crosspost
+- mozilla
 - Tech Talk
 published: true
 title: Welcome to my blog, @font-face

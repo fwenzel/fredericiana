@@ -1,7 +1,7 @@
 --- 
 status: publish
 tags: 
-- OSU OSL Crosspost
+- osl
 - Tech Talk
 published: true
 title: NSLU2-Linux USB harddrive spindown

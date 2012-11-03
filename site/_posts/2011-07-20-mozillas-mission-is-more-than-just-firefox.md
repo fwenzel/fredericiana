@@ -1,7 +1,7 @@
 --- 
 status: publish
 tags: 
-- Mozilla Crosspost
+- mozilla
 - Tech Talk
 published: true
 title: Mozilla's mission is more than just Firefox

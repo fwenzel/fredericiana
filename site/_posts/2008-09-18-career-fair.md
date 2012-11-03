@@ -5,7 +5,7 @@ tags:
 - cisco
 - citizenship
 - cmu
-- Mozilla Crosspost
+- mozilla
 - Pennsylvania
 published: true
 title: Career Fair

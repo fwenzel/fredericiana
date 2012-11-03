@@ -3,8 +3,8 @@ status: publish
 tags: 
 - crypto
 - django
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - security
 - Tech Talk
 published: true

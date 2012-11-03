@@ -1,7 +1,7 @@
 --- 
 status: publish
 tags: 
-- OSU OSL Crosspost
+- osl
 published: true
 title: Open Source and Capitalism
 type: post

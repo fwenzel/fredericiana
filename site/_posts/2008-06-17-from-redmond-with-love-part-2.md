@@ -5,8 +5,8 @@ tags:
 - firefox
 - internet explorer
 - microsoft
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - photo
 - USA
 published: true

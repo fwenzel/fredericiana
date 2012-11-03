@@ -4,7 +4,7 @@ tags:
 - awesomebar
 - fail whale
 - firefox 3
-- Mozilla Crosspost
+- mozilla
 - Tech Talk
 - twitter
 - websights

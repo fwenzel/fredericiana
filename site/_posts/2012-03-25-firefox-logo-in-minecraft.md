@@ -1,7 +1,7 @@
 --- 
 status: publish
 tags: 
-- Mozilla Crosspost
+- mozilla
 - photo
 published: true
 title: Firefox Logo in Minecraft

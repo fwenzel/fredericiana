@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - firefox
-- Mozilla Crosspost
+- mozilla
 - nerd
 - openvpn
 - remote control

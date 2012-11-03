@@ -4,8 +4,8 @@ tags:
 - code
 - development
 - komodo
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 - vim
 published: true

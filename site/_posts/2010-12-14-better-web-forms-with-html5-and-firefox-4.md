@@ -1,8 +1,8 @@
 --- 
 status: publish
 tags: 
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 published: true
 title: Better web forms with HTML5 and Firefox 4

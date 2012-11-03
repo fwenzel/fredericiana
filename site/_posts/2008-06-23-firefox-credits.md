@@ -4,8 +4,8 @@ tags:
 - credits
 - firefox 3
 - fredericiana
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 published: true
 title: Firefox Credits

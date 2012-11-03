@@ -4,8 +4,8 @@ tags:
 - content-aware
 - firefox
 - image
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - photoshop
 - resizing
 - Tech Talk

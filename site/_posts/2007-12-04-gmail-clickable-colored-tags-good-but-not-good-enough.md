@@ -3,7 +3,7 @@ status: publish
 tags: 
 - gmail
 - improvement
-- Mozilla Crosspost
+- mozilla
 - tags
 - Tech Talk
 - websights

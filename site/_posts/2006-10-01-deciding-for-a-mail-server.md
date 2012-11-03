@@ -1,7 +1,7 @@
 --- 
 status: publish
 tags: 
-- OSU OSL Crosspost
+- osl
 - Tech Talk
 published: true
 title: Moving Moving Moving, and Deciding For an MTA

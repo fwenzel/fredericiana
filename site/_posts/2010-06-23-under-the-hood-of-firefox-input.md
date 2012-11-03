@@ -5,8 +5,8 @@ tags:
 - feedback
 - firefox
 - input
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 published: true
 title: Under the Hood of Firefox Input

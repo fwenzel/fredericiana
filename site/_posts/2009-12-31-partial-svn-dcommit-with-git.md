@@ -3,8 +3,8 @@ status: publish
 tags: 
 - commit
 - git
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - subversion
 - svn
 - Tech Talk

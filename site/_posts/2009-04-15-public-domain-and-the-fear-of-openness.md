@@ -6,8 +6,8 @@ tags:
 - culture
 - disaster
 - lecture
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 published: true
 title: "\"We have 20/20 Downside Vision\": Public Domain and the Fear of Openness"

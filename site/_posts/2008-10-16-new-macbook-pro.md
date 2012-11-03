@@ -3,8 +3,8 @@ status: publish
 tags: 
 - apple
 - macbook pro
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 published: true
 title: New MacBook Pro?

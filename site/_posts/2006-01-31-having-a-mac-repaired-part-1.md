@@ -1,7 +1,7 @@
 --- 
 status: publish
 tags: 
-- OSU OSL Crosspost
+- osl
 - Tech Talk
 published: true
 title: Having a Mac repaired, Part 1

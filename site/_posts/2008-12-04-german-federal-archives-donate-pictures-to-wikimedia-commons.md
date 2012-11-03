@@ -5,8 +5,8 @@ tags:
 - donation
 - Germany
 - history
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - photo
 - photos
 - wikimedia

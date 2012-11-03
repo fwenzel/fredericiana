@@ -4,8 +4,8 @@ tags:
 - bookmarklet
 - bugzilla
 - jetpack
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 published: true
 title: "\"Assign to me\" Jetpack"

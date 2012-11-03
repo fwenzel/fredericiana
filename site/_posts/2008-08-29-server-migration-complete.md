@@ -5,8 +5,8 @@ tags:
 - fredericiana
 - luna
 - migration
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - server
 - Tech Talk
 published: true

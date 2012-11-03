@@ -3,8 +3,8 @@ status: publish
 tags: 
 - addons
 - copyshorturl
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 published: true
 title: Next Steps for the Copy ShortURL Addon

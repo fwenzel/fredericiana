@@ -3,7 +3,7 @@ status: publish
 tags: 
 - hiring
 - jobs
-- Mozilla Crosspost
+- mozilla
 - Tech Talk
 published: true
 title: Hiring Awesome People is Hard

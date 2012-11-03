@@ -1,8 +1,8 @@
 --- 
 status: publish
 tags: 
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - USA
 published: true
 title: OSCON Presentations To Be Youtubed

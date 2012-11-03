@@ -2,8 +2,8 @@
 status: publish
 tags: 
 - applescript
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - python
 - Tech Talk
 - things

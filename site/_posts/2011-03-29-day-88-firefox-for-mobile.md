@@ -1,7 +1,7 @@
 --- 
 status: publish
 tags: 
-- Mozilla Crosspost
+- mozilla
 - Project 365
 published: true
 title: Day 88 - Firefox for Mobile Phones of All Sizes

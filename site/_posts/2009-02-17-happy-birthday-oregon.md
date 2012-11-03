@@ -6,7 +6,7 @@ tags:
 - Oregon
 - oregonstate
 - OSU
-- OSU OSL Crosspost
+- osl
 - photo
 - photos
 published: true

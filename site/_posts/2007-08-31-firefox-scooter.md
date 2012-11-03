@@ -2,8 +2,8 @@
 status: publish
 tags: 
 - Karlsruhe
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - photo
 published: true
 title: Firefox Scooter

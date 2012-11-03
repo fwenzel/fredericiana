@@ -6,7 +6,7 @@ tags:
 - bugmail
 - bugzilla
 - gmail
-- Mozilla Crosspost
+- mozilla
 - reincarnation
 - websights
 published: true

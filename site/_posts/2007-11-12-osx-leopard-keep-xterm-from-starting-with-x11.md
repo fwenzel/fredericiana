@@ -3,7 +3,7 @@ status: publish
 tags: 
 - apple
 - leopard
-- Mozilla Crosspost
+- mozilla
 - Tech Talk
 - x11.app
 - xterm

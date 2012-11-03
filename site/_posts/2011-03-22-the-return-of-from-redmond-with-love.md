@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - California
-- Mozilla Crosspost
+- mozilla
 published: true
 title: The Return of "From Redmond with Love"
 type: post

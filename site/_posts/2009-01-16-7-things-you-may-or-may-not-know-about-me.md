@@ -4,7 +4,7 @@ tags:
 - facts
 - fredericiana
 - meme
-- Mozilla Crosspost
+- mozilla
 - seven
 published: true
 title: 7 Things You May (Or May Not) Know About Me

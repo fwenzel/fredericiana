@@ -4,8 +4,8 @@ tags:
 - fredericiana
 - keyboard
 - leopard
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - osx
 - Tech Talk
 - unresponsive

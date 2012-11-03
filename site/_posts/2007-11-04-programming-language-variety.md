@@ -3,7 +3,7 @@ status: publish
 tags: 
 - Karlsruhe
 - languages
-- Mozilla Crosspost
+- mozilla
 - programming
 - Tech Talk
 published: true

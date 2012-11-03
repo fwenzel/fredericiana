@@ -3,7 +3,7 @@ status: publish
 tags: 
 - beta
 - firefox
-- Mozilla Crosspost
+- mozilla
 - portable
 - Tech Talk
 published: true

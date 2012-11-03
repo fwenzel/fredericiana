@@ -4,8 +4,8 @@ tags:
 - download day
 - firefox
 - guinness
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 - websights
 - world record

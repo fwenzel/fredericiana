@@ -3,8 +3,8 @@ status: publish
 tags: 
 - browser
 - fredericiana
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - statistics
 - Tech Talk
 - usage

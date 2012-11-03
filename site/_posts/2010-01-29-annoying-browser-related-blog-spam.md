@@ -2,8 +2,8 @@
 status: publish
 tags: 
 - blog
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - spam
 - Tech Talk
 published: true

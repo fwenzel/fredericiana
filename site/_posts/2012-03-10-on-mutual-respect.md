@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - Cacoethes Scribendi
-- Mozilla Crosspost
+- mozilla
 published: true
 title: On Mutual Respect
 type: post

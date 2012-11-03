@@ -5,8 +5,8 @@ tags:
 - css
 - feature
 - firefox
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 - webdev
 published: true

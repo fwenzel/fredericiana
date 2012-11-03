@@ -1,7 +1,7 @@
 --- 
 status: publish
 tags: 
-- Mozilla Crosspost
+- mozilla
 - Tech Talk
 published: true
 title: "Coming up: CakePHP newbie-madness and possible insights"

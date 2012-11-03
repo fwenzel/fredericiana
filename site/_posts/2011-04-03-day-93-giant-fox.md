@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - California
-- Mozilla Crosspost
+- mozilla
 - Project 365
 published: true
 title: Day 93 - Giant Fox

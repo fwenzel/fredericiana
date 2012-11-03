@@ -3,9 +3,9 @@ status: publish
 tags: 
 - abi
 - debian
-- Mozilla Crosspost
+- mozilla
 - netbsd
-- OSU OSL Crosspost
+- osl
 - sco
 - Tech Talk
 - unix

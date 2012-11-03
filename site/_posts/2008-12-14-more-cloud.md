@@ -4,8 +4,8 @@ tags:
 - cloud
 - fredericiana
 - meme
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - websights
 - word
 - wordle

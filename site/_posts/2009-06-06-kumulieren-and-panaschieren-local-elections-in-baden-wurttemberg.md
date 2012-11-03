@@ -5,7 +5,7 @@ tags:
 - elections
 - Germany
 - kommunalwahl
-- Mozilla Crosspost
+- mozilla
 published: true
 title: "\"Kumulieren\" and \"Panaschieren\": Local Elections in Baden-W\xC3\xBCrttemberg"
 type: post

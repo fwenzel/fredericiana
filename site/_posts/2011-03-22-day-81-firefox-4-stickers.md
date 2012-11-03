@@ -1,7 +1,7 @@
 --- 
 status: publish
 tags: 
-- Mozilla Crosspost
+- mozilla
 - Project 365
 published: true
 title: Day 81 - Firefox 4 Stickers!

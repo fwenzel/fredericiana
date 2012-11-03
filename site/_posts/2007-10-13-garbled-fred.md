@@ -2,8 +2,8 @@
 status: publish
 tags: 
 - fredericiana
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 - USA
 published: true

@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - moz08
-- Mozilla Crosspost
+- mozilla
 - power
 - transformer
 - westin

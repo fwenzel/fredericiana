@@ -6,9 +6,9 @@ tags:
 - life of brian
 - metallica
 - monty python
-- Mozilla Crosspost
+- mozilla
 - napster
-- OSU OSL Crosspost
+- osl
 - websights
 - youtube
 published: true

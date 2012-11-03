@@ -1,7 +1,7 @@
 --- 
 status: publish
 tags: 
-- Mozilla Crosspost
+- mozilla
 - Tech Talk
 published: true
 title: I am a Web Developer. I don't usually compile code.

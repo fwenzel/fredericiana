@@ -4,8 +4,8 @@ tags:
 - fredericiana
 - Germany
 - law
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - plugin
 - subscribe to comments
 - Tech Talk

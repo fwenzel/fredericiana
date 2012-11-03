@@ -2,8 +2,8 @@
 status: publish
 tags: 
 - fredericiana
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 published: true
 title: Stuck in the Moderation Queue
 type: post

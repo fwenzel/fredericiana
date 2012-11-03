@@ -4,8 +4,8 @@ tags:
 - bonjour
 - hacked
 - iphone
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Pennsylvania
 - Tech Talk
 published: true

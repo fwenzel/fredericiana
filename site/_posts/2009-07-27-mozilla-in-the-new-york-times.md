@@ -1,9 +1,9 @@
 --- 
 status: publish
 tags: 
-- Mozilla Crosspost
+- mozilla
 - nytimes
-- OSU OSL Crosspost
+- osl
 - press
 - Tech Talk
 published: true

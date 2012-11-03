@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - Karlsruhe
-- Mozilla Crosspost
+- mozilla
 - USA
 published: true
 title: Karlsruhe rules

@@ -4,7 +4,7 @@ tags:
 - birthdays
 - celebration
 - Germany
-- Mozilla Crosspost
+- mozilla
 published: true
 title: Lots of Happy Birthdays
 type: post

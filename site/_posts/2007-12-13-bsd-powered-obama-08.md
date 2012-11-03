@@ -7,9 +7,9 @@ tags:
 - iis
 - linux
 - microsoft
-- Mozilla Crosspost
+- mozilla
 - opensource
-- OSU OSL Crosspost
+- osl
 - Tech Talk
 - USA
 - webserver

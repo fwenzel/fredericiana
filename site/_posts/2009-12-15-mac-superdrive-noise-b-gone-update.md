@@ -2,9 +2,9 @@
 status: publish
 tags: 
 - mac
-- Mozilla Crosspost
+- mozilla
 - noise
-- OSU OSL Crosspost
+- osl
 - osx
 - superdrive
 - Tech Talk

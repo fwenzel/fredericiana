@@ -2,8 +2,8 @@
 status: publish
 tags: 
 - firefox
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 - thunderbird
 - wallpaper

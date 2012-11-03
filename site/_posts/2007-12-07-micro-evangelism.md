@@ -3,8 +3,8 @@ status: publish
 tags: 
 - firefox 2
 - Karlsruhe
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - pool computers
 - Tech Talk
 - university

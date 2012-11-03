@@ -3,7 +3,7 @@ status: publish
 tags: 
 - canada
 - moz08
-- Mozilla Crosspost
+- mozilla
 - rock slide
 published: true
 title: Still Trapped

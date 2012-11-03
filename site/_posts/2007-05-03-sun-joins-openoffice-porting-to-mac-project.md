@@ -1,8 +1,8 @@
 --- 
 status: publish
 tags: 
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 published: true
 title: Sun joins OpenOffice "porting to Mac" project

@@ -2,8 +2,8 @@
 status: publish
 tags: 
 - macbook pro
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - problems
 - Tech Talk
 - trackpad

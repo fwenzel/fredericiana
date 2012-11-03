@@ -4,7 +4,7 @@ tags:
 - fredericiana
 - gcal
 - Germany
-- Mozilla Crosspost
+- mozilla
 - Tech Talk
 - time
 - USA

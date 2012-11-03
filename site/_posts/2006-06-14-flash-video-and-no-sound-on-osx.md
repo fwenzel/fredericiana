@@ -1,7 +1,7 @@
 --- 
 status: publish
 tags: 
-- OSU OSL Crosspost
+- osl
 - Tech Talk
 published: true
 title: Flash video and no sound on OSX

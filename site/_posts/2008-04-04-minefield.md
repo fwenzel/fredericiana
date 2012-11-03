@@ -4,8 +4,8 @@ tags:
 - Blogroll
 - letter
 - minefield
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - photo
 - websights
 - wired

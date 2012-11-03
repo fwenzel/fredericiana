@@ -4,8 +4,8 @@ tags:
 - employees
 - fredericiana
 - international
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 published: true
 title: Mozilla Across the Globe
 type: post

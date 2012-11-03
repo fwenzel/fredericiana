@@ -3,8 +3,8 @@ status: publish
 tags: 
 - bluetooth
 - hibernation
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - osx
 - sleep
 - Tech Talk

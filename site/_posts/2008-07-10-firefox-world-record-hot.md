@@ -3,8 +3,8 @@ status: publish
 tags: 
 - firefox
 - guinness
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - websights
 - world record
 published: true

@@ -1,7 +1,7 @@
 --- 
 status: publish
 tags: 
-- Mozilla Crosspost
+- mozilla
 - Project 365
 published: true
 title: Day 5 - Ceiling Cat is Watching You

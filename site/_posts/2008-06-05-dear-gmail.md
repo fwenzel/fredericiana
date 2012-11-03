@@ -4,8 +4,8 @@ tags:
 - adress book
 - automatic
 - gmail
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 published: true
 title: Dear GMail,

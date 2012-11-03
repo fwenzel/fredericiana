@@ -3,7 +3,7 @@ status: private
 tags: 
 - bay area
 - jobs
-- Mozilla Crosspost
+- mozilla
 - network admin
 - sysadmin
 - USA

@@ -5,8 +5,8 @@ tags:
 - desktop
 - firefox
 - fox
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - photo
 - snow
 - wallpaper

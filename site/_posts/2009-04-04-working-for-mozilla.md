@@ -3,8 +3,8 @@ status: publish
 tags: 
 - employment
 - fredericiana
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 published: true
 title: Working for Mozilla
 type: post

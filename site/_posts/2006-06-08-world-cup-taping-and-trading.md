@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - Germany
-- OSU OSL Crosspost
+- osl
 - USA
 published: true
 title: "World Cup: Taping and Trading"

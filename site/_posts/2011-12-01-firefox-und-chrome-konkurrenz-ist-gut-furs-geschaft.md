@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - "10100111001"
-- Mozilla Crosspost
+- mozilla
 published: true
 title: "Firefox und Chrome: Konkurrenz ist gut f\xC3\xBCrs Gesch\xC3\xA4ft"
 type: post

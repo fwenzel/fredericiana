@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - firefox
-- Mozilla Crosspost
+- mozilla
 - performance
 - Tech Talk
 - video

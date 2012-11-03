@@ -3,8 +3,8 @@ status: publish
 tags: 
 - christmas
 - fredericiana
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 published: true
 title: Merry Christmas!
 type: post

@@ -2,8 +2,8 @@
 status: publish
 tags: 
 - git
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 - version control
 published: true

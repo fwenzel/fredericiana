@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - Karlsruhe
-- OSU OSL Crosspost
+- osl
 published: true
 title: Google Maps Updated
 type: post

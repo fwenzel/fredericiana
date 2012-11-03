@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - filesharing
-- Mozilla Crosspost
+- mozilla
 - p2p
 - Tech Talk
 - tv

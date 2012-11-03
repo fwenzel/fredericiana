@@ -1,7 +1,7 @@
 --- 
 status: publish
 tags: 
-- OSU OSL Crosspost
+- osl
 - Tech Talk
 published: true
 title: "Skype Beta 2.5: Still adding features, still not fixing bugs"

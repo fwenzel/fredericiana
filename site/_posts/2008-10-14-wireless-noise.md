@@ -7,9 +7,9 @@ tags:
 - Karlsruhe
 - kit
 - laptop
-- Mozilla Crosspost
+- mozilla
 - network
-- OSU OSL Crosspost
+- osl
 - Pennsylvania
 - Tech Talk
 - wireless

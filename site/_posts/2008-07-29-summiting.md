@@ -4,8 +4,8 @@ tags:
 - "2008"
 - fredericiana
 - moz08
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - photo
 - summit
 - whistler

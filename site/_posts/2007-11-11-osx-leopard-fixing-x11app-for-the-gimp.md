@@ -3,7 +3,7 @@ status: publish
 tags: 
 - apple
 - gimp
-- Mozilla Crosspost
+- mozilla
 - Tech Talk
 - x11.app
 published: true

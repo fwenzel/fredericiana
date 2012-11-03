@@ -4,9 +4,9 @@ tags:
 - databases
 - fosdem
 - mongodb
-- Mozilla Crosspost
+- mozilla
 - nosql
-- OSU OSL Crosspost
+- osl
 - Tech Talk
 - web applications
 published: true

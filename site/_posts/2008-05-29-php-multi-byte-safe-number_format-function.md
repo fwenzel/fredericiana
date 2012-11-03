@@ -2,10 +2,10 @@
 status: publish
 tags: 
 - locale
-- Mozilla Crosspost
+- mozilla
 - multi-byte
 - number_format
-- OSU OSL Crosspost
+- osl
 - php
 - Tech Talk
 - utf-8

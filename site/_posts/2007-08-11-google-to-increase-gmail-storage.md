@@ -2,8 +2,8 @@
 status: publish
 tags: 
 - Karlsruhe
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 - USA
 - websights

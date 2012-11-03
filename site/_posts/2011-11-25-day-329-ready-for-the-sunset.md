@@ -1,7 +1,7 @@
 --- 
 status: publish
 tags: 
-- OSU OSL Crosspost
+- osl
 - Project 365
 published: true
 title: Day 329 - Ready for the Sunset

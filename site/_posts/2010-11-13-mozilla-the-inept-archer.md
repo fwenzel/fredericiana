@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - Europe
-- Mozilla Crosspost
+- mozilla
 published: true
 title: Mozilla, the Inept Archer
 type: post

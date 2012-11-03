@@ -3,8 +3,8 @@ status: publish
 tags: 
 - firefox
 - italy
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - websights
 published: true
 title: Firefox on the Coliseum

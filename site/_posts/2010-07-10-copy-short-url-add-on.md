@@ -4,8 +4,8 @@ tags:
 - addons
 - copyshorturl
 - jetpack
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 published: true
 title: Copy Short URL Add-on

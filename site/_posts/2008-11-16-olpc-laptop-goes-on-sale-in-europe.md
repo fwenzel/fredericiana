@@ -3,10 +3,10 @@ status: publish
 tags: 
 - amazon
 - europe
-- Mozilla Crosspost
+- mozilla
 - olpc
 - one laptop per child
-- OSU OSL Crosspost
+- osl
 - Tech Talk
 - xo-1
 published: true

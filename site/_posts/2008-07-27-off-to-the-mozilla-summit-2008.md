@@ -6,8 +6,8 @@ tags:
 - canada
 - firefox
 - fredericiana
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - summit
 - whistler
 published: true

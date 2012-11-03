@@ -3,8 +3,8 @@ status: publish
 tags: 
 - color blindness
 - deuteranomaly
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 - user experience
 published: true

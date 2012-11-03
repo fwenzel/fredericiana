@@ -4,8 +4,8 @@ tags:
 - blog
 - fredericiana
 - images
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 published: true
 title: Pictureless

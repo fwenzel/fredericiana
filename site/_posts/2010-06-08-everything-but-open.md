@@ -2,9 +2,9 @@
 status: publish
 tags: 
 - apple
-- Mozilla Crosspost
+- mozilla
 - open
-- OSU OSL Crosspost
+- osl
 - standards
 - Tech Talk
 published: true

@@ -3,8 +3,8 @@ status: publish
 tags: 
 - continuous integration
 - hudson
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - python
 - Tech Talk
 - tests

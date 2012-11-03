@@ -4,7 +4,7 @@ tags:
 - france
 - Germany
 - iphone
-- Mozilla Crosspost
+- mozilla
 - Tech Talk
 published: true
 title: Unlocked iPhone Prices in Europe

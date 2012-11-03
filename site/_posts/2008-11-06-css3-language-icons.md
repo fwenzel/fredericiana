@@ -5,8 +5,8 @@ tags:
 - flag
 - language
 - link
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 published: true
 title: CSS Language Icons

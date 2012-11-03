@@ -3,8 +3,8 @@ status: publish
 tags: 
 - fredericiana
 - Germany
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - plugin
 - subscribe to comments
 - Tech Talk

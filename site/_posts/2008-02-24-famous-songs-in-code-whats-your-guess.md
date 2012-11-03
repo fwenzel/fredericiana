@@ -5,8 +5,8 @@ tags:
 - fun
 - game
 - guess
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - pseudocode
 - song
 - Tech Talk

@@ -4,8 +4,8 @@ tags:
 - blog
 - design
 - fredericiana
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 published: true
 title: Blog Redesign

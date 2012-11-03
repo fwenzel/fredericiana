@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - Oregon
-- OSU OSL Crosspost
+- osl
 - Tech Talk
 published: true
 title: Managing Young Sys Admins At Oregon State Open Source Lab

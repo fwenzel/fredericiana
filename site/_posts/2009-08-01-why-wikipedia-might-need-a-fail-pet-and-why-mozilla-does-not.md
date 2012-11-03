@@ -5,7 +5,7 @@ tags:
 - failpet
 - failwhale
 - microsoft
-- Mozilla Crosspost
+- mozilla
 - pet
 - Tech Talk
 - twitter

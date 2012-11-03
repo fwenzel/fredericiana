@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - Cacoethes Scribendi
-- Mozilla Crosspost
+- mozilla
 published: true
 title: "The Cherry Tree: A Parable"
 type: post

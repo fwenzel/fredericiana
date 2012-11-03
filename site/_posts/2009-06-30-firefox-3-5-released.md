@@ -4,8 +4,8 @@ tags:
 - firefox
 - firefox 3.5
 - fx35
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 published: true
 title: Firefox 3.5 Released

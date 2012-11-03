@@ -3,7 +3,7 @@ status: publish
 tags: 
 - flash
 - html5
-- Mozilla Crosspost
+- mozilla
 - Tech Talk
 published: true
 title: Scribd to Ditch Flash in Favor of HTML5

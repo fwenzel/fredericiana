@@ -4,7 +4,7 @@ tags:
 - domains
 - fredericiana
 - maintenance
-- Mozilla Crosspost
+- mozilla
 - webserver
 published: true
 title: "Upcoming maintenance: Another great migration"

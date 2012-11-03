@@ -4,7 +4,7 @@ tags:
 - download
 - firefox
 - leopard
-- Mozilla Crosspost
+- mozilla
 - osx
 - stack
 - Tech Talk

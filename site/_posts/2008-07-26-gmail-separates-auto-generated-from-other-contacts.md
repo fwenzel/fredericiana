@@ -3,8 +3,8 @@ status: publish
 tags: 
 - contacts
 - gmail
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 published: true
 title: GMail Separates Auto-Generated From Other Contacts

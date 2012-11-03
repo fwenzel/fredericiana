@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - microsoft
-- Mozilla Crosspost
+- mozilla
 - patent
 - Tech Talk
 published: true

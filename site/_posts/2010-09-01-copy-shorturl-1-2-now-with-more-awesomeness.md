@@ -3,7 +3,7 @@ status: publish
 tags: 
 - addons
 - copyshorturl
-- Mozilla Crosspost
+- mozilla
 - Tech Talk
 published: true
 title: Copy ShortURL 1.2 now with more awesomeness

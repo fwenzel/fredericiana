@@ -3,7 +3,7 @@ status: publish
 tags: 
 - full
 - leopard
-- Mozilla Crosspost
+- mozilla
 - osx
 - Tech Talk
 - trash

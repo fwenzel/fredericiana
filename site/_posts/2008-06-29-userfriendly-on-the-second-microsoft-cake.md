@@ -4,8 +4,8 @@ tags:
 - cartoon
 - firefox 3
 - microsoft
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 - userfriendly
 - websights

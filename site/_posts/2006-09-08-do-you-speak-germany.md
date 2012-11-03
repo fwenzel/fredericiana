@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - Germany
-- OSU OSL Crosspost
+- osl
 published: true
 title: Do you speak Germany?
 type: post

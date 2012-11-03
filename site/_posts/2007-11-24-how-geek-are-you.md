@@ -3,7 +3,7 @@ status: publish
 tags: 
 - fredericiana
 - geekery
-- Mozilla Crosspost
+- mozilla
 - websights
 published: true
 title: How Geek Are You?

@@ -3,7 +3,7 @@ status: publish
 tags: 
 - bank of america
 - firefox
-- Mozilla Crosspost
+- mozilla
 - websights
 published: true
 title: Bank of America Supports Firefox (Finally)

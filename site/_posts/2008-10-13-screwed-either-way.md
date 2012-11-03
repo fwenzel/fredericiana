@@ -2,8 +2,8 @@
 status: publish
 tags: 
 - drm
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - pirating
 - Tech Talk
 - wal-mart

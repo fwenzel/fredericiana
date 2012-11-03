@@ -4,7 +4,7 @@ tags:
 - "404"
 - fail
 - gmail
-- Mozilla Crosspost
+- mozilla
 - Tech Talk
 published: true
 title: GMail Notifier for Mac Fail

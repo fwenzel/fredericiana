@@ -8,8 +8,8 @@ tags:
 - greasemonkey
 - hackability
 - javascript
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - stylish
 - Tech Talk
 published: true

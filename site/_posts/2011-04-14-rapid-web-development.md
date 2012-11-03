@@ -1,7 +1,7 @@
 --- 
 status: publish
 tags: 
-- Mozilla Crosspost
+- mozilla
 published: true
 title: Streamlining Web Development at Mozilla Without Sacrificing Quality
 type: post

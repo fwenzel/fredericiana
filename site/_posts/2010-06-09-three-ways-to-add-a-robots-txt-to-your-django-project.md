@@ -2,8 +2,8 @@
 status: publish
 tags: 
 - django
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - robots
 - seo
 - Tech Talk

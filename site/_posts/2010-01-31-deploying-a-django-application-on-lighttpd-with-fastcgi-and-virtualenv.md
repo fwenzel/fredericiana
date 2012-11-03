@@ -4,8 +4,8 @@ tags:
 - django
 - fastcgi
 - lighttpd
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - python
 - Tech Talk
 - virtualenv

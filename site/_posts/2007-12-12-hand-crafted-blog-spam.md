@@ -4,8 +4,8 @@ tags:
 - blog
 - fredericiana
 - manual
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - spam
 - Tech Talk
 published: true

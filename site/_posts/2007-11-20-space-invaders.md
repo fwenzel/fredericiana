@@ -3,7 +3,7 @@ status: publish
 tags: 
 - door
 - Karlsruhe
-- Mozilla Crosspost
+- mozilla
 - photo
 - space invaders
 published: true

@@ -3,8 +3,8 @@ status: publish
 tags: 
 - hardware
 - linux
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 - udev
 published: true

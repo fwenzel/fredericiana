@@ -1,8 +1,8 @@
 --- 
 status: publish
 tags: 
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Project 365
 published: true
 title: Day 15 - Open Your Mind, Open Your Heart, Open Your Source

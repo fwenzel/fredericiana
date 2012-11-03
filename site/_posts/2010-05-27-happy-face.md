@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - development
-- Mozilla Crosspost
+- mozilla
 - Tech Talk
 published: true
 title: Happy Face

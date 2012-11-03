@@ -2,9 +2,9 @@
 status: publish
 tags: 
 - license
-- Mozilla Crosspost
+- mozilla
 - mpl
-- OSU OSL Crosspost
+- osl
 - Tech Talk
 published: true
 title: Updating the Mozilla Public License

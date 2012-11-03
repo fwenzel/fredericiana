@@ -4,8 +4,8 @@ tags:
 - empty page
 - facebook
 - javascript
-- Mozilla Crosspost
-- OSU OSL Crosspost
+- mozilla
+- osl
 - Tech Talk
 - websights
 published: true
