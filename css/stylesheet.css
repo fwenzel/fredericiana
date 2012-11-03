@@ -441,12 +441,14 @@ footer .rss {
 Small Device Styles
 *******************************************************************************/
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 820px) {
   #main_content {
     float: none;
   }
   #sidebar {
     float: none;
+    width: 100%;
+    max-width: 575px;
     margin-top: 30px;
   }
 }
