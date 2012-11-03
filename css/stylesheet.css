@@ -351,6 +351,19 @@ Full-Width Styles
 .index #main_content_wrap h1 {
   opacity: .2;
 }
+.index #main_content_wrap h1:before {
+  padding-right: .25em;
+}
+
+#posts > h1:before {
+  content: '\00B6';
+}
+#archives > h1:before {
+  content: '\0026';
+}
+#elsewhere > h1:before {
+  content: '\2194';
+}
 
 .index h3 {
   margin-top: 30px;
