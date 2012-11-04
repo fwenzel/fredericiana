@@ -1,9 +1,11 @@
 # Rakefile with several convenience functions for developing and deploying
 # this blog.
+require 'date'
 
 CWD = File.dirname(__FILE__)
 
 task :default => [:devserver]
+
 
 desc "Run Jekyll development server"
 task :devserver do
@@ -12,12 +14,14 @@ task :devserver do
     end
 end
 
+
 desc "Generate the entire blog output directory"
 task :generate do
     Dir.chdir("#{CWD}/site") do
         sh "jekyll"
     end
 end
+
 
 desc "Just deploy _site to server"
 task :deploy_only do
@@ -31,13 +35,13 @@ task :deploy_only do
     end
 end
 
+
 desc "Generate and deploy blog to server"
 task :deploy => [:generate, :deploy_only]
 
-desc "Create a new article with today's date"
-task :new, :title do |t, args|
-    require 'date'
 
+desc "Create a new article with a dummy future date"
+task :new, :title do |t, args|
     unless args.title.nil?
         slug = slugify(args.title)
     else
@@ -45,21 +49,51 @@ task :new, :title do |t, args|
     end
 
     d = Date.today
+    newfile = "#{d.year+1}-01-01-#{slug}.md"
 
-    newfile = "#{d}-#{slug}.md"
     Dir.chdir("#{CWD}/site/_posts") do
         if File.exists?(newfile)
-            raise "Oh noes, #{newfile} already exists. Start that article first?"
+            $stderr.puts "Oh noes, #{newfile} already exists. Start that article first?"
+            exit 1
         end
 
         File.open(newfile, 'w') do |f|
-            f.write(File.open('_template.md').read.sub(/%title/, args.title))
+            f.write(File.open('_template.md').read.sub(/%title/, args.title || ''))
         end
 
-        $stderr.puts "Created #{newfile}. Rename and start blogging!"
+        puts "Created #{newfile}. Start blogging!"
     end
 end
 
+
+desc "Redate all future posts (i.e., drafts) to today for release"
+task :today do
+    d = Date.today
+    Dir.chdir("#{CWD}/site/_posts") do
+        posts = Dir.glob('[1-9]*.md').select {|f| Date.parse(f[0, 10]) > d}
+        if posts.empty?
+            $stderr.puts "No future posts found!"
+            exit 0
+        end
+
+        $stdout.puts "About to move the following file(s) to today:"
+        posts.each do |p|
+            puts "- #{p}"
+        end
+        if !check?
+            puts "Fine. Nothing happened."
+            exit 0
+        end
+
+        posts.each do |p|
+            mv p, "#{d}#{p[10..-1]}"
+        end
+        puts "Done!"
+    end
+end
+
+
+# *** Helper functions ***
 # Create a URL slug from the title
 def slugify(title)
     str = title.dup
@@ -68,4 +102,10 @@ def slugify(title)
     str.gsub!(/ /,"-")
     str.downcase!
     str
+end
+
+def check?
+    puts "Do you want to continue? (y/n)"
+    input = $stdin.gets.chomp
+    input == 'y'
 end
