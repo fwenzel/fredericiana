@@ -1,11 +1,11 @@
---- 
+---
 status: publish
-tags: 
+tags:
 - Tech Talk
 published: true
 title: Really, really empty the OS X Trash
 type: post
-meta: 
+meta:
   _social_aggregated_ids: a:2:{s:7:"twitter";a:0:{}s:8:"facebook";a:0:{}}
   _social_aggregation_next_run: "1350950773"
   _edit_last: "2"
@@ -16,6 +16,8 @@ layout: post
 After updating software on OS X, it drops the previous version into the Trash, to be thrown out the next time you empty it.
 
 Not sure what's causing it, but sometimes that's easier said than done. Trying to empty the Trash, you may see an error message along the lines of <strong>"This file is still in use!"</strong> Even though the application is, in fact, closed.
+
+![Evernote is in use](/media/2012/in-use.jpg)
 
 Sure, you could restart your computer and that'd take care of it. But please, this is not Windows. A simple workaround is <strong>pressing the Command button while right-clicking the Trash</strong>. It'll allow you to <strong>"securely empty [the] trash"</strong>. This actually overwrites the deleted data on the hard drive for security reasons -- but as a side effect, it also deletes files that are supposedly "still in use".
 
