@@ -1,6 +1,9 @@
 ---
 layout: post
 title: HTML5-Compatible Blink Tag
+tags:
+- mozilla
+- tech
 ---
 
 We all know that the ``<blink>`` tag was always a bad idea. It's not part of any HTML standard, it's not semantic, and it is so horrible for accessibility and user experience that Jakob Nielsen called it ["plain evil"][Nielsen].
