@@ -2,6 +2,10 @@ fredericiana.com
 ================
 This is the Jekyll-based, 2012 redesign of my blog *fredericiana.com*.
 
+Requirements
+------------
+* jekyll (gem install...)
+* pygments (pip install...)
 
 License
 -------
