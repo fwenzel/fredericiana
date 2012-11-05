@@ -83,3 +83,25 @@ That's it! We've emulated the ``<blink>`` tag without a single line of invalid H
 What could be better than that?
 
 [sharp]: http://jsfiddle.net/xKujb/2/
+
+Update
+------
+Some commenters remarked that there's no use applying a fast transition with an easing function if you want the transition to be sharp anyway. They are, of course, right. So here you go:
+
+{% highlight css %}
+.blink {
+    animation-duration: 1s;
+    animation-name: blink;
+    animation-iteration-count: infinite;
+    animation-timing-function: steps(2, start);
+}
+@keyframes blink {
+    80% {
+        visibility: hidden;
+    }
+}
+{% endhighlight %}
+
+This, too, is available on [JSFiddle][step]. Check it out!
+
+[step]: http://jsfiddle.net/xKujb/21/
