@@ -389,15 +389,15 @@ li.archive_list {
 .index #elsewhere li {
   display: inline-block;
   list-style: none;
-  min-width: 15%;
   margin-right: .5em;
   padding-left: 0;
 }
 .index #elsewhere li a {
   background: url('../images/socialsprite.png') no-repeat top left;
-  display: inline-block;
+  display: inline;
   line-height: 16px;
   padding-left: 22px;
+  margin-right: 1em;
 }
 .index #elsewhere .flickr { background-position: 0 0; width: 16px; height: 16px; }
 .index #elsewhere .github { background-position: 0 -66px; width: 16px; height: 16px; }
@@ -454,7 +454,7 @@ footer .rss {
 Small Device Styles
 *******************************************************************************/
 
-@media screen and (max-width: 820px) {
+@media screen and (max-device-width: 820px), screen and (max-width: 820px) {
   #main_content {
     float: none;
   }
@@ -466,7 +466,7 @@ Small Device Styles
   }
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-device-width: 480px), screen and (max-width: 480px) {
   body {
     font-size:14px;
   }
