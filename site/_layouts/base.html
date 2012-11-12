@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
   <head>
     <meta charset='utf-8' />
@@ -30,6 +30,8 @@
             <h1 id="project_title"><a href="/">{{ site.name }}</a></h1>
             <h2 id="project_tagline">{{ site.description }}</h2>
           </section>
+
+          {% if page.search %}{% include search_form.html %}{% endif %}
         </header>
     </div>
 
@@ -51,6 +53,7 @@
       </footer>
     </div>
 
+  {% include search.html %}
   {% include analytics.html %}
   </body>
 </html>
