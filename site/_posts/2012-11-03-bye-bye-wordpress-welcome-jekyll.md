@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Bye bye Wordpress, Welcome Jekyll!
+tags:
+- tech
 ---
 
 Feel free to blame it on [@cupofT](http://twitter.com/cupofT)'s excellent homebrew that I happened to be drinking the other day, but I decided it was time to blow the thick layer of dust off my blog that it had accumulated over the years.
