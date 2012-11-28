@@ -16,7 +16,7 @@ After a while, I was fed up with it, so I looked around for alternatives. I foun
 
 [CloudApp][cloudapp] is also nice, but their for-pay plan was a little overkill for my needs.
 
-Finally [GrabBox][grabbox] has a great approach: It uses Dropbox (which I already have) to quickly share screenshots. The chance of usign my own domain with it, however, is pretty slim.
+Finally [GrabBox][grabbox] has a great approach: It uses Dropbox (which I already have) to quickly share screenshots. The chance of using my own domain with it, however, is pretty slim.
 
 So I made a thing.
 
@@ -43,7 +43,7 @@ Contributions welcome
 ---------------------
 The first version seems to work great for me. However, I am sure there are bugs or more or less obvious things missing.
 
-My most attentive users may also have noticed that this first version does not yet actually support *your own domain name*. The code exists, but I will need to write a blog post about it, so I am waiting to call it version 1.0 until that's done!
+My most attentive readers may also have noticed that this first version does not yet actually support *your own domain name*. The code exists, but I will need to write a blog post about it, so I am waiting to call it version 1.0 until that's done!
 
 If you want to give it a shot, I suggest you install it, try to break it, peruse the code and shudder at my PyObjC skills -- and then **please contribute issues and pull requests** to the [UpShot github project][github].
 
