@@ -10,7 +10,7 @@ Ways to share screenshots on the Internet are [a dime a dozen][services].
 
 I used [Skitch][skitch] happily for quite a while. But after their acquisition by *Evernote*, they recently changed their share URLs to a ridiculously ugly, **108** character long (!) monstrosity. I own a number of my own domains, and not only does my screenshot sharing tool keep me from using my domains, but it also gives me URLs that look like I facerolled my keyboard? No way!
 
-In addition, Evernote made it hard to share the URL *to the image itself*, rather than a *webpage showing the image on it*. This may help their revenue, but unnecessarily hampers with the recipients' ability to use the images I share with them.
+In addition, Evernote made it hard to share the URL *to the image itself*, rather than a *webpage showing the image on it*. This may help their revenue, but unnecessarily hampers the recipients' ability to use the images I share with them.
 
 After a while, I was fed up with it, so I looked around for alternatives. I found [TinyGrab][tinygrab], which works with OS X's screenshot function. I can even upload the files to my own server, but only using unencrypted FTP, which is scarily insecure.
 
