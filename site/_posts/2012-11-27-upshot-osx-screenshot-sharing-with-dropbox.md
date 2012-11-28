@@ -4,6 +4,7 @@ title: Meet UpShot, Screenshot Sharing via Dropbox on OS X
 tags:
 - tech
 - mozilla
+- osuosl
 ---
 
 Ways to share screenshots on the Internet are [a dime a dozen][services].
@@ -62,7 +63,7 @@ I tested it on OS X 10.7. You only need to have [Dropbox installed][db] and off 
 * Download the DMG file, double click to open
 * drag the UpShot app into your ``/Applications`` directory
 * go to the Applications directory and start UpShot from there. UpShot will show up in your status bar in the top right corner of the screen.
-* Then go ahead and take a screenshot (CMD+3 or CMD+4) and witness it being shared automatically!
+* Then go ahead and take a screenshot (CMD+Shift+3 or CMD+Shift+4) and witness it being shared automatically!
 
 [download]: https://github.com/fwenzel/upshot/downloads
 [db]: http://db.tt/0F4SoxMp
