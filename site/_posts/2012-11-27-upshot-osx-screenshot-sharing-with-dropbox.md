@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Meet UpShot, Screenshot Sharing via Dropbox on OS X
+tags:
+- tech
+- mozilla
 ---
 
 Ways to share screenshots on the Internet are [a dime a dozen][services].
