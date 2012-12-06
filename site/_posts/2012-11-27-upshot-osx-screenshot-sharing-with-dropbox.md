@@ -5,6 +5,7 @@ tags:
 - tech
 - mozilla
 - osuosl
+- upshot
 ---
 
 Ways to share screenshots on the Internet are [a dime a dozen][services].
@@ -69,3 +70,7 @@ I tested it on OS X 10.7. You only need to have [Dropbox installed][db] and off 
 [db]: http://db.tt/0F4SoxMp
 
 **Hope you like it! Let me know what you think!**
+
+> **Note:** If you want to stay up to date on UpShot, subscribe to the [UpShot][upshot-tag] RSS feed on this blog.
+
+[upshot-tag]: /tag/upshot
