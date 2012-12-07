@@ -20,6 +20,10 @@ read the file ``LICENSE``. If you do use my code, a link back to
 http://github.com/fwenzel/fredericiana would be appreciated, but is not
 required.
 
+Color Scheme
+------------
+![fredericiana color scheme](https://raw.github.com/fwenzel/fredericiana/master/color-scheme.png)
+
 Thanks
 ------
 * The design is based on jsncostello's fabulous [slate theme][slate].
