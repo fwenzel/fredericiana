@@ -19,7 +19,7 @@ Option 1: Server Config (or .htaccess)
 --------------------------------------
 If you have your own server or webhosting set up, you can redirect a domain or directory to Dropbox, like this:
 
-> ``http://my.domain.com/file.png`` &rarr; ``http://dl.dropbox.com/u/XYZ/file.png``
+``http://my.domain.com/file.png`` &rarr; ``http://dl.dropbox.com/u/XYZ/file.png``
 
 where XYZ is your Dropbox user ID number.
 
