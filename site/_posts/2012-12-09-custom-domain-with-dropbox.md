@@ -84,9 +84,17 @@ While certainly elegant, one (big) **caveat** of this solution is that the resul
 
 Additional methods
 ------------------
-There are additional solutions to this problem out there that I haven't covered here. For example, one person uses Google App Engine to [*proxy* their domain to Dropbox][gae-proxy]. This was a little too complicated and inefficient for my taste, but it is certainly an option.
+*(Updated 12/10/2012)*
+
+Here are some additional solutions to this problem that I haven't covered here because they were a little too complicated or inefficient for my taste. But still, they are certainly options for you to consider.
+
+* You can use Google App Engine (or really any other script-enabled server) to [*proxy* your domain to Dropbox][gae-proxy]. When a URL is called, the script will actually download that file from your dropbox, then serve it to you from GAE (introducing the obvious double bandwidth and latency, but completely hiding the fact that it is powered by Dropbox in the backend).
+* You can also install a [text-only instance of Dropbox][textonly] on your server. It would then behave like any other of your devices (syncing from Dropbox automatically) and you could simply serve up the desired folder(s) as static files via a regular web server. (Getting this set up seems quite complicated, but once done, you wouldn't even need a Public folder any longer). *(Thanks to Jabba for the hint)*
 
 [gae-proxy]: http://code.google.com/p/dropbprox/
+[textonly]: http://www.dropboxwiki.com/Text_Based_Linux_Install
+
+---
 
 Now go ahead and set up your domains as aliases for your Dropbox accounts. You'll soon be able to use it with UpShot to share screenshots.
 
