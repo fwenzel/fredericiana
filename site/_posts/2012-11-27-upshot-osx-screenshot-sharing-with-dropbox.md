@@ -55,7 +55,7 @@ UpShot is open source and licensed under a BSD license!
 
 Try UpShot now!
 ---------------
-I compiled UpShot as an OS X app and put a standard .dmg file up on github:
+I compiled UpShot as an OS X app and put a standard .dmg file up on the UpShot website:
 
 > **[Download UpShot][download]**
 
@@ -66,7 +66,7 @@ I tested it on OS X 10.7. You only need to have [Dropbox installed][db] and off 
 * go to the Applications directory and start UpShot from there. UpShot will show up in your status bar in the top right corner of the screen.
 * Then go ahead and take a screenshot (CMD+Shift+3 or CMD+Shift+4) and witness it being shared automatically!
 
-[download]: https://github.com/fwenzel/upshot/downloads
+[download]: http://upshot.it
 [db]: http://db.tt/0F4SoxMp
 
 **Hope you like it! Let me know what you think!**
