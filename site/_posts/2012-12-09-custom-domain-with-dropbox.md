@@ -8,11 +8,11 @@ tags:
 - upshot
 ---
 
-As [promised][domain-issue], UpShot will soon support using your own custom domain name to [share your screenshots via Dropbox][upshot-post].
+Since [version 1.0][version-1.0], UpShot supports using your own custom domain name to [share your screenshots via Dropbox][upshot-post].
 
 However, you have to do some work on the server side to make it happen. Here are **two ways to point your own, custom domain at your public Dropbox folder**.
 
-[domain-issue]: https://github.com/fwenzel/upshot/issues/16
+[version-1.0]: /2012/12/13/upshot-1.0/
 [upshot-post]: /2012/11/27/upshot-osx-screenshot-sharing-with-dropbox/
 
 Option 1: Server Config (or .htaccess)
@@ -96,6 +96,6 @@ Here are some additional solutions to this problem that I haven't covered here b
 
 ---
 
-Now go ahead and set up your domains as aliases for your Dropbox accounts. You'll soon be able to use it with UpShot to share screenshots.
+Now go ahead and set up your domains as aliases for your Dropbox accounts. Then you'll be able to use it with UpShot to share screenshots.
 
 If you have any other solutions in mind, any questions or concerns, please leave a comment below!
