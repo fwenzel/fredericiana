@@ -105,3 +105,4 @@ Some commenters remarked that there's no use applying a fast transition with an 
 This, too, is available on [JSFiddle][step]. Check it out!
 
 [step]: http://jsfiddle.net/xKujb/21/
+

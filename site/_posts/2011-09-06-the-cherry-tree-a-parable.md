@@ -1,7 +1,8 @@
 --- 
 status: publish
 tags: 
-- Cacoethes Scribendi
+- writing
+- fiction
 - mozilla
 published: true
 title: "The Cherry Tree: A Parable"

@@ -1,9 +1,6 @@
 --- 
 status: publish
 tags: 
-- Cacoethes Scribendi
-- cuba
-- kayak
 - pittsburgh
 - travel
 - websights

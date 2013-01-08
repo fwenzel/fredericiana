@@ -1,7 +1,6 @@
 --- 
 status: publish
 tags: 
-- Cacoethes Scribendi
 - mozilla
 published: true
 title: On Mutual Respect

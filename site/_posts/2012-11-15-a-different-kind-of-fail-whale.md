@@ -14,3 +14,4 @@ So how about this one? (For the curious: It's a graph of messages in a message q
 I, for one, think more graphs should be whale-shaped.
 
 <em>Thanks for the pic, JP!</em>
+

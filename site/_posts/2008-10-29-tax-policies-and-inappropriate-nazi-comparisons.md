@@ -2,8 +2,6 @@
 status: publish
 tags: 
 - barometer
-- Cacoethes Scribendi
-- nazi comparison
 - oregonstateuniversity
 - USA
 published: true

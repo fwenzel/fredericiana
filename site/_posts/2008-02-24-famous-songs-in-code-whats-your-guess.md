@@ -1,7 +1,6 @@
 --- 
 status: publish
 tags: 
-- Cacoethes Scribendi
 - fun
 - game
 - guess
