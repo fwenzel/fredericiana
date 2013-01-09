@@ -333,6 +333,18 @@ Full-Width Styles
   color: inherit;
 }
 
+.post article hr {
+    background: none;
+    height: 60px;
+}
+.post article hr:before {
+    content: '~ ~ ~';
+    display: block;
+    font-family: 'Goudy Bookletter 1911';
+    font-size: 40px;
+    text-align: center;
+}
+
 .post .credits {
   font-style: italic;
 }
