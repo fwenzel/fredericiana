@@ -1,7 +1,7 @@
 --- 
 status: publish
 tags: 
-- fiction
+- german
 - thoughts
 published: true
 title: Der Date Doktor

@@ -1,7 +1,6 @@
 --- 
 status: publish
 tags: 
-- fiction
 - USA
 published: true
 title: Die Erschaffung der Frau

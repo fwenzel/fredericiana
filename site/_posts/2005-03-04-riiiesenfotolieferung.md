@@ -1,7 +1,7 @@
 --- 
 status: publish
 tags: 
-- fiction
+- german
 published: true
 title: Riiiesenfotolieferung
 type: post

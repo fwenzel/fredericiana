@@ -1,7 +1,6 @@
 --- 
 status: publish
 tags: 
-- fiction
 - marketing
 - statistik
 - vorlesung
