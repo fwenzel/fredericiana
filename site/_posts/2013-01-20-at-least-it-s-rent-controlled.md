@@ -21,7 +21,7 @@ I'm [blogging at last once a week in 2013][challenge]. This is my entry to the [
 [trifecta]: http://www.trifectawritingchallenge.com/2013/01/trifextra-week-fifty-one.html
 [challenge]: /2013/01/07/writing-challenge-accepted/
 
-The challenge was to write 33 words about a one of three photos; I picked the one above.
+The challenge was to write 33 words about one of three photos; I picked the one above.
 
 *Image credit: ["Empire State Pigeon".][pigeon] [CC BY-SA-licensed][cc-by-sa] by *ZeroOne* on Flickr.*
 
