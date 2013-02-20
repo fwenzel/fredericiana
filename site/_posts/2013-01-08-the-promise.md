@@ -26,9 +26,9 @@ This is my first entry to the [Trifecta writing challenge][trifecta].
 This week's challenge was to write 33 to 333 words about:
 
 [INTENTION (noun)][mw-intention]
-[mw-intention]: http://www.merriam-webster.com/dictionary/intention
-**3 a: what one intends to do or bring about**<br>**b: the object for which a prayer, mass, or pious act is offered**
+[mw-intention]: http://www.merriam-webster.com/dictionary/intention
+**3 a: what one intends to do or bring about**<br>**b: the object for which a prayer, mass, or pious act is offered**
 
-I am planning on [blogging at last once a week in 2013][challenge]. In this context, this is one of my first-ever attempts at *writing [fiction][fiction]*. Let me know what you think of the story in the comments, but keep that in mind :)
+I am planning on [blogging at least once a week in 2013][challenge]. In this context, this is one of my first-ever attempts at *writing [fiction][fiction]*. Let me know what you think of the story in the comments, but keep that in mind :)
 
 [fiction]: /tag/fiction/
