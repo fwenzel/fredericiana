@@ -16,7 +16,7 @@ Yeah, I didn't think so.
 
 ---
 
-I'm [blogging at least once a week in 2013][challenge]. This is my entry to the ["Trifextra week 51"][trifecta] writing challenge.
+I'm [blogging about once a week in 2013][challenge]. This is my entry to the ["Trifextra week 51"][trifecta] writing challenge.
 
 [trifecta]: http://www.trifectawritingchallenge.com/2013/01/trifextra-week-fifty-one.html
 [challenge]: /2013/01/07/writing-challenge-accepted/

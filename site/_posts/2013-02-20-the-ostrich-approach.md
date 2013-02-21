@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Ostrich Approach to Social Policies
+title: The Ostrich Approach to Social Policy
 tags:
 - rant
 - politics

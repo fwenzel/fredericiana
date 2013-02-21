@@ -80,6 +80,6 @@ Keep that in mind when **you** build things (be it cars, space ships or software
 
 ---
 
-I'm [blogging at least once a week in 2013][challenge], on various topics. This is my post for week 5 of 2013. (My intent readers may have noticed I missed week 4: I know, I owe you one.)
+I'm [blogging about once a week in 2013][challenge], on various topics. This is my post for week 5 of 2013. (My intent readers may have noticed I missed week 4: I know, I owe you one.)
 
 [challenge]: /2013/01/07/writing-challenge-accepted/
