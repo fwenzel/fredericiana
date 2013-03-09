@@ -27,7 +27,7 @@ Another example: The [Go Box PDX](http://www.goboxpdx.com/) program provides **r
 
 ![Food carts in Portland, Oregon](/media/2013/foodcarts.jpg)
 
-However, this program even provides a **counter-incentive**, financially. You pay 12 dollars a year, then you receive a token that you exchange for a recyclable box, which after lunch, you drop off at a collection point where you get another token back. The detour to a dropoff location (unless your employer provides one) is added opportunity cost, a lost token or misplaced box sets you back another $12. Meanwhile, regular recyclable containers remain "free" (included in the sale price).
+However, this program even provides a **counter-incentive**, financially. You pay 12 dollars a year, then you receive a token that you exchange for a reusable box, which after lunch, you drop off at a collection point where you get another token back. The detour to a dropoff location (unless your employer provides one) is added opportunity cost, a lost token or misplaced box sets you back another $12. Meanwhile, regular containers remain "free" (included in the sale price).
 
 Ironically, there *is* a financial incentive for the *food cart owners* to participate: They receive $2 for every subscription sold. However, they do not at the same time agree to extend any incentive (like a discount) to the customer, or alternatively starting to charge, even only 10 cents, for their regular food containers.
 
@@ -37,13 +37,13 @@ Misaligned incentives mean, at best, that these programs are less successful tha
 
 Moral incentives are particularly weak if they are not easily observable by others (like my water bill) or if the social component is not well established (like the preferability of a reusable food container over a recyclable one).
 
-Weak moral incentives without a financial counterpart also expose serious doubt about the respective company's commitment to the "cause": They expect the customer to open their wallet for moral reasons, but the company refrains from putting their money where their mouth is.
+Weak moral incentives without a financial counterpart also cast serious doubt on the respective company's commitment to the "cause": They expect the customer to open their wallet for moral reasons, but the company refrains from putting their money where their mouth is.
 
 ## How can financial incentives become part of the mix?
 
 Reasonable policy changes have often proven successful at establishing financial incentives for desired behavior: City ordinances disallowing shopping bags to be handed out for free work wonders at making people remember their own bag or deciding if they really need two double bags for two small items.
 
-City hall is not the only place where such incentives are made: Take a look at Starbucks' new $1 reusable cup, which they pair with a $.10 discount per drink filling. The company is still the most likely party to [make a profit](http://www.forbes.com/sites/caroltice/2013/01/17/how-starbucks-will-make-millions-off-its-new-reusable-cup/) in this process, and it is still early to decide on the rate at which it reduces waste created by the coffee chain. The key, though, is that Starbucks understands consumer economics and realizes that the simple proposition of a refillable cup will not make the program a success by itself.
+City hall is not the only place where such incentives can come from: Take a look at Starbucks' new $1 reusable cup, which they pair with a $.10 discount per drink filling. The company is still the most likely party to [make a profit](http://www.forbes.com/sites/caroltice/2013/01/17/how-starbucks-will-make-millions-off-its-new-reusable-cup/) in this process, and it is still early to decide on the rate at which it reduces waste created by the coffee chain. The key, though, is that Starbucks understands consumer economics and realizes that the simple proposition of a refillable cup will not make the program a success by itself.
 
 ## Win-win-win
 
