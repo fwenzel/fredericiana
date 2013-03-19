@@ -3,6 +3,7 @@ layout: post
 title: Recruiters from Hell
 tags:
 - recruiting
+- mozilla
 ---
 
 I am grateful that my skill set is apparently a scarce commodity -- so much so that I routinely get emails from recruiters trying to get me interested into their respective employers / clients. So far so good. That's nice, even flattering at times.
