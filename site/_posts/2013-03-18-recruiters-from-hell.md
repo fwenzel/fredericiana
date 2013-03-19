@@ -73,7 +73,7 @@ Second, nice list of **benefits**, but more than boyscout-style field trips and 
 
 Also, how is a ping pong tournament a company benefit? But let's not get carried away…
 
-Third, and most importantly: **"Would you know anyone interested?"** -- this more than only borderline offensive. You email me, an engineering manager, and instead of asking if I am interested in the job, you nonchalantly ask me to recruit someone else for you? Sure. You *probably* mean *"are you or any of your friends interested"*, but why not write that? You don't walk into a butcher shop and ask if they happen to be able to refer you to a butcher, do you?
+Third, and most importantly: **"Would you know anyone interested?"** -- this is more than only borderline offensive. You email me, an engineering manager, and instead of asking if I am interested in the job, you nonchalantly ask me to recruit someone else for you? Sure. You *probably* mean *"are you or any of your friends interested"*, but why not write that? You wouldn't walk into a butcher shop and ask if they happen to be able to refer you to a butcher, would you?
 
 ## Benefits: Massive Growing Pains, for free!
 
