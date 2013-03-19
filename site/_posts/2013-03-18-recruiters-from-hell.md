@@ -89,7 +89,7 @@ Congratulations on your massive funding. I appreciate (I really do) that there i
 
 ![The investors stepped by and dropped this off, what to do?](/media/2013/money.jpg)
 
-But I am not convinced doubling in size a few months into the year is quite as much reason to brag about. This, in combination with your subject line about having too much money on your hands, does not fill me with confidence that you also thought about maintaining (or building) your company culture along with it. Turns out, as an engineering manager, I and my peers will have to clean up that mess. I can't wait!
+But I am not convinced doubling in size a few months into the year is quite as much reason to brag about. This, in combination with your subject line about having too much money on your hands, does not fill me with confidence that you also thought about maintaining (or building) your company culture along with it. Turns out, as an engineering manager, my peers and I will have to clean up that mess. I can't wait!
 
 (By the way, mathematically I might have enjoyed the sentence more if the employee count had truly gone up from 2<sup>7</sup> to 2<sup>8</sup>, but only for a minute. And, alas, you missed this opportunity to get some geek cred.)
 
