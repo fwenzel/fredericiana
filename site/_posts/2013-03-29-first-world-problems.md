@@ -34,7 +34,7 @@ However, the real danger I see here is when this results in proactive self-censo
 
 In a legal context, this is called a [chilling effect](http://en.wikipedia.org/wiki/Chilling_effect_%28law%29), when the threat of penalization caused by overly broad laws keeps someone from saying what they want to say. Unfortunately, social pressure like this can have the same effect.
 
-It is hard to quantify how much of a real issue that is, since by its very nature, self-censorship is virtually impossible to detect, unless the person considers not complaining about a real problem, then does it anyway and shares this fact with us. One example is a recent post by Linus Torvalds, complaining about the crazy setup of the US public school system and a misguided attempt of the Oregon State legislature to fix one aspect of it -- which Torvalds argues would actually make it worse.
+It is hard to quantify how much of a real issue that is, since by its very nature, self-censorship is virtually impossible to detect, unless the person considers not complaining about a real problem, then does it anyway and shares this fact with us. One example is a [recent post by Linus Torvalds](https://plus.google.com/+LinusTorvalds/posts/J1NCgKQi55X), complaining about the crazy setup of the US public school system and a misguided attempt of the Oregon State legislature to fix one aspect of it -- which Torvalds argues would actually make it worse.
 
 You don't have to be a parent to see concern for the education of one's children as a real and legitimate worry. Meanwhile, Torvalds is well known to not exactly be shy about his opinions.
 
