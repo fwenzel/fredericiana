@@ -4,6 +4,7 @@ title: The Ostrich Approach to Social Policy
 tags:
 - rant
 - politics
+- society
 ---
 
 Today I came across this political post on Facebook:
