@@ -3,6 +3,7 @@ layout: post
 title: Not Every Problem is a "First-World Problem", or Chilling Effects of Social Pressure
 tags:
 - society
+- mozilla
 ---
 
 There's a semi-funny [Internet meme](http://en.wikipedia.org/wiki/Internet_meme) called "first world problems", here is an example:
