@@ -7,7 +7,7 @@ tags:
 - number_format
 - osl
 - php
-- Tech Talk
+- tech
 - utf-8
 published: true
 title: "PHP: Multi-byte-safe number_format function"

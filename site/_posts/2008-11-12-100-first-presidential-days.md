@@ -1,8 +1,7 @@
 --- 
 status: publish
 tags: 
-- 100 days
-- president
+- politics
 - USA
 - websights
 published: true

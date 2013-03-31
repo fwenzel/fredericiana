@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - Oregon
-- Tech Talk
+- tech
 - USA
 published: true
 title: Memorable Software Week

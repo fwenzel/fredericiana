@@ -3,7 +3,7 @@ status: publish
 tags: 
 - Germany
 - t-mobile
-- Tech Talk
+- tech
 - twitter
 - USA
 published: true

@@ -3,7 +3,7 @@ status: publish
 tags: 
 - mozilla
 - osl
-- Tech Talk
+- tech
 - USA
 - websights
 published: true

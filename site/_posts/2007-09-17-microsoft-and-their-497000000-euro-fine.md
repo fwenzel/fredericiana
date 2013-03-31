@@ -3,7 +3,7 @@ status: publish
 tags: 
 - mozilla
 - osl
-- Tech Talk
+- tech
 - USA
 published: true
 title: Microsoft and Their 497,000,000 Euro Fine

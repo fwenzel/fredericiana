@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - osl
-- Tech Talk
+- tech
 published: true
 title: Don't use MySQL's password hash
 type: post

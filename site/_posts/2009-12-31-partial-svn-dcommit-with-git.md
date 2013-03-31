@@ -7,7 +7,7 @@ tags:
 - osl
 - subversion
 - svn
-- Tech Talk
+- tech
 published: true
 title: Partial 'svn dcommit' with git
 type: post

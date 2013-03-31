@@ -7,7 +7,7 @@ tags:
 - olpc
 - one laptop per child
 - osl
-- Tech Talk
+- tech
 - xo-1
 published: true
 title: OLPC Laptop Goes on Sale in Europe

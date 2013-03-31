@@ -11,7 +11,7 @@ tags:
 - mozilla
 - osl
 - stylish
-- Tech Talk
+- tech
 published: true
 title: On Hackability
 type: post

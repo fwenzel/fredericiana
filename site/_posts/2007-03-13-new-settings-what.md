@@ -3,7 +3,7 @@ status: publish
 tags: 
 - mozilla
 - osl
-- Tech Talk
+- tech
 published: true
 title: New Settings, what?
 type: post

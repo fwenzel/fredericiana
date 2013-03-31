@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - osl
-- Tech Talk
+- tech
 published: true
 title: Let's talk about password storage
 type: post

@@ -5,7 +5,7 @@ tags:
 - macbook pro
 - mozilla
 - osl
-- Tech Talk
+- tech
 published: true
 title: New MacBook Pro?
 type: post

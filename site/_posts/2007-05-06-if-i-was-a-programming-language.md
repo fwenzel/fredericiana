@@ -3,7 +3,7 @@ status: publish
 tags: 
 - mozilla
 - osl
-- Tech Talk
+- tech
 - websights
 published: true
 title: If I was a Programming Language...

@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - osl
-- Tech Talk
+- tech
 published: true
 title: Google Browser Sync Alternative?
 type: post

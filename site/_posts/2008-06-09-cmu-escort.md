@@ -2,9 +2,7 @@
 status: publish
 tags: 
 - cmu
-- escort
 - Pennsylvania
-- shuttle
 published: true
 title: CMU Escort
 type: post

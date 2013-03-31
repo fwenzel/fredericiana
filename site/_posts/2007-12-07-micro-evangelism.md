@@ -6,7 +6,7 @@ tags:
 - mozilla
 - osl
 - pool computers
-- Tech Talk
+- tech
 - university
 published: true
 title: Micro-Evangelism

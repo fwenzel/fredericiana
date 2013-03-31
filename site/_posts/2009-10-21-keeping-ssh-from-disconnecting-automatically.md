@@ -3,7 +3,7 @@ status: publish
 tags: 
 - ssh
 - sysadmin
-- Tech Talk
+- tech
 published: true
 title: Keeping SSH from disconnecting automatically
 type: post

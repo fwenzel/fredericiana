@@ -7,7 +7,7 @@ tags:
 - link
 - mozilla
 - osl
-- Tech Talk
+- tech
 published: true
 title: CSS Language Icons
 type: post

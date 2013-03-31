@@ -1,7 +1,7 @@
 --- 
 status: publish
 tags: 
-- Tech Talk
+- tech
 published: true
 title: Curiosity appeased
 type: post

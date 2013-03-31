@@ -3,7 +3,7 @@ status: publish
 tags: 
 - mozilla
 - osl
-- Tech Talk
+- tech
 published: true
 title: "Fun with ebtables: Routing IPTV packets on a home network"
 type: post

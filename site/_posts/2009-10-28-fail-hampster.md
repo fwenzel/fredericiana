@@ -3,7 +3,7 @@ status: publish
 tags: 
 - facebook
 - failpet
-- Tech Talk
+- tech
 - websights
 published: true
 title: Fail-Hampster?

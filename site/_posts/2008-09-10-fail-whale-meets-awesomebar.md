@@ -5,7 +5,7 @@ tags:
 - fail whale
 - firefox 3
 - mozilla
-- Tech Talk
+- tech
 - twitter
 - websights
 published: true

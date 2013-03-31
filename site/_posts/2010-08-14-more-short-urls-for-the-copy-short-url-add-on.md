@@ -4,7 +4,7 @@ tags:
 - addons
 - copyshorturl
 - mozilla
-- Tech Talk
+- tech
 published: true
 title: More Short URLs for the Copy Short URL Add-on
 type: post

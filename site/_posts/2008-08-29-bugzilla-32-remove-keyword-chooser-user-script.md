@@ -7,7 +7,7 @@ tags:
 - keyword
 - mozilla
 - tags
-- Tech Talk
+- tech
 - userscript
 published: true
 title: "Bugzilla 3.2: Remove Keyword Chooser User Script"

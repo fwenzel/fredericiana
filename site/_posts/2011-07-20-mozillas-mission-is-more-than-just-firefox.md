@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - mozilla
-- Tech Talk
+- tech
 published: true
 title: Mozilla's mission is more than just Firefox
 type: post

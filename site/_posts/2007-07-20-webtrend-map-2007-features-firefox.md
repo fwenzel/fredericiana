@@ -4,7 +4,7 @@ tags:
 - Germany
 - mozilla
 - osl
-- Tech Talk
+- tech
 - USA
 - websights
 published: true

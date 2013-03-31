@@ -4,7 +4,7 @@ tags:
 - DVD+RW
 - recordable
 - rewritable
-- Tech Talk
+- tech
 published: true
 title: RW as in "Really only writable once"
 type: post

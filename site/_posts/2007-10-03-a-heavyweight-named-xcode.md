@@ -3,7 +3,7 @@ status: publish
 tags: 
 - mozilla
 - osl
-- Tech Talk
+- tech
 published: true
 title: A Heavyweight Named XCode
 type: post

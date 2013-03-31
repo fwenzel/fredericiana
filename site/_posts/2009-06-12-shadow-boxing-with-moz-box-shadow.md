@@ -1,13 +1,12 @@
 --- 
 status: publish
 tags: 
-- 35days
 - css
 - feature
 - firefox
 - mozilla
 - osl
-- Tech Talk
+- tech
 - webdev
 published: true
 title: shadow boxing with -moz-box-shadow

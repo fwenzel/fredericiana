@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - Oregon
-- Tech Talk
+- tech
 published: true
 title: Firefox One launched
 type: post

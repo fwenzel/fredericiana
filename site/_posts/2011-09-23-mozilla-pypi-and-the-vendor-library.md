@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - mozilla
-- Tech Talk
+- tech
 published: true
 title: Mozilla, PyPI and the "vendor library"
 type: post

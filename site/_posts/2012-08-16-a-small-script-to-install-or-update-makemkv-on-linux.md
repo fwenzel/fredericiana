@@ -1,7 +1,7 @@
 --- 
 status: publish
 tags: 
-- Tech Talk
+- tech
 published: true
 title: A small script to install or update MakeMKV on Linux
 type: post

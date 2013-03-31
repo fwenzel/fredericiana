@@ -6,7 +6,7 @@ tags:
 - fredericiana
 - mozilla
 - osl
-- Tech Talk
+- tech
 published: true
 title: Firefox Credits
 type: post

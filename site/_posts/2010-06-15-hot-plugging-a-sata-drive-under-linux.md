@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - osl
-- Tech Talk
+- tech
 published: true
 title: Hot-plugging a SATA drive under Linux
 type: post

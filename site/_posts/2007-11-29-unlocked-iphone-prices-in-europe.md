@@ -5,7 +5,7 @@ tags:
 - Germany
 - iphone
 - mozilla
-- Tech Talk
+- tech
 published: true
 title: Unlocked iPhone Prices in Europe
 type: post

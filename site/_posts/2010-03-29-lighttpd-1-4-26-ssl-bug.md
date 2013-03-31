@@ -4,7 +4,7 @@ tags:
 - bug
 - lighttpd
 - ssl
-- Tech Talk
+- tech
 published: true
 title: lighttpd 1.4.26 SSL bug
 type: post

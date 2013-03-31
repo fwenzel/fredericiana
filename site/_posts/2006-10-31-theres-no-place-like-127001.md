@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - osl
-- Tech Talk
+- tech
 published: true
 title: There's no place like 127.0.0.1
 type: post

@@ -1,7 +1,7 @@
 --- 
 status: publish
 tags: 
-- Tech Talk
+- tech
 - u3
 - uninstall
 - usb stick

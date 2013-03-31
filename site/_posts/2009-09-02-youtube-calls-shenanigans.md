@@ -4,7 +4,7 @@ tags:
 - error
 - fail
 - shenanigans
-- Tech Talk
+- tech
 - youtube
 published: true
 title: YouTube Calls Shenanigans

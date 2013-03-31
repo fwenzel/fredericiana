@@ -1,11 +1,9 @@
 --- 
 status: publish
 tags: 
-- 10 days
-- barnes
-- noble
 - unsubscribe
 - USA
+- tech
 published: true
 title: Snail Mail
 type: post

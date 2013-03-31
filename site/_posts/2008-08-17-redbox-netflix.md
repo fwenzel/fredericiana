@@ -7,7 +7,7 @@ tags:
 - redbox
 - rental
 - scratch
-- Tech Talk
+- tech
 - USA
 published: true
 title: Redbox, Netflix

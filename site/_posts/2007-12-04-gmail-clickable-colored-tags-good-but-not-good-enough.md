@@ -5,7 +5,7 @@ tags:
 - improvement
 - mozilla
 - tags
-- Tech Talk
+- tech
 - websights
 published: true
 title: "GMail: Clickable, Colored Tags (Good But Not Good Enough)"

@@ -5,7 +5,7 @@ tags:
 - line
 - overlay
 - superbowl
-- Tech Talk
+- tech
 - television
 - USA
 published: true

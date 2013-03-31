@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - failpet
-- Tech Talk
+- tech
 - websights
 published: true
 title: "New Fail Pet: The Neatorama Neatokraken"

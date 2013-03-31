@@ -7,7 +7,7 @@ tags:
 - mozilla
 - osl
 - Pennsylvania
-- Tech Talk
+- tech
 published: true
 title: Bonjour, iPhone
 type: post

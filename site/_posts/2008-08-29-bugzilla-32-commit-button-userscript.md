@@ -6,7 +6,7 @@ tags:
 - commit
 - mozilla
 - osl
-- Tech Talk
+- tech
 - userscript
 - ux
 published: true

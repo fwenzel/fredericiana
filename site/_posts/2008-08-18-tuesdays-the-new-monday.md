@@ -5,7 +5,7 @@ tags:
 - fredericiana
 - netflix
 - shipping
-- Tech Talk
+- tech
 published: true
 title: Tuesday's the new Monday
 type: post

@@ -3,7 +3,7 @@ status: publish
 tags: 
 - mozilla
 - osl
-- Tech Talk
+- tech
 published: true
 title: Better web forms with HTML5 and Firefox 4
 type: post

@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - osl
-- Tech Talk
+- tech
 published: true
 title: "Could not create task or type of type: junit. -- or the worst error message ever"
 type: post

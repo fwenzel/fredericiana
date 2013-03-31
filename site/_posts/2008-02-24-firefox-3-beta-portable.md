@@ -5,7 +5,7 @@ tags:
 - firefox
 - mozilla
 - portable
-- Tech Talk
+- tech
 published: true
 title: Firefox 3 Beta, Portable
 type: post

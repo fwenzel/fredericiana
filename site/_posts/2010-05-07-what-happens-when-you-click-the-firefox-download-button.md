@@ -7,7 +7,7 @@ tags:
 - mirror
 - mozilla
 - osl
-- Tech Talk
+- tech
 published: true
 title: What happens when you click the Firefox download button?
 type: post

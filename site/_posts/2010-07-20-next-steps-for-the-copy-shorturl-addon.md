@@ -5,7 +5,7 @@ tags:
 - copyshorturl
 - mozilla
 - osl
-- Tech Talk
+- tech
 published: true
 title: Next Steps for the Copy ShortURL Addon
 type: post

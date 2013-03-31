@@ -7,7 +7,7 @@ tags:
 - netbsd
 - osl
 - sco
-- Tech Talk
+- tech
 - unix
 - xen
 published: true

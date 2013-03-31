@@ -3,7 +3,7 @@ status: publish
 tags: 
 - battle.net
 - failpet
-- Tech Talk
+- tech
 - websights
 published: true
 title: "battle.net: Fail-something"

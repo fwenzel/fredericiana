@@ -5,7 +5,7 @@ tags:
 - mozilla
 - osl
 - pirating
-- Tech Talk
+- tech
 - wal-mart
 - xkcd
 published: true

@@ -7,7 +7,7 @@ tags:
 - osl
 - osx
 - superdrive
-- Tech Talk
+- tech
 - update
 published: true
 title: Mac Superdrive Noise-B-Gone Update?

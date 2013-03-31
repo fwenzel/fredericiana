@@ -3,7 +3,7 @@ status: publish
 tags: 
 - avi
 - merge
-- Tech Talk
+- tech
 - video
 published: true
 title: Merging multiple AVI videos into one

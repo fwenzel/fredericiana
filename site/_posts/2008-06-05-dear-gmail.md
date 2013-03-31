@@ -6,7 +6,7 @@ tags:
 - gmail
 - mozilla
 - osl
-- Tech Talk
+- tech
 published: true
 title: Dear GMail,
 type: post

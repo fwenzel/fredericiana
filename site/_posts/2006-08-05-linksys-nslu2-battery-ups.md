@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - osl
-- Tech Talk
+- tech
 published: true
 title: "The Battery-buffered Slug: A UPS for the Linksys NSLU2"
 type: post

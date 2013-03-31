@@ -5,7 +5,7 @@ tags:
 - mozilla
 - osl
 - problems
-- Tech Talk
+- tech
 - trackpad
 published: true
 title: "First MacBook Pro Problems: Trackpad"

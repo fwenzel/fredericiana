@@ -6,7 +6,7 @@ tags:
 - jetpack
 - mozilla
 - osl
-- Tech Talk
+- tech
 published: true
 title: "\"Assign to me\" Jetpack"
 type: post

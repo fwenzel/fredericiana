@@ -6,7 +6,7 @@ tags:
 - mozilla
 - opera
 - osl
-- Tech Talk
+- tech
 - user agent
 published: true
 title: User Agent Fun With Opera

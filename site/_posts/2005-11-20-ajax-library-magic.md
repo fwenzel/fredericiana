@@ -1,7 +1,7 @@
 --- 
 status: publish
 tags: 
-- Tech Talk
+- tech
 - websights
 published: true
 title: AJAX library magic

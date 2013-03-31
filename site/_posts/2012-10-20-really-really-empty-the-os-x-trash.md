@@ -1,7 +1,7 @@
 ---
 status: publish
 tags:
-- Tech Talk
+- tech
 published: true
 title: Really, really empty the OS X Trash
 type: post

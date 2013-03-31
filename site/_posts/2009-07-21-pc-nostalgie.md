@@ -2,9 +2,7 @@
 status: publish
 tags: 
 - "10100111001"
-- "286"
 - nostalgia
-- tandon
 published: true
 title: PC-Nostalgie
 type: post

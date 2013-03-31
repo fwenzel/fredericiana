@@ -5,7 +5,7 @@ tags:
 - mozilla
 - osl
 - subversion
-- Tech Talk
+- tech
 published: true
 title: Using SVN repositories as git submodules
 type: post

@@ -5,7 +5,7 @@ tags:
 - fail
 - gmail
 - mozilla
-- Tech Talk
+- tech
 published: true
 title: GMail Notifier for Mac Fail
 type: post

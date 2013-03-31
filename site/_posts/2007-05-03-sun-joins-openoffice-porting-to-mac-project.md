@@ -3,7 +3,7 @@ status: publish
 tags: 
 - mozilla
 - osl
-- Tech Talk
+- tech
 published: true
 title: Sun joins OpenOffice "porting to Mac" project
 type: post

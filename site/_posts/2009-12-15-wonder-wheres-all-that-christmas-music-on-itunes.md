@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - fredericiana
-- Tech Talk
+- tech
 - USA
 published: true
 title: Wonder Where's All That Christmas Music on iTunes?

@@ -8,7 +8,7 @@ tags:
 - osl
 - plugin
 - subscribe to comments
-- Tech Talk
+- tech
 - wordpress
 published: true
 title: No "Subscribe to Comments" anymore

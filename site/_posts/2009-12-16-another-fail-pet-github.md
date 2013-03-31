@@ -6,7 +6,7 @@ tags:
 - failpet
 - github
 - ruby
-- Tech Talk
+- tech
 - unicorn
 - websights
 published: true

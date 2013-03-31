@@ -10,7 +10,7 @@ tags:
 - mozilla
 - opensource
 - osl
-- Tech Talk
+- tech
 - USA
 - webserver
 - websights

@@ -4,7 +4,7 @@ tags:
 - mozilla
 - osl
 - photo
-- Tech Talk
+- tech
 published: true
 title: Release, soon
 type: post

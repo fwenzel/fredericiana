@@ -3,7 +3,7 @@ status: publish
 tags: 
 - bit.ly
 - failpet
-- Tech Talk
+- tech
 - websights
 published: true
 title: "bit.ly: Fail-Pufferfish"

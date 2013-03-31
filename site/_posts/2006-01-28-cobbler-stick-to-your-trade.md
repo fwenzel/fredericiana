@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - Germany
-- Tech Talk
+- tech
 published: true
 title: Cobbler, stick to your trade.
 type: post

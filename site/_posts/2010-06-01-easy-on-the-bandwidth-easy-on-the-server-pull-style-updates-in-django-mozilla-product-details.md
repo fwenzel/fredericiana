@@ -5,7 +5,7 @@ tags:
 - library
 - mozilla
 - osl
-- Tech Talk
+- tech
 published: true
 title: "Easy on the bandwidth, easy on the server: Pull-style updates in django-mozilla-product-details"
 type: post

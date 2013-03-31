@@ -6,7 +6,7 @@ tags:
 - jetpack
 - mozilla
 - osl
-- Tech Talk
+- tech
 published: true
 title: Copy Short URL Add-on
 type: post

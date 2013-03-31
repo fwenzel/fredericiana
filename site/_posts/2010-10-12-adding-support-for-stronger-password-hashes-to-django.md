@@ -6,7 +6,7 @@ tags:
 - mozilla
 - osl
 - security
-- Tech Talk
+- tech
 published: true
 title: Adding Support for Stronger Password Hashes To Django
 type: post

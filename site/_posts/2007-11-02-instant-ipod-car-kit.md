@@ -6,7 +6,7 @@ tags:
 - Germany
 - improvised
 - ipod
-- Tech Talk
+- tech
 published: true
 title: Instant iPod Car Kit
 type: post

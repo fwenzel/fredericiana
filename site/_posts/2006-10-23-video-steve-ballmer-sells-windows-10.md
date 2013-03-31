@@ -1,7 +1,7 @@
 --- 
 status: publish
 tags: 
-- Tech Talk
+- tech
 - websights
 published: true
 title: "Video: Steve Ballmer sells Windows 1.0"

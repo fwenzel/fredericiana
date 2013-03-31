@@ -6,7 +6,7 @@ tags:
 - komodo
 - mozilla
 - osl
-- Tech Talk
+- tech
 - vim
 published: true
 title: Code Cosmetics With Komodo and vim

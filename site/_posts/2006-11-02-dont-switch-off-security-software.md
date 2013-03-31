@@ -3,7 +3,7 @@ status: publish
 tags: 
 - mozilla
 - osl
-- Tech Talk
+- tech
 - websights
 published: true
 title: Security Software and the Bad Idea of Having People Switch Them Off

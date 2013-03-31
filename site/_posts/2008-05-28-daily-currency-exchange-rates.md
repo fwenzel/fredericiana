@@ -3,7 +3,7 @@ status: publish
 tags: 
 - conversion
 - currency
-- Tech Talk
+- tech
 published: true
 title: Daily currency exchange rates
 type: post

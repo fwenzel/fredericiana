@@ -5,7 +5,7 @@ tags:
 - gmail
 - mozilla
 - osl
-- Tech Talk
+- tech
 published: true
 title: GMail Separates Auto-Generated From Other Contacts
 type: post

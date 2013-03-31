@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - osl
-- Tech Talk
+- tech
 published: true
 title: Blog Anti-Spam Plugins and why Akismet rocks
 type: post

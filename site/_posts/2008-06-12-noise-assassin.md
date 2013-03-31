@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - jawbone
-- Tech Talk
+- tech
 published: true
 title: Noise Assassin
 type: post

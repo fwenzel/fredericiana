@@ -1,7 +1,7 @@
 --- 
 status: publish
 tags: 
-- Tech Talk
+- tech
 published: true
 title: "IRC and McAfee: They love each other"
 type: post

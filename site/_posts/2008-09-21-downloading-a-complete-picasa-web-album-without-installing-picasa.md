@@ -8,7 +8,7 @@ tags:
 - mozilla
 - osl
 - picasa web
-- Tech Talk
+- tech
 published: true
 title: Downloading a Complete Picasa Web Album (Without Installing Picasa)
 type: post

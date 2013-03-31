@@ -5,7 +5,7 @@ tags:
 - leopard
 - mozilla
 - osx
-- Tech Talk
+- tech
 - trash
 published: true
 title: "OSX Leopard: Trash Always Full"

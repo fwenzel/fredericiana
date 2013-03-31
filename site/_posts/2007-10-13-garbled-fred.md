@@ -4,7 +4,7 @@ tags:
 - fredericiana
 - mozilla
 - osl
-- Tech Talk
+- tech
 - USA
 published: true
 title: Garbled Fred

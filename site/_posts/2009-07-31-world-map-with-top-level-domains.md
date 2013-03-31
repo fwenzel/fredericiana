@@ -4,7 +4,7 @@ tags:
 - internet
 - map
 - mozilla
-- Tech Talk
+- tech
 - tld
 - websights
 - world

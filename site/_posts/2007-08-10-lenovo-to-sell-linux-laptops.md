@@ -3,7 +3,7 @@ status: publish
 tags: 
 - mozilla
 - osl
-- Tech Talk
+- tech
 - websights
 published: true
 title: Lenovo to sell Linux Laptops

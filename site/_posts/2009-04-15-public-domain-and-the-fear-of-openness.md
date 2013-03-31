@@ -8,7 +8,7 @@ tags:
 - lecture
 - mozilla
 - osl
-- Tech Talk
+- tech
 published: true
 title: "\"We have 20/20 Downside Vision\": Public Domain and the Fear of Openness"
 type: post

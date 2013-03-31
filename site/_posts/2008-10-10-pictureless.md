@@ -6,7 +6,7 @@ tags:
 - images
 - mozilla
 - osl
-- Tech Talk
+- tech
 published: true
 title: Pictureless
 type: post

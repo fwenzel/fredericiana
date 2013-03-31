@@ -5,7 +5,7 @@ tags:
 - linux
 - mozilla
 - osl
-- Tech Talk
+- tech
 - udev
 published: true
 title: udevinfo on Ubuntu 10.4 "Lucid"

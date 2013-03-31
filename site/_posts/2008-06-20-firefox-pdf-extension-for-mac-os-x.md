@@ -7,7 +7,7 @@ tags:
 - osl
 - pdf
 - pdfkit
-- Tech Talk
+- tech
 published: true
 title: Firefox PDF Extension for Mac OS X
 type: post

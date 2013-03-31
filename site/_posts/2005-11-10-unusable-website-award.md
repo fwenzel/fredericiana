@@ -1,7 +1,7 @@
 --- 
 status: publish
 tags: 
-- Tech Talk
+- tech
 - USA
 published: true
 title: Unusable Website Award?

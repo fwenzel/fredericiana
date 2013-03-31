@@ -5,7 +5,7 @@ tags:
 - mozilla
 - odf
 - pdf
-- Tech Talk
+- tech
 published: true
 title: PDF Becomes ISO Standard
 type: post

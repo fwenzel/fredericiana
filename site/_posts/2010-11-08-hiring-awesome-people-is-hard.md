@@ -4,7 +4,7 @@ tags:
 - hiring
 - jobs
 - mozilla
-- Tech Talk
+- tech
 published: true
 title: Hiring Awesome People is Hard
 type: post

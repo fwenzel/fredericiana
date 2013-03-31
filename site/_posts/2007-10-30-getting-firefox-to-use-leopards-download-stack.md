@@ -7,7 +7,7 @@ tags:
 - mozilla
 - osx
 - stack
-- Tech Talk
+- tech
 published: true
 title: Getting Firefox to Use Leopard's Download Stack
 type: post

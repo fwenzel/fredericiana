@@ -5,7 +5,7 @@ tags:
 - gcal
 - Germany
 - mozilla
-- Tech Talk
+- tech
 - time
 - USA
 published: true

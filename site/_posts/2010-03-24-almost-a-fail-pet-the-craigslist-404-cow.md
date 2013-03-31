@@ -3,7 +3,7 @@ status: publish
 tags: 
 - craigslist
 - failpet
-- Tech Talk
+- tech
 - websights
 published: true
 title: "Almost a Fail Pet: The Craigslist \"404 Cow\""

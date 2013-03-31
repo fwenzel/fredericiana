@@ -4,7 +4,7 @@ tags:
 - apple
 - leopard
 - mozilla
-- Tech Talk
+- tech
 - x11.app
 - xterm
 published: true

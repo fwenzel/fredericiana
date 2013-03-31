@@ -6,7 +6,7 @@ tags:
 - revert
 - subversion
 - svn
-- Tech Talk
+- tech
 published: true
 title: Reverting All Local Changes in SVN
 type: post

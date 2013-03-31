@@ -4,7 +4,7 @@ tags:
 - Germany
 - mozilla
 - osl
-- Tech Talk
+- tech
 published: true
 title: Ipernity yea, Flickr nay?
 type: post

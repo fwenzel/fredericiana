@@ -5,7 +5,7 @@ tags:
 - mozilla
 - osl
 - spam
-- Tech Talk
+- tech
 published: true
 title: Annoying Browser-Related Blog Spam
 type: post

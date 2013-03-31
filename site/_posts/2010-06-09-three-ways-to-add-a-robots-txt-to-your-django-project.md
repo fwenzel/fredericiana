@@ -6,7 +6,7 @@ tags:
 - osl
 - robots
 - seo
-- Tech Talk
+- tech
 published: true
 title: Three ways to add a robots.txt to your Django project
 type: post

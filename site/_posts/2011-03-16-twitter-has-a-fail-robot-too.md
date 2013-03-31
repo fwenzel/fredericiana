@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - failpet
-- Tech Talk
+- tech
 - websights
 published: true
 title: Twitter has a fail-robot, too

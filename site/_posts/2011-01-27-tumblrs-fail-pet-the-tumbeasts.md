@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - failpet
-- Tech Talk
+- tech
 - tumblr
 - websights
 published: true

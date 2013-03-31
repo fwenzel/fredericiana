@@ -6,7 +6,7 @@ tags:
 - javascript
 - mozilla
 - osl
-- Tech Talk
+- tech
 - websights
 published: true
 title: Facebook Minus JavaScript

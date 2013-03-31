@@ -1,10 +1,9 @@
 --- 
 status: publish
 tags: 
-- "\"stanley cup\""
 - Pennsylvania
-- pens
 - pittsburgh
+- sports
 published: true
 title: Too Bad, Pens!
 type: post

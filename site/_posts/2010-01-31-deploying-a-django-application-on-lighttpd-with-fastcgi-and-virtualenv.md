@@ -7,7 +7,7 @@ tags:
 - mozilla
 - osl
 - python
-- Tech Talk
+- tech
 - virtualenv
 published: true
 title: Deploying a Django Application on Lighttpd with fastcgi and virtualenv

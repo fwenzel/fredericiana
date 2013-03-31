@@ -3,7 +3,7 @@ status: publish
 tags: 
 - mozilla
 - osl
-- Tech Talk
+- tech
 - websights
 published: true
 title: MozillaZine KB Search Among Most Popular Google CSEs

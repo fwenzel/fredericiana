@@ -3,7 +3,7 @@ status: publish
 tags: 
 - Oregon
 - osl
-- Tech Talk
+- tech
 published: true
 title: Managing Young Sys Admins At Oregon State Open Source Lab
 type: post

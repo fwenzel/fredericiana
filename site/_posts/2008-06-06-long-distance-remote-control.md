@@ -6,7 +6,7 @@ tags:
 - nerd
 - openvpn
 - remote control
-- Tech Talk
+- tech
 published: true
 title: Long Distance Remote Control
 type: post

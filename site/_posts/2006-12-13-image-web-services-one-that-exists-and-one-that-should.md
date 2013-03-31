@@ -4,7 +4,7 @@ tags:
 - fredericiana
 - mozilla
 - osl
-- Tech Talk
+- tech
 published: true
 title: "Image Web Services: One That Exists and One That Should"
 type: post

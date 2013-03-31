@@ -7,7 +7,7 @@ tags:
 - mozilla
 - osl
 - osx
-- Tech Talk
+- tech
 - unresponsive
 published: true
 title: Apple (Allegedly) Fixes Leopard Keyboard Bug

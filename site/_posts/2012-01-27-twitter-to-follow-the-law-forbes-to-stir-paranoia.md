@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - Germany
-- Tech Talk
+- tech
 published: true
 title: Twitter to Follow the Law, Forbes to Stir Paranoia
 type: post

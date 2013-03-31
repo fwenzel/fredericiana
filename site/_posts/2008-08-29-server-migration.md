@@ -6,7 +6,7 @@ tags:
 - mozilla
 - osl
 - server
-- Tech Talk
+- tech
 - virtual machine
 published: true
 title: Server Migration

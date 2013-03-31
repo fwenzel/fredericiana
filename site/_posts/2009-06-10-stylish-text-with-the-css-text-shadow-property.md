@@ -7,7 +7,7 @@ tags:
 - firefox
 - mozilla
 - osl
-- Tech Talk
+- tech
 - webdev
 published: true
 title: stylish text with the CSS text-shadow property

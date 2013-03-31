@@ -6,7 +6,7 @@ tags:
 - open
 - osl
 - standards
-- Tech Talk
+- tech
 published: true
 title: Everything but "open"
 type: post

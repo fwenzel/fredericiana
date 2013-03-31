@@ -7,7 +7,7 @@ tags:
 - mozilla
 - osl
 - spam
-- Tech Talk
+- tech
 published: true
 title: Hand-Crafted Blog Spam
 type: post

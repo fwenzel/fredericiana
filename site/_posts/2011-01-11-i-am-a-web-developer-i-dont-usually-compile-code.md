@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - mozilla
-- Tech Talk
+- tech
 published: true
 title: I am a Web Developer. I don't usually compile code.
 type: post

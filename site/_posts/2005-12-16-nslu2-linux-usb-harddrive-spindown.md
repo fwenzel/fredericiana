@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - osl
-- Tech Talk
+- tech
 published: true
 title: NSLU2-Linux USB harddrive spindown
 type: post

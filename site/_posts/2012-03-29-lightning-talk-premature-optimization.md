@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - mozilla
-- Tech Talk
+- tech
 published: true
 title: "Lightning Talk: Premature Optimization"
 type: post

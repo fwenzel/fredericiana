@@ -1,7 +1,7 @@
 --- 
 status: publish
 tags: 
-- Tech Talk
+- tech
 published: true
 title: SCP vs. SFTP?
 type: post

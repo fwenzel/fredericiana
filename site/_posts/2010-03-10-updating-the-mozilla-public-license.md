@@ -5,7 +5,7 @@ tags:
 - mozilla
 - mpl
 - osl
-- Tech Talk
+- tech
 published: true
 title: Updating the Mozilla Public License
 type: post

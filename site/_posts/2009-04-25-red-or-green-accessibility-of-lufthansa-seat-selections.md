@@ -5,7 +5,7 @@ tags:
 - deuteranomaly
 - mozilla
 - osl
-- Tech Talk
+- tech
 - user experience
 published: true
 title: Red or Green? Accessibility of Lufthansa Seat Selections

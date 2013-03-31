@@ -5,7 +5,7 @@ tags:
 - mozilla
 - osl
 - python
-- Tech Talk
+- tech
 - things
 - to-do
 published: true

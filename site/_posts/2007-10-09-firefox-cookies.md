@@ -4,7 +4,7 @@ tags:
 - mozilla
 - osl
 - photo
-- Tech Talk
+- tech
 - websights
 published: true
 title: Firefox Cookies

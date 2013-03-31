@@ -4,7 +4,7 @@ tags:
 - Karlsruhe
 - mozilla
 - osl
-- Tech Talk
+- tech
 - USA
 - websights
 published: true

@@ -7,7 +7,7 @@ tags:
 - mozilla
 - nosql
 - osl
-- Tech Talk
+- tech
 - web applications
 published: true
 title: MongoDB / NoSQL for Web Applications

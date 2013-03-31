@@ -6,7 +6,7 @@ tags:
 - obvious
 - orbitz
 - sherlock
-- Tech Talk
+- tech
 - websights
 published: true
 title: "\"Elementary, Orbitz\""

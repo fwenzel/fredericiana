@@ -4,7 +4,7 @@ tags:
 - firefox
 - mozilla
 - osl
-- Tech Talk
+- tech
 - thunderbird
 - wallpaper
 - websights

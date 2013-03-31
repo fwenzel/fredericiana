@@ -4,7 +4,7 @@ tags:
 - firefox
 - mozilla
 - performance
-- Tech Talk
+- tech
 - video
 - websights
 published: true

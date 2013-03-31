@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - mozilla
-- Tech Talk
+- tech
 published: true
 title: "Coming up: CakePHP newbie-madness and possible insights"
 type: post

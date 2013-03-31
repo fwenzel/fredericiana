@@ -3,7 +3,7 @@ status: publish
 tags: 
 - mozilla
 - osl
-- Tech Talk
+- tech
 published: true
 title: "CakePHP: Delete Cached Models on Database Change"
 type: post

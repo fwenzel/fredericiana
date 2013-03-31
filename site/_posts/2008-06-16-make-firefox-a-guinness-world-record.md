@@ -6,7 +6,7 @@ tags:
 - guinness
 - mozilla
 - osl
-- Tech Talk
+- tech
 - websights
 - world record
 published: true

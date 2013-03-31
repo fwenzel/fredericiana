@@ -4,7 +4,7 @@ tags:
 - mozilla
 - osl
 - subversion svn move bulk
-- Tech Talk
+- tech
 published: true
 title: Subversion bulk move
 type: post

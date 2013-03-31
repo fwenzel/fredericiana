@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - failpet
-- Tech Talk
+- tech
 - websights
 - zappos
 published: true

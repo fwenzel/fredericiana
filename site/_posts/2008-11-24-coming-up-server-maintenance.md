@@ -4,7 +4,7 @@ tags:
 - fredericiana
 - maintenance
 - server
-- Tech Talk
+- tech
 published: true
 title: "Coming Up: Server Maintenance"
 type: post

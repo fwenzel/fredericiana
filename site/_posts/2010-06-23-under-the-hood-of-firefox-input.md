@@ -7,7 +7,7 @@ tags:
 - input
 - mozilla
 - osl
-- Tech Talk
+- tech
 published: true
 title: Under the Hood of Firefox Input
 type: post

@@ -1,7 +1,7 @@
 --- 
 status: publish
 tags: 
-- Tech Talk
+- tech
 published: true
 title: FAT32 sucks. Use ext2 instead.
 type: post

@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - fail
-- Tech Talk
+- tech
 - twitter
 - websights
 published: true

@@ -4,7 +4,7 @@ tags:
 - filesharing
 - mozilla
 - p2p
-- Tech Talk
+- tech
 - tv
 - video
 - websights

@@ -4,7 +4,7 @@ tags:
 - gmail
 - imap
 - mozilla
-- Tech Talk
+- tech
 - websights
 published: true
 title: GMail introduces IMAP

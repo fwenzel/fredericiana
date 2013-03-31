@@ -6,7 +6,7 @@ tags:
 - media
 - mozilla
 - osl
-- Tech Talk
+- tech
 - tv
 published: true
 title: Hulu to go International. Good for the Customer? Maybe.

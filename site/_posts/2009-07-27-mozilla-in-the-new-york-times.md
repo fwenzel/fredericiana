@@ -5,7 +5,7 @@ tags:
 - nytimes
 - osl
 - press
-- Tech Talk
+- tech
 published: true
 title: Mozilla in the New York Times
 type: post

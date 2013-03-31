@@ -3,7 +3,7 @@ status: publish
 tags: 
 - facebook
 - german
-- Tech Talk
+- tech
 - websights
 published: true
 title: "\"Welcome to Facebook in German\""

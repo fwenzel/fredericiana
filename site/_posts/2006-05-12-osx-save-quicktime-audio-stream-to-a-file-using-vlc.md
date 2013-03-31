@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - osl
-- Tech Talk
+- tech
 published: true
 title: "OSX: Save Quicktime audio stream to a file using VLC"
 type: post

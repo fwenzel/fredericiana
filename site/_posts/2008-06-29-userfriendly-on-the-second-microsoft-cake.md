@@ -6,7 +6,7 @@ tags:
 - microsoft
 - mozilla
 - osl
-- Tech Talk
+- tech
 - userfriendly
 - websights
 published: true

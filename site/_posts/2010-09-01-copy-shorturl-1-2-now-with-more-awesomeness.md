@@ -4,7 +4,7 @@ tags:
 - addons
 - copyshorturl
 - mozilla
-- Tech Talk
+- tech
 published: true
 title: Copy ShortURL 1.2 now with more awesomeness
 type: post

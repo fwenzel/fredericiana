@@ -6,7 +6,7 @@ tags:
 - hertz
 - Karlsruhe
 - mcdonalds
-- Tech Talk
+- tech
 - USA
 - websights
 published: true

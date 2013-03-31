@@ -3,7 +3,7 @@ status: publish
 tags: 
 - mozilla
 - Project 365
-- Tech Talk
+- tech
 published: true
 title: Day 264 - A Firefox-Themed QR Code
 type: post

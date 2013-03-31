@@ -6,7 +6,7 @@ tags:
 - mozilla
 - osl
 - statistics
-- Tech Talk
+- tech
 - usage
 published: true
 title: 54 Percent Firefox Users

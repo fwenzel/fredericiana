@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - osl
-- Tech Talk
+- tech
 published: true
 title: "Skype Beta 2.5: Still adding features, still not fixing bugs"
 type: post

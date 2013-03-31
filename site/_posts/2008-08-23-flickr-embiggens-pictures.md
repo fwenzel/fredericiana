@@ -6,7 +6,7 @@ tags:
 - flickr
 - simpsons
 - slideshow
-- Tech Talk
+- tech
 - websights
 published: true
 title: Flickr Embiggens Pictures

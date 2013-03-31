@@ -4,7 +4,7 @@ tags:
 - flash
 - html5
 - mozilla
-- Tech Talk
+- tech
 published: true
 title: Scribd to Ditch Flash in Favor of HTML5
 type: post

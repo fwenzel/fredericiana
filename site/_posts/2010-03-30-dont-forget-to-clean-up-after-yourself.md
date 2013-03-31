@@ -6,7 +6,7 @@ tags:
 - mozilla
 - osl
 - python
-- Tech Talk
+- tech
 - tests
 published: true
 title: Don't Forget to Clean Up After Yourself

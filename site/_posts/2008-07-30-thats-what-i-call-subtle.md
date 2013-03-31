@@ -3,7 +3,7 @@ status: publish
 tags: 
 - fredericiana
 - spammer
-- Tech Talk
+- tech
 - twitter
 published: true
 title: That's What I Call Subtle

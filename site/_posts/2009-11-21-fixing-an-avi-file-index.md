@@ -4,7 +4,7 @@ tags:
 - avi
 - index
 - MPlayer
-- Tech Talk
+- tech
 published: true
 title: Fixing an AVI File Index
 type: post

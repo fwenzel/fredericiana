@@ -4,7 +4,7 @@ tags:
 - git
 - mozilla
 - osl
-- Tech Talk
+- tech
 - version control
 published: true
 title: Adding Empty Directories to git-svn

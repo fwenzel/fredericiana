@@ -4,7 +4,7 @@ tags:
 - css
 - fonts
 - mozilla
-- Tech Talk
+- tech
 published: true
 title: Welcome to my blog, @font-face
 type: post

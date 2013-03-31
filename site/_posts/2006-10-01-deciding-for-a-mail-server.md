@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - osl
-- Tech Talk
+- tech
 published: true
 title: Moving Moving Moving, and Deciding For an MTA
 type: post

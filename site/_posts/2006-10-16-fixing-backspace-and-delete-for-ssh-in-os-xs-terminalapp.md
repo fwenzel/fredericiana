@@ -3,7 +3,7 @@ status: publish
 tags: 
 - mozilla
 - osl
-- Tech Talk
+- tech
 published: true
 title: Fixing Backspace and Delete for SSH in OS X's Terminal.app
 type: post

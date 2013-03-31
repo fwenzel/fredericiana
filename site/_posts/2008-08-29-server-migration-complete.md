@@ -8,7 +8,7 @@ tags:
 - mozilla
 - osl
 - server
-- Tech Talk
+- tech
 published: true
 title: Server Migration Complete
 type: post

@@ -8,7 +8,7 @@ tags:
 - osl
 - photoshop
 - resizing
-- Tech Talk
+- tech
 published: true
 title: Firefox Needs Content-Aware Image Resizing
 type: post

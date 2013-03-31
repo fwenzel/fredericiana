@@ -4,7 +4,7 @@ tags:
 - failpet
 - mozilla
 - osl
-- Tech Talk
+- tech
 - websights
 published: true
 title: Fail Pets Research in UX Magazine

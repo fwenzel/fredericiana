@@ -4,7 +4,7 @@ tags:
 - microsoft
 - mozilla
 - patent
-- Tech Talk
+- tech
 published: true
 title: Microsoft's "Absolutely Outdated" Biometric Employee Monitor
 type: post

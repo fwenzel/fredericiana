@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - osl
-- Tech Talk
+- tech
 - websights
 published: true
 title: "Admin's Nightmare: the Soundtrack"

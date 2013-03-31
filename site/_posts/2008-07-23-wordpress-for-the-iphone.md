@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - iphone
-- Tech Talk
+- tech
 - wordpress
 published: true
 title: Wordpress for the iphone

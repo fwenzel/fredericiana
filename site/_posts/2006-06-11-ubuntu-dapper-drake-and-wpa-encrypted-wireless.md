@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - osl
-- Tech Talk
+- tech
 published: true
 title: Ubuntu Dapper Drake and WPA-Encrypted Wireless
 type: post

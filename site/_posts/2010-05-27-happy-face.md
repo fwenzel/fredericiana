@@ -3,7 +3,7 @@ status: publish
 tags: 
 - development
 - mozilla
-- Tech Talk
+- tech
 published: true
 title: Happy Face
 type: post

@@ -7,7 +7,7 @@ tags:
 - osl
 - osx
 - sleep
-- Tech Talk
+- tech
 - zombie
 published: true
 title: Zombie-MacBook Wakes Itself up from Sleep

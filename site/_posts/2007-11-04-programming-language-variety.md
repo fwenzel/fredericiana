@@ -5,7 +5,7 @@ tags:
 - languages
 - mozilla
 - programming
-- Tech Talk
+- tech
 published: true
 title: Programming Language Variety
 type: post

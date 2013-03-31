@@ -8,7 +8,7 @@ tags:
 - osl
 - pseudocode
 - song
-- Tech Talk
+- tech
 - titles
 published: true
 title: Famous Songs in Code (What's Your Guess?)

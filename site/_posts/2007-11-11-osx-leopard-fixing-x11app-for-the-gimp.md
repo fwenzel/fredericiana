@@ -4,7 +4,7 @@ tags:
 - apple
 - gimp
 - mozilla
-- Tech Talk
+- tech
 - x11.app
 published: true
 title: "OSX Leopard: Fixing X11.app for the Gimp"

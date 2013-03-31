@@ -7,7 +7,7 @@ tags:
 - microsoft
 - mozilla
 - pet
-- Tech Talk
+- tech
 - twitter
 - wikipedia
 published: true

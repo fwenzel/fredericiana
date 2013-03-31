@@ -5,7 +5,7 @@ tags:
 - imap
 - mail.app
 - mozilla
-- Tech Talk
+- tech
 - thunderbird
 - trash
 published: true

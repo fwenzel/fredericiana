@@ -2,7 +2,7 @@
 status: publish
 tags: 
 - Project 365
-- Tech Talk
+- tech
 published: true
 title: Day 85 - Minecraft
 type: post

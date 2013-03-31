@@ -5,7 +5,7 @@ tags:
 - desperation
 - google
 - seo
-- Tech Talk
+- tech
 - twitter
 - websights
 published: true

@@ -6,7 +6,7 @@ tags:
 - fx35
 - mozilla
 - osl
-- Tech Talk
+- tech
 published: true
 title: Firefox 3.5 Released
 type: post

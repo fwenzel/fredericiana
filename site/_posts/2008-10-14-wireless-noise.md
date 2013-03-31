@@ -11,7 +11,7 @@ tags:
 - network
 - osl
 - Pennsylvania
-- Tech Talk
+- tech
 - wireless
 published: true
 title: Wireless Noise

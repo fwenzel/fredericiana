@@ -5,7 +5,7 @@ tags:
 - dorm
 - filter
 - france
-- Tech Talk
+- tech
 published: true
 title: "French Dorm: Craigslist is Evil"
 type: post

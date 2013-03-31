@@ -7,7 +7,7 @@ tags:
 - osl
 - plugin
 - subscribe to comments
-- Tech Talk
+- tech
 - wordpress
 published: true
 title: "Subscribe to Comments: The King is Dead, Long Live the King!"

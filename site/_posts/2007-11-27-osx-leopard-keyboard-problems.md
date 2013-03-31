@@ -5,7 +5,7 @@ tags:
 - leopard
 - mozilla
 - osx
-- Tech Talk
+- tech
 - unresponsive
 published: true
 title: "OSX Leopard: Keyboard Problems"
