@@ -1,6 +1,6 @@
 ---
 layout: post
-title: imagetwist, and add-on rotating images according to their EXIF data
+title: imagetwist, an add-on rotating images according to their EXIF data
 tags:
 - tech
 - mozilla
