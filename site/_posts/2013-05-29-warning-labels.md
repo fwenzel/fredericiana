@@ -14,7 +14,7 @@ Hailing from a country where not every purchase comes wrapped in two layers of f
 
 Besides single-handedly funding the "unremovable, industry-grade adhesives" industry (hello, job motor), these handy walls of text also keep me from all sorts of (apparently: foolish) things I would otherwise do quite intuitively:
 
-* If I didn't know my car caused cancer (in the State of California, anyway), I would finally put forgo that nasty beef jerky and snack on yummy car dashboard chips instead. After all, they put it within arm's reach for a reason!
+* If I didn't know my car caused cancer (in the State of California, anyway), I would finally forgo that nasty beef jerky and snack on yummy car dashboard chips instead. After all, they put it within arm's reach for a reason!
 * I recently plugged in an extension cord and took the business end into the bath tub with me. Shower gel is for chumps, real men burn that grime off! But no, there was a warning label stopping me at the last second. Boring ol' soap it was.
 * I dig [Amazon Prime][prime], I really do. So [Good Guy Greg][greg] that I am, I collected a bunch of plastic bags from my most recent deliveries and wanted to hand one out to every infant in the neighborhood. But nope! Foiled again. Turns out, *this bag is not a toy*. Who knew?
 * Pillows are flammable? Drat! Ever since that stupid asbestos ban, we didn't only lose [milestones of socialist architecture][palast] but also the ability to take a seat comfortably on top of an open flame. These guv'mint bureaucrats are out of control!
