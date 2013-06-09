@@ -5,10 +5,7 @@ based on Slate by Jason Costello
 
 @import url(pygment_trac.css);
 
-/*******************************************************************************
-MeyerWeb Reset
-*******************************************************************************/
-
+/* Reset */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -69,7 +66,7 @@ body {
   color: #373737;
   background: #004A63;
   font-size: 16px;
-  font-family: 'Droid Serif', Calibri, Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
@@ -77,9 +74,8 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: normal;
-  color:#222222;
+  color: #222;
   font-family: 'Goudy Bookletter 1911', Georgia, times, serif;
-  /*letter-spacing: -1px;*/
 }
 
 h1 {
@@ -157,7 +153,7 @@ em {
   font-style: italic;
 }
 
-strong {
+b, strong {
   font-weight: bold;
 }
 
@@ -322,7 +318,7 @@ Full-Width Styles
 }
 
 #main_content_wrap {
-  background: #f2f2f2;
+  background: #fcfcfc;
   border-top: 1px solid #111;
   border-bottom: 1px solid #111;
   min-height: 500px;
@@ -336,6 +332,10 @@ Full-Width Styles
 
 #main_content h1 a {
   color: inherit;
+}
+
+.post {
+  line-height: 1.8;
 }
 
 .post article hr {
