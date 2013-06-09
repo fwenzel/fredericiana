@@ -417,9 +417,9 @@ li.archive_list {
   padding-left: 22px;
   margin-right: 1em;
 }
-.index #elsewhere .flickr { background-position: 0 0; width: 16px; height: 16px; }
-.index #elsewhere .github { background-position: 0 -66px; width: 16px; height: 16px; }
-.index #elsewhere .twitter { background-position: 0 -132px; width: 16px; height: 16px; }
+.index #elsewhere .flickr { background-position: 0 3px; width: 16px; height: 16px; }
+.index #elsewhere .github { background-position: 0 -63px; width: 16px; height: 16px; }
+.index #elsewhere .twitter { background-position: 0 -129px; width: 16px; height: 16px; }
 
 .gist pre {
   width: auto;
