@@ -328,6 +328,7 @@ Full-Width Styles
 #main_content {
   float: left;
   max-width: 575px;
+  width: 100%;
 }
 
 #main_content h1 a {
@@ -416,6 +417,10 @@ li.archive_list {
   line-height: 16px;
   padding-left: 22px;
   margin-right: 1em;
+}
+.index #elsewhere .wenzelio {
+  background: none;
+  padding-left: 0;
 }
 .index #elsewhere .flickr { background-position: 0 3px; width: 16px; height: 16px; }
 .index #elsewhere .github { background-position: 0 -63px; width: 16px; height: 16px; }
