@@ -1,7 +1,7 @@
 ---
 layout: post
-title: %title
 tags:
 - uncategorized
+title: %title
 ---
 
