@@ -430,6 +430,10 @@ li.archive_list {
   width: auto;
 }
 
+.footnotes li p {
+  display: inline;
+}
+
 #sidebar {
   float: right;
   width: 200px;

@@ -4,6 +4,8 @@ url: http://fredericiana.com
 
 pygments: true
 markdown: rdiscount
+rdiscount:
+  extensions: [ footnotes ]
 permalink: /:year/:month/:day/:title/
 paginate: 10
 
