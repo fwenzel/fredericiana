@@ -76,7 +76,7 @@ module Jekyll
       else
         pages = Pager.calculate_pages(all_posts, site.config['paginate'].to_i)
         all_posts.each_slice(@site.config['paginate']).with_index do |slice, i|
-          pager = Pager.new(site.config, i + 1, all_posts, pages)
+          pager = Pager.new(site, i + 1, all_posts, pages)
 
           newpage = pageclass.new(site, slice, *pageargs)
           newpage.add_pager(pager)

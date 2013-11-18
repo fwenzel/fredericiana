@@ -10,7 +10,7 @@ task :default => [:devserver]
 desc "Run Jekyll development server"
 task :devserver do
     Dir.chdir("#{CWD}/site") do
-        sh "jekyll --server --auto --limit_posts 10 --future"
+        sh "jekyll serve --watch --limit_posts 10 --future --trace"
     end
 end
 
@@ -18,7 +18,7 @@ end
 desc "Generate the entire blog output directory"
 task :generate do
     Dir.chdir("#{CWD}/site") do
-        sh "jekyll"
+        sh "jekyll build"
     end
 end
 

@@ -4,7 +4,8 @@ This is the Jekyll-based, 2012 redesign of my blog *fredericiana.com*.
 
 Requirements
 ------------
-* jekyll (gem install...)
+* Ruby >= 1.9.x
+* jekyll (gem install...) >= 1.x
 * pygments (pip install...)
 
 License
