@@ -7,8 +7,19 @@ CWD = File.dirname(__FILE__)
 task :default => [:devserver]
 
 
+desc "Check for conditions that would silently corrupt output"
+task :check_dependencies do
+    sh "python -c 'import pygments'" do |ok, res|
+        if ! ok
+            puts red("Pygments not found, please `pip install pygments`!")
+            exit a
+        end
+    end
+end
+
+
 desc "Run Jekyll development server"
-task :devserver do
+task :devserver => [:check_dependencies] do
     Dir.chdir("#{CWD}/site") do
         sh "jekyll serve --watch --limit_posts 10 --future --trace"
     end
@@ -16,7 +27,7 @@ end
 
 
 desc "Generate the entire blog output directory"
-task :generate do
+task :generate => [:check_dependencies] do
     Dir.chdir("#{CWD}/site") do
         sh "jekyll build"
     end
@@ -53,7 +64,7 @@ task :new, :title do |t, args|
 
     Dir.chdir("#{CWD}/site/_posts") do
         if File.exists?(newfile)
-            $stderr.puts "Oh noes, #{newfile} already exists. Start that article first?"
+            $stderr.puts red("Oh noes, #{newfile} already exists. Start that article first?")
             exit 1
         end
 
@@ -61,7 +72,7 @@ task :new, :title do |t, args|
             f.write(File.open('_template.md').read.sub(/%title/, args.title || ''))
         end
 
-        puts "Created #{newfile}. Start blogging!"
+        puts green("Created #{newfile}. Start blogging!")
     end
 end
 
@@ -72,7 +83,7 @@ task :today do
     Dir.chdir("#{CWD}/site/_posts") do
         posts = Dir.glob('[1-9]*.md').select {|f| Date.parse(f[0, 10]) > d}
         if posts.empty?
-            $stderr.puts "No future posts found!"
+            $stderr.puts red("No future posts found!")
             exit 0
         end
 
@@ -81,20 +92,28 @@ task :today do
             puts "- #{p}"
         end
         if !check?
-            puts "Fine. Nothing happened."
+            puts green("Fine. Nothing happened.")
             exit 0
         end
 
         posts.each do |p|
             mv p, "#{d}#{p[10..-1]}"
         end
-        puts "Done!"
+        puts green("Done!")
     end
 end
 
 
 # *** Helper functions ***
 # Create a URL slug from the title
+
+# Colorize command line output.
+def colorize(text, color_code)
+    "\033[#{color_code}m#{text}\033[0m"
+end
+def red(text); colorize(text, 31); end
+def green(text); colorize(text, 32); end
+
 def slugify(title)
     str = title.dup
     str.gsub!(/[^a-zA-Z0-9 ]/,"")
@@ -105,7 +124,7 @@ def slugify(title)
 end
 
 def check?
-    puts "Do you want to continue? (y/n)"
+    puts green("Do you want to continue?") + " (y/n)"
     input = $stdin.gets.chomp
     input == 'y'
 end
