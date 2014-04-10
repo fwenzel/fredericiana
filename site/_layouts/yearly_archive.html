@@ -1,17 +1,7 @@
 ---
-layout: base
-bodyclass: tags
-robots: noarchive
+layout: archive
+image:
+  feature: abstract-1.jpg
+  credit: dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
-<div class="inner group">
-  <section id="main_content" class="post">
-    <h1>Posts for the year {{ page.year }}{% if paginator.page > 1 %} - Page {{ paginator.page }}{% endif %}</h1>
-    <ul>
-      {% for post in page.posts %}
-        {% include archive_post.html %}
-      {% endfor %}
-    </ul>
-
-    {% if paginator %}{% include paginator.html %}{% endif %}
-  </section>
-</div>

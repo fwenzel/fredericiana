@@ -1,0 +1,8 @@
+---
+layout: post-index
+---
+{% for post in page.posts %}
+  {% include archive_post.html %}
+{% endfor %}
+
+{% if paginator %}{% include paginator.html %}{% endif %}

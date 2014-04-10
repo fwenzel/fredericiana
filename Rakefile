@@ -21,7 +21,7 @@ end
 desc "Run Jekyll development server"
 task :devserver => [:check_dependencies] do
     Dir.chdir("#{CWD}/site") do
-        sh "jekyll serve --watch --limit_posts 10 --future --trace"
+        sh "jekyll serve --config _config.yml,_config_dev.yml --watch --limit_posts 10 --future --trace"
     end
 end
 

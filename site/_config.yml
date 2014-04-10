@@ -1,6 +1,15 @@
-name: fredericiana
-description: open source, the web, and german-american oddities
+title: fredericiana
+disqus_shortname: fredericiana
 url: http://fredericiana.com
+
+owner:
+    name: Fred Wenzel
+    avatar: avatar.jpg
+    bio: Fred is an engineering manager at Mozilla. <em>fredericiana</em> is his blog about the things he encounters runs across between American West Coast and southern Germany.
+    twitter: fwenzel
+    facebook: fwenzel
+    github: fwenzel
+    flickr: freeed
 
 pygments: true
 markdown: rdiscount
@@ -8,5 +17,8 @@ rdiscount:
   extensions: [ footnotes ]
 permalink: /:year/:month/:day/:title/
 paginate: 10
+paginate_path: page/:num
+
+background: furley_bg.png
 
 analytics: UA-291336-2

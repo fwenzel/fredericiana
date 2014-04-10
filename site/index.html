@@ -1,33 +1,13 @@
 ---
-layout: base
-title: ""
-bodyclass: index
-search: true
+layout: post-index
+#title: open source, the web, and german-american oddities
+description: open source, the web, and german-american oddities
+tags: [opensource, web]
+image:
+  feature: palmtree.jpg
+baseurl: /
 ---
-<section class="inner">
-  <p><img src="images/flintstone.jpg" alt="Fred Flintstone" class="portrait"><strong>Fred Wenzel</strong> manages the Developer Ecosystem team at <a href="http://mozilla.org">Mozilla</a>. <em>fredericiana</em> is his blog about the things he runs across between American West Coast and southern Germany.</p>
-  <p>Fred may be slightly less famous than his prehistoric namesake, but he's also significantly less likely to be eaten by a saber-toothed tiger. So we'll call this one a draw.</p>
 
-  <section id="posts">
-    <h1>Posts</h1>
-    <ul class="posts">
-      {% for post in site.posts limit:4 %}
-        {% include archive_post.html %}
-      {% endfor %}
-    </ul>
-  </section>
-
-  <section id="archives">
-    <h1>Post archives</h1>
-    <p>
-      {% for year in site.years %}
-        <a href="/{{ year }}/" title="See all posts in {{ year }}">{{ year }}</a>
-      {% endfor %}
-    </p>
-  </section>
-
-  <section id="elsewhere">
-    <h1>elsewhere on the net</h1>
-    {% include elsewhere.html %}
-  </section>
-</section>
+{% for post in paginator.posts %}
+  {% include archive_post.html %}
+{% endfor %}

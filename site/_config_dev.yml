@@ -1,0 +1,3 @@
+# Config file for development
+url: http://localhost:4000
+paginate: 3
