@@ -14,6 +14,7 @@ The following directories and their contents are Copyright Fred Wenzel.
 You may not reuse anything therein without my permission:
 
 * _posts/
+* images/
 * media/
 
 All other directories and files are BSD-licensed. For more information,
