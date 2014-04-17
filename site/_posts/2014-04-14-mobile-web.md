@@ -47,12 +47,8 @@ Will it suffice if all those services run on closed platforms, just so long as t
 [^browser]: Or the platform *is* the browser engine, as is the case with Firefox OS.
 
 ## Time for more, not less openness
-This is, in a nutshell, why Firefox OS is such an important project. It's **not** yet another proprietary mobile app platform. In Firefox OS, the Web *is* the platform. 
+This is, in a nutshell, why Firefox OS is such an important project. It's **not** yet another proprietary mobile app platform. **In Firefox OS, the open Web is the platform.**
 
-Firefox OS is about weaving the open Web into the very fabric of the mobile landscape. 
+Firefox OS is about weaving the open Web into the very fabric of the mobile landscape. It's about enabling the next generation of makers to hack their devices to their heart's content. It's about providing users with a platform that fosters actual innovation rather than giving them the *illusion* of choice.
 
-It's about enabling the next generation of makers to hack their devices to their heart's content.
-
-It's about providing users with a platform that fosters actual innovation rather than the *illusion* of choice.
-
-It's about the user.
+And that's a user experience worth fighting for.
