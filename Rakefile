@@ -73,6 +73,11 @@ task :new, :title do |t, args|
         end
 
         puts green("Created #{newfile}. Start blogging!")
+
+        # If we're on OS X, open this thing.
+        if RUBY_PLATFORM.split('-')[1].start_with?('darwin')
+            sh "open #{newfile}"
+        end
     end
 end
 
