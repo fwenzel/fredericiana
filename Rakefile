@@ -4,7 +4,7 @@ require 'date'
 
 CWD = File.dirname(__FILE__)
 
-task :default => [:devserver]
+task :default => [:help]
 
 
 desc "Check for conditions that would silently corrupt output"
@@ -104,8 +104,15 @@ task :today do
 end
 
 
+# "Show all valid tasks."
+# (Without desc directive, won't show up in the list itself.)
+task :help do
+    verbose(false)
+    sh "rake -T"
+end
+
 # *** Helper functions ***
-# Create a URL slug from the title
+
 
 # Colorize command line output.
 def colorize(text, color_code)
@@ -114,6 +121,7 @@ end
 def red(text); colorize(text, 31); end
 def green(text); colorize(text, 32); end
 
+# Create a URL slug from the title
 def slugify(title)
     str = title.dup
     str.gsub!(/[^a-zA-Z0-9 ]/,"")
