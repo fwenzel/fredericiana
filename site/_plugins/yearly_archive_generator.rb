@@ -23,7 +23,7 @@ Missing file:
     end
 
     def data
-      super.deep_merge({
+      Utils.deep_merge_hashes(super, {
         "year" => @year,
         "title" => @year.to_s,
       })

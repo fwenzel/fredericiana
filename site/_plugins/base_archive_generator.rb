@@ -9,8 +9,12 @@ module Jekyll
       @dir = ''
       @url = @baseurl  # URL without pagination
 
-      @name = "#{@url}index.html"
+      @name = 'index.html'
+      @base = "#{@url}#{@name}"
+
       halt_on_layout_error unless layout_available?
+
+      super @site, @base, @dir, @name
     end
 
     def to_liquid
@@ -74,9 +78,9 @@ module Jekyll
       if site.config['paginate'].nil?
         site.pages << pageclass.new(site, all_posts, *pageargs)
       else
-        pages = Pager.calculate_pages(all_posts, site.config['paginate'].to_i)
+        pages = Paginate::Pager.calculate_pages(all_posts, site.config['paginate'].to_i)
         all_posts.each_slice(@site.config['paginate']).with_index do |slice, i|
-          pager = Pager.new(site, i + 1, all_posts, pages)
+          pager = Paginate::Pager.new(site, i + 1, all_posts, pages)
 
           newpage = pageclass.new(site, slice, *pageargs)
           newpage.add_pager(pager)

@@ -21,7 +21,7 @@ Missing file:
     end
 
     def data
-      super.deep_merge({
+      Utils.deep_merge_hashes(super, {
         "tag" => @tag,
         "title" => "Posts tagged \"#{@tag}\"",
         "feedurl" => @baseurl + 'feed/'
