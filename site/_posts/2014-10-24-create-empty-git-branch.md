@@ -18,10 +18,7 @@ git clone --orphan gh-pages
 
 This won't remove any files in your current working directory (though, all of them will be "new" to this branch). Remove them by resetting the working directory **after you check you're truly on the right branch**:
 
-```
-git branch  # Better safe than sorry
-
-git reset --hard
-```
+	git branch  # Better safe than sorry
+	git reset --hard
 
 Easy.
