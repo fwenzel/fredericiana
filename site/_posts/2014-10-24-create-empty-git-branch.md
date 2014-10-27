@@ -20,6 +20,7 @@ This won't remove any files in your current working directory (though, all of th
 
 ```
 git branch  # Better safe than sorry
+
 git reset --hard
 ```
 
