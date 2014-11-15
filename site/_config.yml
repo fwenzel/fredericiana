@@ -12,7 +12,7 @@ owner:
     flickr: freeed
 
 highlighter: pygments
-markdown: kramdown
+markdown: redcarpet
 rdiscount:
   extensions: [ footnotes ]
 permalink: /:year/:month/:day/:title/
