@@ -12,7 +12,7 @@ If you particularly liked a blog post of mine and want to "tip" me for it, you c
 
 Why?
 
-I've long been a fan of **micropayments** on the Internet. Like dropping a few coins into a musician's hat, while it's not singlehandedly going to feed him or her, but it **shows appreciation**, and in aggregate, it makes a difference.
+I've long been a fan of **micropayments** on the Internet. Like dropping a few coins into a musician's hat, it's not singlehandedly going to feed him or her, but it **shows appreciation**, and in aggregate, it makes a difference.
 
 ## Tipping is not a Checkout process
 
