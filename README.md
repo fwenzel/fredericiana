@@ -26,6 +26,9 @@ Thanks
 ------
 * The background patterns are from [subtlepatterns][subtlepatterns].
 * The XML feeds are derived from snaptortoise's [jekyll-rss-feeds][jekyll-rss].
+* Face and coffee cup for the "tip me" functionality are from [Sarfaz Shoukat][sarfaz] and [Shlyapnikova][shly], respectively.
 
 [subtlepatterns]: http://subtlepatterns.com
 [jekyll-rss]: https://github.com/snaptortoise/jekyll-rss-feeds
+[sarfaz]: http://www.greepit.com/
+[shly]: http://shlyapnikova.deviantart.com/

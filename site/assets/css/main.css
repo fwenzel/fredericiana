@@ -1,4 +1,4 @@
-/*! 
+/*!
 // ===========================================================
 // HPSTR Jekyll Theme
 // By: Michael Rose
@@ -1617,10 +1617,10 @@ svg:not(:root) {
   display: none;
 }
 
-/* 
+/*
 When a submenu is openend, we will hide all li siblings.
 For that we give a class to the parent menu called "dl-subview".
-We also hide the submenu link. 
+We also hide the submenu link.
 The opened submenu will get the class "dl-subviewopen".
 All this is done for any sub-level being entered.
 */
@@ -3861,7 +3861,7 @@ body {
 }
 
 @media only screen and (min-width: 62.5em) {
-  
+
 }
 
 .feature .header-title h2 {
@@ -4042,7 +4042,7 @@ body {
 #page #disqus_thread {
   padding: 10px 15px;
   margin: 40px 2px 20px 2px;
-  background-color: #ffffff;
+  background-color: #fff;
   -webkit-border-radius: 3px;
      -moz-border-radius: 3px;
           border-radius: 3px;
@@ -4316,6 +4316,22 @@ body {
 .socialcount p > a,
 .socialcount li > a {
   border-bottom-width: 0;
+}
+
+#tipme {
+  margin-top: 0;
+}
+
+#tipme > div {
+  background: url(/images/tipme.png) transparent no-repeat left center;
+  color: #000;
+  font-size: 1.2;
+  padding-left: 6em;
+  text-align: left;
+}
+
+#tipme .what {
+  white-space: nowrap;
 }
 
 .upgrade {
