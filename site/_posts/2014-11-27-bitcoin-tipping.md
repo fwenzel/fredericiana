@@ -26,7 +26,7 @@ As long as both parties have a bitcoin "wallet", they can transfer even small am
 
 ## Bitcoin Tipping Services
 
-Tipping with Bitcoin does not require a facilitating service or special button. I could give you [my bitcoin address](bitcoin:15LThbTyyLyasUb3mXgKj2oNEQh7SjBWXk) (a long string) and you could send me what you like without any other information.
+Tipping with Bitcoin does not require a facilitating service or special button. I could give you [my bitcoin address](bitcoin:1LeThZipQsLsBpjxmNDCwh3gfoBasGQiyr) (a long string) and you could send me what you like without any other information.
 
 Of course, for convenience, there are already a number of servies on the Internet trying to simplify tipping with Bitcoin:
 
