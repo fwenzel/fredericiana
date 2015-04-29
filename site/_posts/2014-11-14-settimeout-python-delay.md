@@ -43,7 +43,7 @@ def my_func(arg1, arg2):
 	print arg1, arg2
 	
 if __name__ == '__main__':
-	my_func()
+	my_func('Hello', 'world')
 ```
 
 My future self will find this blog post very helpful when the problem comes up next, I hope so will you.
